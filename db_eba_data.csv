@@ -1,0 +1,2467 @@
+Country,Segment,Date,observed_default_rate,observed_loss_rate,estimated_pd,estimated_lgd
+Austria,Corporates,Mar-22,0.38%,30.44%,1.37%,34.13%
+Austria,Corporates - Of Which: Specialised Lending,Mar-22,,,1.15%,19.19%
+Austria,Corporates - Of Which: SME,Mar-22,0.72%,,2.74%,28.87%
+Austria,Retail,Mar-22,0.50%,25.77%,1.48%,29.32%
+Austria,Retail - Secured on real estate property,Mar-22,0.36%,7.27%,1.28%,15.53%
+Austria,Retail - Qualifying Revolving,Mar-22,0.60%,52.83%,1.86%,85.43%
+Austria,Retail - Other Retail,Mar-22,0.81%,38.10%,2.08%,50.68%
+Belgium,Corporates,Mar-22,1.31%,18.51%,2.29%,27.16%
+Belgium,Corporates - Of Which: Specialised Lending,Mar-22,2.78%,,1.24%,22.04%
+Belgium,Corporates - Of Which: SME,Mar-22,1.29%,16.14%,2.65%,25.33%
+Belgium,Retail,Mar-22,0.66%,11.63%,0.98%,16.95%
+Belgium,Retail - Secured on real estate property,Mar-22,0.54%,4.59%,0.88%,13.47%
+Belgium,Retail - Qualifying Revolving,Mar-22,1.10%,21.47%,0.75%,50.06%
+Belgium,Retail - Other Retail,Mar-22,1.12%,25.69%,1.56%,31.38%
+Bulgaria,Corporates,Mar-22,4.62%,,1.98%,27.83%
+Bulgaria,Corporates - Of Which: Specialised Lending,Mar-22,,,1.44%,37.19%
+Bulgaria,Corporates - Of Which: SME,Mar-22,7.48%,,3.37%,24.85%
+Bulgaria,Retail,Mar-22,3.62%,68.64%,2.04%,23.86%
+Bulgaria,Retail - Secured on real estate property,Mar-22,3.05%,61.19%,1.42%,18.33%
+Bulgaria,Retail - Qualifying Revolving,Mar-22,2.71%,95.67%,3.53%,17.81%
+Bulgaria,Retail - Other Retail,Mar-22,5.28%,76.16%,3.87%,41.48%
+Croatia,Corporates,Mar-22,0.51%,,4.14%,41.34%
+Croatia,Corporates - Of Which: Specialised Lending,Mar-22,,,0.87%,19.74%
+Croatia,Corporates - Of Which: SME,Mar-22,,,5.35%,41.56%
+Croatia,Retail,Mar-22,0.59%,14.60%,2.25%,42.28%
+Croatia,Retail - Secured on real estate property,Mar-22,0.20%,,1.60%,33.33%
+Croatia,Retail - Qualifying Revolving,Mar-22,1.68%,44.90%,2.36%,62.38%
+Croatia,Retail - Other Retail,Mar-22,0.83%,14.52%,2.69%,47.92%
+Cyprus,Corporates,Mar-22,4.38%,,6.80%,26.75%
+Cyprus,Corporates - Of Which: Specialised Lending,Mar-22,,,17.70%,27.19%
+Cyprus,Corporates - Of Which: SME,Mar-22,,,0.69%,11.16%
+Cyprus,Retail,Mar-22,0.30%,60.79%,0.90%,29.96%
+Cyprus,Retail - Secured on real estate property,Mar-22,,,0.65%,15.04%
+Cyprus,Retail - Qualifying Revolving,Mar-22,,,1.14%,61.58%
+Cyprus,Retail - Other Retail,Mar-22,0.56%,63.52%,0.96%,32.80%
+Czech,Corporates,Mar-22,0.67%,42.62%,2.25%,32.98%
+Czech,Corporates - Of Which: Specialised Lending,Mar-22,0.21%,,1.63%,27.67%
+Czech,Corporates - Of Which: SME,Mar-22,1.23%,41.84%,3.23%,32.11%
+Czech,Retail,Mar-22,0.60%,36.26%,1.21%,25.89%
+Czech,Retail - Secured on real estate property,Mar-22,0.38%,21.09%,0.93%,20.23%
+Czech,Retail - Qualifying Revolving,Mar-22,0.39%,48.80%,1.45%,54.88%
+Czech,Retail - Other Retail,Mar-22,1.19%,48.32%,2.07%,40.47%
+Denmark,Corporates,Mar-22,0.47%,17.30%,0.88%,22.36%
+Denmark,Corporates - Of Which: Specialised Lending,Mar-22,,,1.10%,21.21%
+Denmark,Corporates - Of Which: SME,Mar-22,0.39%,17.02%,1.57%,19.47%
+Denmark,Retail,Mar-22,0.56%,13.52%,0.95%,17.15%
+Denmark,Retail - Secured on real estate property,Mar-22,0.54%,9.62%,0.89%,15.21%
+Denmark,Retail - Qualifying Revolving,Mar-22,1.32%,34.35%,1.55%,62.82%
+Denmark,Retail - Other Retail,Mar-22,0.78%,37.03%,2.10%,41.93%
+Estonia,Corporates,Mar-22,0.72%,30.55%,1.72%,42.59%
+Estonia,Corporates - Of Which: Specialised Lending,Mar-22,,,1.62%,35.06%
+Estonia,Corporates - Of Which: SME,Mar-22,,,1.88%,40.58%
+Estonia,Retail,Mar-22,0.39%,29.95%,1.47%,16.01%
+Estonia,Retail - Secured on real estate property,Mar-22,0.38%,29.82%,1.17%,13.06%
+Estonia,Retail - Qualifying Revolving,Mar-22,,,2.12%,62.49%
+Estonia,Retail - Other Retail,Mar-22,0.43%,31.98%,2.76%,29.27%
+Finland,Corporates,Mar-22,0.83%,,1.07%,35.33%
+Finland,Corporates - Of Which: Specialised Lending,Mar-22,,,0.66%,28.94%
+Finland,Corporates - Of Which: SME,Mar-22,1.16%,,1.64%,32.05%
+Finland,Retail,Mar-22,0.92%,6.07%,1.33%,20.53%
+Finland,Retail - Secured on real estate property,Mar-22,0.85%,5.21%,0.97%,16.76%
+Finland,Retail - Qualifying Revolving,Mar-22,0.57%,51.12%,1.72%,63.51%
+Finland,Retail - Other Retail,Mar-22,1.12%,9.82%,3.03%,33.42%
+France,Corporates,Mar-22,0.57%,21.28%,1.56%,35.13%
+France,Corporates - Of Which: Specialised Lending,Mar-22,0.47%,,1.29%,21.27%
+France,Corporates - Of Which: SME,Mar-22,1.30%,23.43%,2.46%,34.97%
+France,Retail,Mar-22,0.50%,22.49%,1.37%,18.24%
+France,Retail - Secured on real estate property,Mar-22,0.27%,10.98%,1.03%,13.81%
+France,Retail - Qualifying Revolving,Mar-22,0.94%,39.74%,2.61%,34.36%
+France,Retail - Other Retail,Mar-22,0.92%,27.23%,1.73%,24.30%
+Germany,Corporates,Mar-22,0.47%,27.59%,0.84%,36.77%
+Germany,Corporates - Of Which: Specialised Lending,Mar-22,0.69%,38.53%,0.85%,33.65%
+Germany,Corporates - Of Which: SME,Mar-22,0.72%,32.17%,1.04%,33.13%
+Germany,Retail,Mar-22,0.67%,25.06%,0.89%,27.74%
+Germany,Retail - Secured on real estate property,Mar-22,0.43%,9.55%,0.69%,18.21%
+Germany,Retail - Qualifying Revolving,Mar-22,0.44%,31.38%,1.13%,64.62%
+Germany,Retail - Other Retail,Mar-22,1.45%,37.18%,1.61%,45.99%
+Greece,Corporates,Mar-22,1.58%,,7.42%,40.12%
+Greece,Corporates - Of Which: Specialised Lending,Mar-22,,,2.72%,26.12%
+Greece,Corporates - Of Which: SME,Mar-22,,,15.49%,38.99%
+Greece,Retail,Mar-22,3.98%,31.97%,9.30%,25.99%
+Greece,Retail - Secured on real estate property,Mar-22,,,10.59%,14.01%
+Greece,Retail - Qualifying Revolving,Mar-22,1.34%,62.83%,3.73%,63.42%
+Greece,Retail - Other Retail,Mar-22,3.71%,47.58%,11.12%,35.78%
+Hungary,Corporates,Mar-22,0.86%,37.53%,1.69%,37.74%
+Hungary,Corporates - Of Which: Specialised Lending,Mar-22,,,1.66%,32.28%
+Hungary,Corporates - Of Which: SME,Mar-22,1.90%,42.47%,2.38%,38.46%
+Hungary,Retail,Mar-22,1.25%,59.15%,2.61%,43.42%
+Hungary,Retail - Secured on real estate property,Mar-22,1.25%,39.65%,1.74%,34.55%
+Hungary,Retail - Qualifying Revolving,Mar-22,4.86%,49.34%,3.58%,64.58%
+Hungary,Retail - Other Retail,Mar-22,2.95%,65.42%,4.82%,64.77%
+Ireland,Corporates,Mar-22,1.97%,14.26%,1.57%,27.90%
+Ireland,Corporates - Of Which: Specialised Lending,Mar-22,4.80%,,10.96%,27.32%
+Ireland,Corporates - Of Which: SME,Mar-22,2.69%,14.87%,4.42%,37.40%
+Ireland,Retail,Mar-22,1.23%,20.61%,1.72%,27.28%
+Ireland,Retail - Secured on real estate property,Mar-22,1.20%,19.88%,1.49%,24.68%
+Ireland,Retail - Qualifying Revolving,Mar-22,0.61%,24.84%,2.30%,59.52%
+Ireland,Retail - Other Retail,Mar-22,2.39%,26.14%,5.16%,59.97%
+Italy,Corporates,Mar-22,0.60%,26.68%,4.18%,35.94%
+Italy,Corporates - Of Which: Specialised Lending,Mar-22,,,1.81%,20.81%
+Italy,Corporates - Of Which: SME,Mar-22,1.17%,26.06%,8.64%,38.06%
+Italy,Retail,Mar-22,0.94%,29.29%,2.15%,25.40%
+Italy,Retail - Secured on real estate property,Mar-22,0.68%,19.28%,1.50%,19.08%
+Italy,Retail - Qualifying Revolving,Mar-22,0.37%,34.35%,3.56%,59.39%
+Italy,Retail - Other Retail,Mar-22,1.41%,37.27%,4.22%,37.67%
+Latvia,Corporates,Mar-22,,,1.53%,41.55%
+Latvia,Corporates - Of Which: Specialised Lending,Mar-22,,,,
+Latvia,Corporates - Of Which: SME,Mar-22,,,2.25%,38.31%
+Latvia,Retail,Mar-22,0.99%,38.17%,2.59%,25.92%
+Latvia,Retail - Secured on real estate property,Mar-22,1.10%,36.48%,2.05%,20.45%
+Latvia,Retail - Qualifying Revolving,Mar-22,,,5.47%,66.08%
+Latvia,Retail - Other Retail,Mar-22,0.67%,46.10%,4.23%,43.16%
+Lithuania,Corporates,Mar-22,,,1.27%,41.77%
+Lithuania,Corporates - Of Which: Specialised Lending,Mar-22,,,,
+Lithuania,Corporates - Of Which: SME,Mar-22,,,2.46%,39.76%
+Lithuania,Retail,Mar-22,0.62%,37.48%,1.48%,18.75%
+Lithuania,Retail - Secured on real estate property,Mar-22,0.67%,37.78%,1.22%,15.86%
+Lithuania,Retail - Qualifying Revolving,Mar-22,3.30%,,3.72%,65.11%
+Lithuania,Retail - Other Retail,Mar-22,0.35%,34.29%,3.00%,36.07%
+Luxembourg,Corporates,Mar-22,0.53%,6.38%,1.38%,31.12%
+Luxembourg,Corporates - Of Which: Specialised Lending,Mar-22,0.54%,,0.97%,25.45%
+Luxembourg,Corporates - Of Which: SME,Mar-22,0.28%,,2.11%,31.04%
+Luxembourg,Retail,Mar-22,0.33%,12.88%,0.99%,16.22%
+Luxembourg,Retail - Secured on real estate property,Mar-22,0.17%,3.52%,0.86%,15.08%
+Luxembourg,Retail - Qualifying Revolving,Mar-22,2.01%,38.50%,2.92%,53.01%
+Luxembourg,Retail - Other Retail,Mar-22,1.21%,19.41%,1.86%,21.49%
+Malta,Corporates,Mar-22,,,3.11%,20.96%
+Malta,Corporates - Of Which: Specialised Lending,Mar-22,,,4.26%,15.39%
+Malta,Corporates - Of Which: SME,Mar-22,,,1.34%,25.63%
+Malta,Retail,Mar-22,0.98%,20.35%,1.15%,23.43%
+Malta,Retail - Secured on real estate property,Mar-22,7.58%,,1.26%,17.07%
+Malta,Retail - Qualifying Revolving,Mar-22,5.39%,,3.01%,54.89%
+Malta,Retail - Other Retail,Mar-22,1.00%,45.68%,0.95%,22.95%
+Netherlands,Corporates,Mar-22,0.85%,11.16%,1.11%,26.90%
+Netherlands,Corporates - Of Which: Specialised Lending,Mar-22,0.48%,,1.49%,14.94%
+Netherlands,Corporates - Of Which: SME,Mar-22,1.40%,10.93%,2.35%,20.30%
+Netherlands,Retail,Mar-22,0.52%,7.73%,0.70%,12.53%
+Netherlands,Retail - Secured on real estate property,Mar-22,0.47%,4.49%,0.64%,11.33%
+Netherlands,Retail - Qualifying Revolving,Mar-22,0.95%,49.50%,1.94%,43.68%
+Netherlands,Retail - Other Retail,Mar-22,1.62%,27.66%,2.25%,42.18%
+Norway,Corporates,Mar-22,0.22%,,1.02%,26.98%
+Norway,Corporates - Of Which: Specialised Lending,Mar-22,,,1.69%,21.26%
+Norway,Corporates - Of Which: SME,Mar-22,0.14%,,1.33%,22.91%
+Norway,Retail,Mar-22,0.26%,21.39%,0.87%,21.65%
+Norway,Retail - Secured on real estate property,Mar-22,0.18%,7.25%,0.61%,19.68%
+Norway,Retail - Qualifying Revolving,Mar-22,1.18%,52.60%,1.50%,64.60%
+Norway,Retail - Other Retail,Mar-22,0.55%,32.16%,2.12%,30.23%
+Poland,Corporates,Mar-22,0.54%,27.61%,1.38%,34.18%
+Poland,Corporates - Of Which: Specialised Lending,Mar-22,,,0.75%,26.86%
+Poland,Corporates - Of Which: SME,Mar-22,0.84%,,2.46%,29.36%
+Poland,Retail,Mar-22,1.54%,39.48%,1.56%,43.11%
+Poland,Retail - Secured on real estate property,Mar-22,0.87%,24.08%,0.70%,35.53%
+Poland,Retail - Qualifying Revolving,Mar-22,1.37%,43.44%,2.86%,73.36%
+Poland,Retail - Other Retail,Mar-22,3.07%,49.00%,3.63%,57.04%
+Portugal,Corporates,Mar-22,2.20%,31.96%,3.96%,39.46%
+Portugal,Corporates - Of Which: Specialised Lending,Mar-22,,,1.61%,30.85%
+Portugal,Corporates - Of Which: SME,Mar-22,2.64%,29.57%,7.14%,39.92%
+Portugal,Retail,Mar-22,0.83%,21.63%,1.40%,20.53%
+Portugal,Retail - Secured on real estate property,Mar-22,0.45%,6.84%,1.06%,17.75%
+Portugal,Retail - Qualifying Revolving,Mar-22,0.74%,34.11%,4.67%,38.03%
+Portugal,Retail - Other Retail,Mar-22,2.21%,32.68%,3.67%,32.72%
+Romania,Corporates,Mar-22,0.48%,57.05%,2.19%,42.63%
+Romania,Corporates - Of Which: Specialised Lending,Mar-22,,,1.10%,39.93%
+Romania,Corporates - Of Which: SME,Mar-22,1.23%,,3.84%,40.54%
+Romania,Retail,Mar-22,1.67%,59.24%,2.46%,49.06%
+Romania,Retail - Secured on real estate property,Mar-22,0.58%,,1.70%,38.25%
+Romania,Retail - Qualifying Revolving,Mar-22,1.18%,64.72%,2.00%,49.06%
+Romania,Retail - Other Retail,Mar-22,3.13%,62.57%,2.89%,58.75%
+Slovakia,Corporates,Mar-22,0.61%,32.09%,2.33%,38.69%
+Slovakia,Corporates - Of Which: Specialised Lending,Mar-22,,,10.32%,36.21%
+Slovakia,Corporates - Of Which: SME,Mar-22,1.08%,40.91%,3.47%,41.10%
+Slovakia,Retail,Mar-22,0.30%,46.94%,1.09%,23.39%
+Slovakia,Retail - Secured on real estate property,Mar-22,0.24%,33.93%,0.87%,20.86%
+Slovakia,Retail - Qualifying Revolving,Mar-22,0.61%,55.43%,2.17%,55.80%
+Slovakia,Retail - Other Retail,Mar-22,1.18%,62.98%,3.15%,42.91%
+Slovenia,Corporates,Mar-22,0.02%,,1.54%,39.97%
+Slovenia,Corporates - Of Which: Specialised Lending,Mar-22,,,,
+Slovenia,Corporates - Of Which: SME,Mar-22,,,3.76%,38.81%
+Slovenia,Retail,Mar-22,2.16%,75.81%,2.86%,34.33%
+Slovenia,Retail - Secured on real estate property,Mar-22,,,2.55%,20.78%
+Slovenia,Retail - Qualifying Revolving,Mar-22,9.03%,,2.04%,65.70%
+Slovenia,Retail - Other Retail,Mar-22,1.19%,39.54%,3.13%,44.97%
+Spain,Corporates,Mar-22,3.23%,19.72%,2.25%,40.62%
+Spain,Corporates - Of Which: Specialised Lending,Mar-22,8.81%,42.56%,1.31%,21.85%
+Spain,Corporates - Of Which: SME,Mar-22,4.25%,22.70%,4.19%,39.39%
+Spain,Retail,Mar-22,2.09%,26.16%,1.84%,29.68%
+Spain,Retail - Secured on real estate property,Mar-22,1.93%,17.77%,1.34%,21.39%
+Spain,Retail - Qualifying Revolving,Mar-22,0.82%,54.27%,2.62%,62.76%
+Spain,Retail - Other Retail,Mar-22,3.58%,37.96%,3.85%,51.82%
+Sweden,Corporates,Mar-22,0.13%,20.25%,0.62%,25.17%
+Sweden,Corporates - Of Which: Specialised Lending,Mar-22,,,1.52%,28.63%
+Sweden,Corporates - Of Which: SME,Mar-22,0.17%,13.73%,0.68%,18.02%
+Sweden,Retail,Mar-22,0.12%,14.24%,0.32%,12.37%
+Sweden,Retail - Secured on real estate property,Mar-22,0.08%,5.31%,0.25%,10.67%
+Sweden,Retail - Qualifying Revolving,Mar-22,0.90%,53.45%,1.60%,64.62%
+Sweden,Retail - Other Retail,Mar-22,0.59%,30.02%,1.35%,35.65%
+United Kingdom,Corporates,Mar-22,1.20%,28.20%,1.02%,34.90%
+United Kingdom,Corporates - Of Which: Specialised Lending,Mar-22,2.21%,,1.95%,25.26%
+United Kingdom,Corporates - Of Which: SME,Mar-22,8.58%,39.53%,3.35%,29.71%
+United Kingdom,Retail,Mar-22,2.98%,7.00%,2.60%,11.71%
+United Kingdom,Retail - Secured on real estate property,Mar-22,3.13%,5.22%,2.63%,8.00%
+United Kingdom,Retail - Qualifying Revolving,Mar-22,1.23%,50.41%,2.06%,71.26%
+United Kingdom,Retail - Other Retail,Mar-22,1.57%,62.22%,2.55%,51.42%
+Australia,Corporates,Mar-22,0.24%,,1.33%,21.76%
+Australia,Corporates - Of Which: Specialised Lending,Mar-22,,,0.91%,16.00%
+Australia,Corporates - Of Which: SME,Mar-22,,,0.84%,9.72%
+Australia,Retail,Mar-22,0.77%,3.81%,0.48%,10.96%
+Australia,Retail - Secured on real estate property,Mar-22,0.74%,2.18%,0.42%,10.29%
+Australia,Retail - Qualifying Revolving,Mar-22,0.70%,54.57%,1.32%,59.59%
+Australia,Retail - Other Retail,Mar-22,2.05%,21.62%,2.25%,30.59%
+Canada,Corporates,Mar-22,,,0.89%,28.41%
+Canada,Corporates - Of Which: Specialised Lending,Mar-22,,,1.37%,24.30%
+Canada,Corporates - Of Which: SME,Mar-22,,,1.53%,21.03%
+Canada,Retail,Mar-22,1.44%,14.85%,2.17%,18.72%
+Canada,Retail - Secured on real estate property,Mar-22,2.02%,13.24%,0.98%,15.82%
+Canada,Retail - Qualifying Revolving,Mar-22,0.83%,29.78%,1.98%,52.89%
+Canada,Retail - Other Retail,Mar-22,1.60%,14.86%,2.43%,19.05%
+China,Corporates,Mar-22,,,0.82%,47.08%
+China,Corporates - Of Which: Specialised Lending,Mar-22,,,1.46%,31.93%
+China,Corporates - Of Which: SME,Mar-22,,,6.25%,38.97%
+China,Retail,Mar-22,0.72%,9.61%,0.64%,16.10%
+China,Retail - Secured on real estate property,Mar-22,0.20%,,0.72%,15.10%
+China,Retail - Qualifying Revolving,Mar-22,1.20%,50.80%,1.04%,55.82%
+China,Retail - Other Retail,Mar-22,1.01%,10.29%,0.93%,16.45%
+Hong Kong,Corporates,Mar-22,2.52%,,1.41%,32.93%
+Hong Kong,Corporates - Of Which: Specialised Lending,Mar-22,,,2.56%,18.28%
+Hong Kong,Corporates - Of Which: SME,Mar-22,,,3.45%,40.83%
+Hong Kong,Retail,Mar-22,0.15%,25.25%,0.49%,9.88%
+Hong Kong,Retail - Secured on real estate property,Mar-22,,,0.63%,15.71%
+Hong Kong,Retail - Qualifying Revolving,Mar-22,,,1.19%,50.26%
+Hong Kong,Retail - Other Retail,Mar-22,0.22%,81.75%,0.42%,6.50%
+India,Corporates,Mar-22,,,1.77%,38.89%
+India,Corporates - Of Which: Specialised Lending,Mar-22,,,1.98%,19.08%
+India,Corporates - Of Which: SME,Mar-22,,,3.70%,34.98%
+India,Retail,Mar-22,0.93%,47.63%,1.07%,33.20%
+India,Retail - Secured on real estate property,Mar-22,0.67%,,0.72%,18.81%
+India,Retail - Qualifying Revolving,Mar-22,3.90%,49.51%,2.28%,54.05%
+India,Retail - Other Retail,Mar-22,1.09%,60.27%,1.49%,45.05%
+"Korea, Republic Of",Corporates,Mar-22,,,0.39%,40.00%
+"Korea, Republic Of",Corporates - Of Which: Specialised Lending,Mar-22,,,0.59%,24.59%
+"Korea, Republic Of",Corporates - Of Which: SME,Mar-22,,,1.46%,39.79%
+"Korea, Republic Of",Retail,Mar-22,0.61%,,1.33%,43.81%
+"Korea, Republic Of",Retail - Secured on real estate property,Mar-22,,,0.40%,15.03%
+"Korea, Republic Of",Retail - Qualifying Revolving,Mar-22,,,0.66%,57.60%
+"Korea, Republic Of",Retail - Other Retail,Mar-22,0.60%,,1.36%,44.62%
+Russian Federation,Corporates,Mar-22,3.14%,21.73%,10.30%,39.50%
+Russian Federation,Corporates - Of Which: Specialised Lending,Mar-22,,,14.16%,30.55%
+Russian Federation,Corporates - Of Which: SME,Mar-22,,,3.52%,43.75%
+Russian Federation,Retail,Mar-22,10.03%,11.55%,2.47%,22.58%
+Russian Federation,Retail - Secured on real estate property,Mar-22,14.41%,11.20%,2.63%,21.63%
+Russian Federation,Retail - Qualifying Revolving,Mar-22,2.13%,37.57%,2.02%,60.83%
+Russian Federation,Retail - Other Retail,Mar-22,4.42%,21.67%,1.67%,19.15%
+Singapore,Corporates,Mar-22,1.40%,,1.18%,30.06%
+Singapore,Corporates - Of Which: Specialised Lending,Mar-22,,,1.71%,19.92%
+Singapore,Corporates - Of Which: SME,Mar-22,,,4.37%,28.57%
+Singapore,Retail,Mar-22,1.20%,9.39%,0.42%,11.63%
+Singapore,Retail - Secured on real estate property,Mar-22,,,0.60%,15.30%
+Singapore,Retail - Qualifying Revolving,Mar-22,,,0.91%,52.87%
+Singapore,Retail - Other Retail,Mar-22,0.06%,,0.32%,9.61%
+Switzerland,Corporates,Mar-22,0.79%,6.51%,1.51%,30.56%
+Switzerland,Corporates - Of Which: Specialised Lending,Mar-22,,,2.78%,21.78%
+Switzerland,Corporates - Of Which: SME,Mar-22,0.02%,,1.64%,27.93%
+Switzerland,Retail,Mar-22,0.61%,8.19%,0.73%,20.73%
+Switzerland,Retail - Secured on real estate property,Mar-22,0.32%,10.56%,0.74%,19.88%
+Switzerland,Retail - Qualifying Revolving,Mar-22,0.67%,33.49%,2.07%,52.56%
+Switzerland,Retail - Other Retail,Mar-22,2.44%,5.33%,1.03%,19.37%
+United States,Corporates,Mar-22,0.58%,20.82%,1.12%,27.54%
+United States,Corporates - Of Which: Specialised Lending,Mar-22,1.50%,12.26%,2.14%,20.51%
+United States,Corporates - Of Which: SME,Mar-22,0.65%,8.85%,2.31%,20.55%
+United States,Retail,Mar-22,2.69%,16.77%,2.04%,25.15%
+United States,Retail - Secured on real estate property,Mar-22,0.97%,10.53%,1.01%,16.40%
+United States,Retail - Qualifying Revolving,Mar-22,0.59%,31.77%,1.29%,58.53%
+United States,Retail - Other Retail,Mar-22,3.17%,16.97%,2.32%,27.00%
+Austria,Corporates,Dec-21,0.29%,28.07%,1.26%,34.37%
+Austria,Corporates - Of Which: Specialised Lending,Dec-21,,,0.97%,19.42%
+Austria,Corporates - Of Which: SME,Dec-21,0.83%,,2.48%,29.24%
+Austria,Retail,Dec-21,0.59%,26.36%,1.48%,29.29%
+Austria,Retail - Secured on real estate property,Dec-21,0.41%,6.85%,1.29%,15.44%
+Austria,Retail - Qualifying Revolving,Dec-21,0.70%,54.80%,1.88%,86.74%
+Austria,Retail - Other Retail,Dec-21,0.94%,38.53%,2.10%,50.74%
+Belgium,Corporates,Dec-21,1.34%,19.28%,2.26%,26.30%
+Belgium,Corporates - Of Which: Specialised Lending,Dec-21,,,1.12%,22.29%
+Belgium,Corporates - Of Which: SME,Dec-21,1.43%,15.90%,2.46%,24.21%
+Belgium,Retail,Dec-21,0.80%,9.47%,0.98%,16.85%
+Belgium,Retail - Secured on real estate property,Dec-21,0.71%,3.67%,0.88%,13.24%
+Belgium,Retail - Qualifying Revolving,Dec-21,1.17%,18.91%,0.74%,49.97%
+Belgium,Retail - Other Retail,Dec-21,1.18%,23.86%,1.53%,31.98%
+Bulgaria,Corporates,Dec-21,3.48%,,1.44%,27.70%
+Bulgaria,Corporates - Of Which: Specialised Lending,Dec-21,,,1.81%,28.26%
+Bulgaria,Corporates - Of Which: SME,Dec-21,6.06%,,2.55%,25.05%
+Bulgaria,Retail,Dec-21,3.08%,64.52%,2.11%,24.59%
+Bulgaria,Retail - Secured on real estate property,Dec-21,2.63%,57.20%,1.62%,18.41%
+Bulgaria,Retail - Qualifying Revolving,Dec-21,2.57%,93.58%,3.13%,32.53%
+Bulgaria,Retail - Other Retail,Dec-21,4.34%,70.89%,3.37%,40.67%
+Croatia,Corporates,Dec-21,0.41%,,4.31%,41.32%
+Croatia,Corporates - Of Which: Specialised Lending,Dec-21,,,1.14%,18.15%
+Croatia,Corporates - Of Which: SME,Dec-21,,,5.30%,41.37%
+Croatia,Retail,Dec-21,0.72%,14.71%,2.31%,42.48%
+Croatia,Retail - Secured on real estate property,Dec-21,0.32%,14.76%,1.60%,33.53%
+Croatia,Retail - Qualifying Revolving,Dec-21,1.74%,52.88%,2.10%,62.35%
+Croatia,Retail - Other Retail,Dec-21,0.95%,14.61%,2.78%,48.04%
+Cyprus,Corporates,Dec-21,0.95%,,2.61%,27.76%
+Cyprus,Corporates - Of Which: Specialised Lending,Dec-21,,,6.81%,22.49%
+Cyprus,Corporates - Of Which: SME,Dec-21,,,0.97%,11.28%
+Cyprus,Retail,Dec-21,0.40%,52.76%,1.06%,37.47%
+Cyprus,Retail - Secured on real estate property,Dec-21,,,0.88%,14.23%
+Cyprus,Retail - Qualifying Revolving,Dec-21,1.85%,,1.31%,62.03%
+Cyprus,Retail - Other Retail,Dec-21,0.80%,50.96%,1.13%,44.27%
+Czech,Corporates,Dec-21,0.55%,38.26%,2.44%,33.66%
+Czech,Corporates - Of Which: Specialised Lending,Dec-21,0.36%,34.87%,2.00%,26.93%
+Czech,Corporates - Of Which: SME,Dec-21,1.09%,39.98%,3.38%,31.94%
+Czech,Retail,Dec-21,0.57%,34.59%,1.22%,25.89%
+Czech,Retail - Secured on real estate property,Dec-21,0.36%,19.60%,0.91%,20.34%
+Czech,Retail - Qualifying Revolving,Dec-21,0.50%,56.80%,1.45%,54.78%
+Czech,Retail - Other Retail,Dec-21,1.17%,47.00%,2.10%,40.25%
+Denmark,Corporates,Dec-21,0.50%,19.53%,0.91%,22.29%
+Denmark,Corporates - Of Which: Specialised Lending,Dec-21,,,1.26%,21.78%
+Denmark,Corporates - Of Which: SME,Dec-21,0.25%,29.42%,1.41%,20.48%
+Denmark,Retail,Dec-21,0.60%,14.16%,0.82%,17.98%
+Denmark,Retail - Secured on real estate property,Dec-21,0.58%,10.38%,0.77%,15.85%
+Denmark,Retail - Qualifying Revolving,Dec-21,1.38%,31.82%,1.34%,62.21%
+Denmark,Retail - Other Retail,Dec-21,0.77%,43.68%,1.86%,43.37%
+Estonia,Corporates,Dec-21,0.69%,32.27%,1.90%,42.36%
+Estonia,Corporates - Of Which: Specialised Lending,Dec-21,,,1.13%,33.19%
+Estonia,Corporates - Of Which: SME,Dec-21,,,1.90%,40.51%
+Estonia,Retail,Dec-21,0.44%,29.65%,1.49%,16.18%
+Estonia,Retail - Secured on real estate property,Dec-21,0.43%,29.52%,1.21%,13.25%
+Estonia,Retail - Qualifying Revolving,Dec-21,1.55%,61.98%,2.19%,60.96%
+Estonia,Retail - Other Retail,Dec-21,0.43%,31.61%,2.75%,29.21%
+Finland,Corporates,Dec-21,1.39%,17.36%,0.98%,35.07%
+Finland,Corporates - Of Which: Specialised Lending,Dec-21,,,0.51%,27.73%
+Finland,Corporates - Of Which: SME,Dec-21,1.92%,,1.46%,31.80%
+Finland,Retail,Dec-21,1.26%,6.03%,1.36%,20.31%
+Finland,Retail - Secured on real estate property,Dec-21,1.19%,3.52%,1.00%,16.74%
+Finland,Retail - Qualifying Revolving,Dec-21,0.78%,56.47%,1.77%,63.54%
+Finland,Retail - Other Retail,Dec-21,1.59%,14.42%,3.10%,33.04%
+France,Corporates,Dec-21,0.64%,21.27%,1.57%,34.09%
+France,Corporates - Of Which: Specialised Lending,Dec-21,0.85%,11.95%,1.31%,21.21%
+France,Corporates - Of Which: SME,Dec-21,1.31%,23.49%,2.48%,34.48%
+France,Retail,Dec-21,0.47%,21.85%,1.35%,18.26%
+France,Retail - Secured on real estate property,Dec-21,0.27%,10.95%,1.02%,13.85%
+France,Retail - Qualifying Revolving,Dec-21,0.85%,40.83%,2.58%,34.52%
+France,Retail - Other Retail,Dec-21,0.85%,26.54%,1.71%,24.21%
+Germany,Corporates,Dec-21,0.45%,28.70%,0.85%,36.52%
+Germany,Corporates - Of Which: Specialised Lending,Dec-21,0.71%,18.99%,0.78%,33.01%
+Germany,Corporates - Of Which: SME,Dec-21,0.80%,32.18%,1.09%,32.89%
+Germany,Retail,Dec-21,0.67%,25.43%,0.88%,27.77%
+Germany,Retail - Secured on real estate property,Dec-21,0.43%,9.43%,0.69%,18.18%
+Germany,Retail - Qualifying Revolving,Dec-21,0.42%,31.43%,0.74%,64.25%
+Germany,Retail - Other Retail,Dec-21,1.48%,37.73%,1.66%,46.17%
+Greece,Corporates,Dec-21,1.56%,,6.88%,40.11%
+Greece,Corporates - Of Which: Specialised Lending,Dec-21,,,3.55%,24.69%
+Greece,Corporates - Of Which: SME,Dec-21,3.25%,,16.08%,38.90%
+Greece,Retail,Dec-21,7.57%,74.96%,8.28%,25.01%
+Greece,Retail - Secured on real estate property,Dec-21,9.66%,,9.55%,13.02%
+Greece,Retail - Qualifying Revolving,Dec-21,1.50%,83.29%,3.54%,63.24%
+Greece,Retail - Other Retail,Dec-21,7.05%,94.47%,10.09%,34.82%
+Hungary,Corporates,Dec-21,0.69%,34.62%,1.83%,37.53%
+Hungary,Corporates - Of Which: Specialised Lending,Dec-21,,,3.37%,31.47%
+Hungary,Corporates - Of Which: SME,Dec-21,1.09%,32.08%,2.40%,38.66%
+Hungary,Retail,Dec-21,2.12%,56.52%,2.64%,43.27%
+Hungary,Retail - Secured on real estate property,Dec-21,1.25%,26.93%,1.59%,34.28%
+Hungary,Retail - Qualifying Revolving,Dec-21,2.81%,51.95%,2.57%,63.63%
+Hungary,Retail - Other Retail,Dec-21,3.05%,62.07%,5.24%,64.86%
+Ireland,Corporates,Dec-21,1.99%,17.07%,1.53%,28.28%
+Ireland,Corporates - Of Which: Specialised Lending,Dec-21,,,10.19%,26.48%
+Ireland,Corporates - Of Which: SME,Dec-21,3.06%,15.60%,3.65%,37.03%
+Ireland,Retail,Dec-21,0.87%,16.92%,1.71%,27.46%
+Ireland,Retail - Secured on real estate property,Dec-21,0.79%,15.14%,1.50%,24.88%
+Ireland,Retail - Qualifying Revolving,Dec-21,0.54%,25.31%,2.11%,59.31%
+Ireland,Retail - Other Retail,Dec-21,2.54%,25.76%,5.17%,60.22%
+Italy,Corporates,Dec-21,0.67%,24.37%,4.41%,36.06%
+Italy,Corporates - Of Which: Specialised Lending,Dec-21,1.90%,,1.85%,20.20%
+Italy,Corporates - Of Which: SME,Dec-21,1.28%,25.30%,8.97%,38.40%
+Italy,Retail,Dec-21,1.12%,28.55%,2.13%,25.71%
+Italy,Retail - Secured on real estate property,Dec-21,0.98%,21.07%,1.52%,19.25%
+Italy,Retail - Qualifying Revolving,Dec-21,0.21%,36.89%,3.38%,59.67%
+Italy,Retail - Other Retail,Dec-21,1.41%,37.47%,4.20%,38.73%
+Latvia,Corporates,Dec-21,3.90%,,1.85%,41.65%
+Latvia,Corporates - Of Which: Specialised Lending,Dec-21,,,,
+Latvia,Corporates - Of Which: SME,Dec-21,,,2.13%,38.04%
+Latvia,Retail,Dec-21,1.06%,39.34%,2.62%,25.87%
+Latvia,Retail - Secured on real estate property,Dec-21,1.17%,36.73%,2.11%,20.38%
+Latvia,Retail - Qualifying Revolving,Dec-21,21.26%,65.57%,4.96%,65.77%
+Latvia,Retail - Other Retail,Dec-21,0.72%,51.18%,4.21%,43.17%
+Lithuania,Corporates,Dec-21,,,1.27%,41.68%
+Lithuania,Corporates - Of Which: Specialised Lending,Dec-21,,,,
+Lithuania,Corporates - Of Which: SME,Dec-21,,,2.28%,40.20%
+Lithuania,Retail,Dec-21,0.69%,37.33%,1.50%,18.75%
+Lithuania,Retail - Secured on real estate property,Dec-21,0.76%,37.20%,1.24%,15.86%
+Lithuania,Retail - Qualifying Revolving,Dec-21,4.53%,65.35%,3.22%,64.39%
+Lithuania,Retail - Other Retail,Dec-21,0.31%,39.37%,3.00%,36.24%
+Luxembourg,Corporates,Dec-21,0.47%,10.02%,1.43%,30.18%
+Luxembourg,Corporates - Of Which: Specialised Lending,Dec-21,0.65%,,0.91%,25.39%
+Luxembourg,Corporates - Of Which: SME,Dec-21,0.38%,31.47%,2.12%,28.40%
+Luxembourg,Retail,Dec-21,0.32%,12.47%,0.99%,16.31%
+Luxembourg,Retail - Secured on real estate property,Dec-21,0.17%,2.94%,0.86%,15.19%
+Luxembourg,Retail - Qualifying Revolving,Dec-21,1.69%,39.28%,2.71%,52.89%
+Luxembourg,Retail - Other Retail,Dec-21,1.23%,18.17%,1.86%,21.31%
+Malta,Corporates,Dec-21,0.00%,,2.29%,20.42%
+Malta,Corporates - Of Which: Specialised Lending,Dec-21,,,2.12%,13.50%
+Malta,Corporates - Of Which: SME,Dec-21,,,1.12%,25.07%
+Malta,Retail,Dec-21,0.17%,57.93%,1.27%,23.44%
+Malta,Retail - Secured on real estate property,Dec-21,,,1.41%,17.79%
+Malta,Retail - Qualifying Revolving,Dec-21,3.83%,,1.69%,55.61%
+Malta,Retail - Other Retail,Dec-21,0.09%,54.48%,1.25%,21.83%
+Netherlands,Corporates,Dec-21,0.89%,10.50%,1.13%,26.89%
+Netherlands,Corporates - Of Which: Specialised Lending,Dec-21,0.57%,,1.59%,14.70%
+Netherlands,Corporates - Of Which: SME,Dec-21,1.68%,10.62%,2.37%,20.32%
+Netherlands,Retail,Dec-21,0.50%,8.37%,0.67%,12.54%
+Netherlands,Retail - Secured on real estate property,Dec-21,0.45%,4.75%,0.61%,11.32%
+Netherlands,Retail - Qualifying Revolving,Dec-21,0.63%,42.06%,2.04%,43.53%
+Netherlands,Retail - Other Retail,Dec-21,1.77%,27.11%,2.31%,42.03%
+Norway,Corporates,Dec-21,1.45%,55.32%,1.14%,27.07%
+Norway,Corporates - Of Which: Specialised Lending,Dec-21,,,1.85%,21.99%
+Norway,Corporates - Of Which: SME,Dec-21,,,1.35%,23.52%
+Norway,Retail,Dec-21,0.39%,19.51%,0.89%,21.72%
+Norway,Retail - Secured on real estate property,Dec-21,0.16%,8.35%,0.63%,19.72%
+Norway,Retail - Qualifying Revolving,Dec-21,1.03%,51.47%,1.57%,63.29%
+Norway,Retail - Other Retail,Dec-21,1.08%,24.29%,2.00%,29.89%
+Poland,Corporates,Dec-21,0.96%,30.46%,1.40%,33.92%
+Poland,Corporates - Of Which: Specialised Lending,Dec-21,6.69%,,0.85%,26.88%
+Poland,Corporates - Of Which: SME,Dec-21,0.85%,,2.23%,30.04%
+Poland,Retail,Dec-21,1.58%,38.05%,1.54%,42.62%
+Poland,Retail - Secured on real estate property,Dec-21,0.94%,24.10%,0.70%,34.90%
+Poland,Retail - Qualifying Revolving,Dec-21,1.38%,43.22%,2.36%,73.09%
+Poland,Retail - Other Retail,Dec-21,3.04%,47.41%,3.67%,57.00%
+Portugal,Corporates,Dec-21,2.08%,32.72%,4.09%,40.20%
+Portugal,Corporates - Of Which: Specialised Lending,Dec-21,3.57%,,1.61%,31.88%
+Portugal,Corporates - Of Which: SME,Dec-21,2.28%,29.63%,7.14%,39.77%
+Portugal,Retail,Dec-21,0.79%,20.47%,1.39%,20.50%
+Portugal,Retail - Secured on real estate property,Dec-21,0.49%,7.33%,1.03%,17.71%
+Portugal,Retail - Qualifying Revolving,Dec-21,0.68%,30.37%,4.33%,38.39%
+Portugal,Retail - Other Retail,Dec-21,2.00%,32.49%,3.75%,32.50%
+Romania,Corporates,Dec-21,0.39%,71.14%,2.42%,40.96%
+Romania,Corporates - Of Which: Specialised Lending,Dec-21,,,4.11%,39.93%
+Romania,Corporates - Of Which: SME,Dec-21,1.17%,,3.86%,40.27%
+Romania,Retail,Dec-21,1.76%,59.22%,2.45%,49.20%
+Romania,Retail - Secured on real estate property,Dec-21,0.58%,,1.55%,38.44%
+Romania,Retail - Qualifying Revolving,Dec-21,1.26%,62.55%,1.11%,49.06%
+Romania,Retail - Other Retail,Dec-21,3.30%,62.63%,3.40%,58.93%
+Slovakia,Corporates,Dec-21,1.14%,49.98%,2.21%,38.56%
+Slovakia,Corporates - Of Which: Specialised Lending,Dec-21,0.14%,,11.77%,35.69%
+Slovakia,Corporates - Of Which: SME,Dec-21,2.01%,58.30%,3.49%,41.00%
+Slovakia,Retail,Dec-21,0.35%,43.39%,1.09%,23.48%
+Slovakia,Retail - Secured on real estate property,Dec-21,0.25%,34.46%,0.86%,20.92%
+Slovakia,Retail - Qualifying Revolving,Dec-21,0.64%,56.41%,2.20%,55.17%
+Slovakia,Retail - Other Retail,Dec-21,1.17%,62.93%,3.21%,43.30%
+Slovenia,Corporates,Dec-21,0.10%,,1.61%,38.70%
+Slovenia,Corporates - Of Which: Specialised Lending,Dec-21,,,,
+Slovenia,Corporates - Of Which: SME,Dec-21,0.40%,,3.86%,38.65%
+Slovenia,Retail,Dec-21,4.01%,85.25%,2.71%,34.46%
+Slovenia,Retail - Secured on real estate property,Dec-21,,,2.59%,21.08%
+Slovenia,Retail - Qualifying Revolving,Dec-21,9.38%,,1.50%,65.07%
+Slovenia,Retail - Other Retail,Dec-21,1.17%,44.24%,3.01%,45.65%
+Spain,Corporates,Dec-21,3.12%,21.09%,2.48%,40.59%
+Spain,Corporates - Of Which: Specialised Lending,Dec-21,6.17%,27.88%,1.39%,21.88%
+Spain,Corporates - Of Which: SME,Dec-21,3.90%,22.07%,4.69%,38.76%
+Spain,Retail,Dec-21,2.10%,26.31%,1.90%,28.75%
+Spain,Retail - Secured on real estate property,Dec-21,1.83%,17.95%,1.34%,21.64%
+Spain,Retail - Qualifying Revolving,Dec-21,0.86%,53.35%,2.81%,62.17%
+Spain,Retail - Other Retail,Dec-21,3.56%,38.37%,3.83%,51.79%
+Sweden,Corporates,Dec-21,0.07%,17.77%,0.59%,24.93%
+Sweden,Corporates - Of Which: Specialised Lending,Dec-21,,,1.36%,26.14%
+Sweden,Corporates - Of Which: SME,Dec-21,0.14%,15.87%,0.62%,18.15%
+Sweden,Retail,Dec-21,0.11%,14.67%,0.32%,12.47%
+Sweden,Retail - Secured on real estate property,Dec-21,0.07%,4.75%,0.26%,10.76%
+Sweden,Retail - Qualifying Revolving,Dec-21,1.10%,53.13%,1.57%,63.88%
+Sweden,Retail - Other Retail,Dec-21,0.60%,30.54%,1.32%,35.92%
+United Kingdom,Corporates,Dec-21,1.38%,25.02%,1.12%,34.79%
+United Kingdom,Corporates - Of Which: Specialised Lending,Dec-21,4.11%,20.88%,1.90%,25.78%
+United Kingdom,Corporates - Of Which: SME,Dec-21,8.58%,31.73%,2.84%,28.88%
+United Kingdom,Retail,Dec-21,3.03%,5.99%,2.57%,12.62%
+United Kingdom,Retail - Secured on real estate property,Dec-21,3.17%,4.29%,2.59%,8.84%
+United Kingdom,Retail - Qualifying Revolving,Dec-21,1.12%,49.12%,1.98%,71.09%
+United Kingdom,Retail - Other Retail,Dec-21,1.93%,53.02%,2.66%,51.20%
+Australia,Corporates,Dec-21,0.67%,11.44%,1.45%,20.65%
+Australia,Corporates - Of Which: Specialised Lending,Dec-21,,,0.96%,16.38%
+Australia,Corporates - Of Which: SME,Dec-21,,,0.83%,9.86%
+Australia,Retail,Dec-21,1.07%,4.37%,0.46%,9.40%
+Australia,Retail - Secured on real estate property,Dec-21,1.05%,3.46%,0.40%,8.65%
+Australia,Retail - Qualifying Revolving,Dec-21,0.56%,38.63%,1.08%,59.66%
+Australia,Retail - Other Retail,Dec-21,1.87%,20.79%,2.18%,30.56%
+Canada,Corporates,Dec-21,0.48%,,0.91%,28.23%
+Canada,Corporates - Of Which: Specialised Lending,Dec-21,,,1.47%,25.20%
+Canada,Corporates - Of Which: SME,Dec-21,,,1.07%,21.77%
+Canada,Retail,Dec-21,1.41%,13.97%,2.20%,18.82%
+Canada,Retail - Secured on real estate property,Dec-21,0.96%,,0.91%,15.72%
+Canada,Retail - Qualifying Revolving,Dec-21,0.73%,31.36%,2.08%,52.98%
+Canada,Retail - Other Retail,Dec-21,1.57%,13.74%,2.49%,19.11%
+China,Corporates,Dec-21,,,0.72%,47.05%
+China,Corporates - Of Which: Specialised Lending,Dec-21,,,1.45%,29.09%
+China,Corporates - Of Which: SME,Dec-21,,,2.50%,38.27%
+China,Retail,Dec-21,0.38%,11.79%,0.63%,16.54%
+China,Retail - Secured on real estate property,Dec-21,2.61%,,0.69%,15.26%
+China,Retail - Qualifying Revolving,Dec-21,1.34%,42.16%,1.15%,56.47%
+China,Retail - Other Retail,Dec-21,0.38%,40.42%,0.79%,16.95%
+Hong Kong,Corporates,Dec-21,1.88%,,1.45%,32.13%
+Hong Kong,Corporates - Of Which: Specialised Lending,Dec-21,,,1.12%,18.11%
+Hong Kong,Corporates - Of Which: SME,Dec-21,,,3.95%,36.11%
+Hong Kong,Retail,Dec-21,0.13%,,0.50%,15.79%
+Hong Kong,Retail - Secured on real estate property,Dec-21,0.09%,,0.72%,15.68%
+Hong Kong,Retail - Qualifying Revolving,Dec-21,,,1.31%,50.32%
+Hong Kong,Retail - Other Retail,Dec-21,0.44%,,0.40%,14.67%
+India,Corporates,Dec-21,,,1.85%,39.73%
+India,Corporates - Of Which: Specialised Lending,Dec-21,,,1.64%,18.56%
+India,Corporates - Of Which: SME,Dec-21,,,3.87%,37.21%
+India,Retail,Dec-21,0.75%,53.62%,1.08%,32.80%
+India,Retail - Secured on real estate property,Dec-21,0.00%,,1.01%,20.53%
+India,Retail - Qualifying Revolving,Dec-21,4.12%,49.53%,3.11%,55.74%
+India,Retail - Other Retail,Dec-21,0.92%,57.14%,1.24%,42.99%
+"Korea, Republic Of",Corporates,Dec-21,,,0.41%,41.01%
+"Korea, Republic Of",Corporates - Of Which: Specialised Lending,Dec-21,,,0.63%,22.81%
+"Korea, Republic Of",Corporates - Of Which: SME,Dec-21,,,1.98%,41.03%
+"Korea, Republic Of",Retail,Dec-21,0.54%,7.67%,1.39%,43.71%
+"Korea, Republic Of",Retail - Secured on real estate property,Dec-21,,,0.29%,15.65%
+"Korea, Republic Of",Retail - Qualifying Revolving,Dec-21,,,1.19%,59.83%
+"Korea, Republic Of",Retail - Other Retail,Dec-21,0.52%,72.74%,1.42%,44.50%
+Russian Federation,Corporates,Dec-21,0.12%,,0.57%,39.46%
+Russian Federation,Corporates - Of Which: Specialised Lending,Dec-21,,,0.95%,21.34%
+Russian Federation,Corporates - Of Which: SME,Dec-21,,,2.76%,43.77%
+Russian Federation,Retail,Dec-21,5.96%,16.01%,2.27%,23.18%
+Russian Federation,Retail - Secured on real estate property,Dec-21,7.03%,16.04%,2.27%,21.98%
+Russian Federation,Retail - Qualifying Revolving,Dec-21,2.83%,36.30%,1.91%,62.04%
+Russian Federation,Retail - Other Retail,Dec-21,3.99%,17.47%,1.98%,19.46%
+Singapore,Corporates,Dec-21,1.94%,,1.41%,29.29%
+Singapore,Corporates - Of Which: Specialised Lending,Dec-21,,,1.76%,20.51%
+Singapore,Corporates - Of Which: SME,Dec-21,,,5.59%,25.63%
+Singapore,Retail,Dec-21,0.35%,10.70%,0.53%,11.55%
+Singapore,Retail - Secured on real estate property,Dec-21,0.41%,,0.69%,14.93%
+Singapore,Retail - Qualifying Revolving,Dec-21,1.09%,,0.74%,54.02%
+Singapore,Retail - Other Retail,Dec-21,0.04%,24.43%,0.43%,9.72%
+Switzerland,Corporates,Dec-21,0.41%,11.72%,0.81%,31.35%
+Switzerland,Corporates - Of Which: Specialised Lending,Dec-21,,,0.72%,23.19%
+Switzerland,Corporates - Of Which: SME,Dec-21,,,2.29%,31.65%
+Switzerland,Retail,Dec-21,0.47%,11.72%,0.72%,21.10%
+Switzerland,Retail - Secured on real estate property,Dec-21,0.31%,13.57%,0.71%,19.88%
+Switzerland,Retail - Qualifying Revolving,Dec-21,0.72%,32.82%,1.90%,52.54%
+Switzerland,Retail - Other Retail,Dec-21,1.68%,9.64%,1.04%,20.60%
+United States,Corporates,Dec-21,0.60%,22.40%,1.19%,26.99%
+United States,Corporates - Of Which: Specialised Lending,Dec-21,1.96%,11.30%,2.28%,20.19%
+United States,Corporates - Of Which: SME,Dec-21,0.45%,,2.28%,21.16%
+United States,Retail,Dec-21,2.19%,17.04%,2.05%,25.70%
+United States,Retail - Secured on real estate property,Dec-21,1.37%,,1.01%,16.72%
+United States,Retail - Qualifying Revolving,Dec-21,0.68%,31.86%,1.51%,58.53%
+United States,Retail - Other Retail,Dec-21,2.56%,17.21%,2.33%,27.65%
+Austria,Corporates,Sep-21,1.06%,41.01%,1.28%,34.15%
+Austria,Corporates - Of Which: Specialised Lending,Sep-21,,,0.94%,16.80%
+Austria,Corporates - Of Which: SME,Sep-21,1.42%,18.07%,2.54%,29.37%
+Austria,Retail,Sep-21,0.72%,26.95%,1.59%,29.83%
+Austria,Retail - Secured on real estate property,Sep-21,0.54%,7.75%,1.34%,15.78%
+Austria,Retail - Qualifying Revolving,Sep-21,0.74%,55.67%,2.29%,84.94%
+Austria,Retail - Other Retail,Sep-21,1.11%,40.69%,2.24%,52.02%
+Belgium,Corporates,Sep-21,1.73%,16.67%,2.39%,26.73%
+Belgium,Corporates - Of Which: Specialised Lending,Sep-21,,,1.33%,22.24%
+Belgium,Corporates - Of Which: SME,Sep-21,1.68%,15.56%,2.55%,24.45%
+Belgium,Retail,Sep-21,0.90%,8.81%,1.00%,16.99%
+Belgium,Retail - Secured on real estate property,Sep-21,0.81%,3.27%,0.90%,13.21%
+Belgium,Retail - Qualifying Revolving,Sep-21,1.21%,18.07%,0.71%,49.60%
+Belgium,Retail - Other Retail,Sep-21,1.26%,23.05%,1.57%,32.53%
+Bulgaria,Corporates,Sep-21,3.79%,,1.84%,44.36%
+Bulgaria,Corporates - Of Which: Specialised Lending,Sep-21,,,71.46%,55.94%
+Bulgaria,Corporates - Of Which: SME,Sep-21,7.88%,,3.51%,41.20%
+Bulgaria,Retail,Sep-21,3.53%,61.16%,3.29%,33.82%
+Bulgaria,Retail - Secured on real estate property,Sep-21,3.01%,49.86%,3.37%,25.43%
+Bulgaria,Retail - Qualifying Revolving,Sep-21,2.69%,93.06%,2.31%,35.59%
+Bulgaria,Retail - Other Retail,Sep-21,5.08%,72.91%,3.51%,57.45%
+Croatia,Corporates,Sep-21,0.82%,,4.01%,40.83%
+Croatia,Corporates - Of Which: Specialised Lending,Sep-21,,,0.68%,19.53%
+Croatia,Corporates - Of Which: SME,Sep-21,,,5.50%,41.14%
+Croatia,Retail,Sep-21,1.15%,15.82%,2.42%,42.85%
+Croatia,Retail - Secured on real estate property,Sep-21,,,1.70%,33.75%
+Croatia,Retail - Qualifying Revolving,Sep-21,1.52%,53.95%,2.35%,61.92%
+Croatia,Retail - Other Retail,Sep-21,1.55%,15.41%,2.90%,48.38%
+Cyprus,Corporates,Sep-21,0.16%,18.59%,4.21%,30.65%
+Cyprus,Corporates - Of Which: Specialised Lending,Sep-21,,,6.00%,22.33%
+Cyprus,Corporates - Of Which: SME,Sep-21,,,4.83%,16.04%
+Cyprus,Retail,Sep-21,2.28%,21.39%,1.20%,35.75%
+Cyprus,Retail - Secured on real estate property,Sep-21,4.31%,,0.98%,14.20%
+Cyprus,Retail - Qualifying Revolving,Sep-21,1.55%,65.71%,1.45%,61.04%
+Cyprus,Retail - Other Retail,Sep-21,0.85%,50.50%,1.28%,41.38%
+Czech,Corporates,Sep-21,0.85%,39.11%,2.36%,33.52%
+Czech,Corporates - Of Which: Specialised Lending,Sep-21,0.45%,31.90%,1.72%,28.41%
+Czech,Corporates - Of Which: SME,Sep-21,1.68%,33.37%,3.21%,31.61%
+Czech,Retail,Sep-21,0.83%,33.90%,1.31%,26.39%
+Czech,Retail - Secured on real estate property,Sep-21,0.53%,19.21%,1.01%,20.43%
+Czech,Retail - Qualifying Revolving,Sep-21,0.63%,50.02%,1.44%,54.85%
+Czech,Retail - Other Retail,Sep-21,1.70%,46.42%,2.20%,40.64%
+Denmark,Corporates,Sep-21,0.61%,16.46%,1.04%,22.33%
+Denmark,Corporates - Of Which: Specialised Lending,Sep-21,,,1.72%,22.81%
+Denmark,Corporates - Of Which: SME,Sep-21,0.36%,23.43%,1.35%,20.78%
+Denmark,Retail,Sep-21,0.51%,12.15%,0.82%,18.43%
+Denmark,Retail - Secured on real estate property,Sep-21,0.50%,9.33%,0.77%,16.27%
+Denmark,Retail - Qualifying Revolving,Sep-21,1.66%,28.44%,1.75%,60.81%
+Denmark,Retail - Other Retail,Sep-21,0.53%,35.55%,1.83%,43.19%
+Estonia,Corporates,Sep-21,1.04%,,1.73%,41.50%
+Estonia,Corporates - Of Which: Specialised Lending,Sep-21,,,1.05%,31.16%
+Estonia,Corporates - Of Which: SME,Sep-21,,,1.72%,39.83%
+Estonia,Retail,Sep-21,0.68%,28.95%,1.37%,16.08%
+Estonia,Retail - Secured on real estate property,Sep-21,0.65%,28.51%,1.10%,13.29%
+Estonia,Retail - Qualifying Revolving,Sep-21,0.66%,66.50%,3.05%,59.12%
+Estonia,Retail - Other Retail,Sep-21,0.70%,30.81%,2.68%,29.58%
+Finland,Corporates,Sep-21,1.27%,14.85%,1.04%,35.06%
+Finland,Corporates - Of Which: Specialised Lending,Sep-21,,,0.61%,27.59%
+Finland,Corporates - Of Which: SME,Sep-21,1.73%,11.92%,1.53%,31.79%
+Finland,Retail,Sep-21,1.14%,4.19%,1.53%,20.51%
+Finland,Retail - Secured on real estate property,Sep-21,1.13%,2.88%,1.16%,16.76%
+Finland,Retail - Qualifying Revolving,Sep-21,1.51%,26.17%,1.77%,61.35%
+Finland,Retail - Other Retail,Sep-21,1.18%,9.00%,3.28%,33.40%
+France,Corporates,Sep-21,0.66%,21.36%,1.73%,34.26%
+France,Corporates - Of Which: Specialised Lending,Sep-21,0.67%,3.21%,1.21%,21.18%
+France,Corporates - Of Which: SME,Sep-21,1.41%,24.90%,2.73%,34.56%
+France,Retail,Sep-21,0.48%,21.22%,1.42%,17.10%
+France,Retail - Secured on real estate property,Sep-21,0.29%,10.51%,1.06%,12.62%
+France,Retail - Qualifying Revolving,Sep-21,0.77%,40.97%,2.71%,34.66%
+France,Retail - Other Retail,Sep-21,0.83%,26.53%,1.80%,23.17%
+Germany,Corporates,Sep-21,0.51%,30.10%,0.94%,36.42%
+Germany,Corporates - Of Which: Specialised Lending,Sep-21,1.02%,29.85%,0.93%,32.90%
+Germany,Corporates - Of Which: SME,Sep-21,0.71%,35.88%,1.11%,33.02%
+Germany,Retail,Sep-21,0.61%,24.04%,0.92%,28.11%
+Germany,Retail - Secured on real estate property,Sep-21,0.38%,8.66%,0.72%,18.17%
+Germany,Retail - Qualifying Revolving,Sep-21,0.46%,27.65%,0.70%,64.67%
+Germany,Retail - Other Retail,Sep-21,1.35%,35.62%,1.68%,46.42%
+Greece,Corporates,Sep-21,0.99%,,9.56%,38.94%
+Greece,Corporates - Of Which: Specialised Lending,Sep-21,,,3.71%,25.36%
+Greece,Corporates - Of Which: SME,Sep-21,,,19.60%,39.57%
+Greece,Retail,Sep-21,7.64%,73.14%,10.47%,28.97%
+Greece,Retail - Secured on real estate property,Sep-21,9.09%,,10.30%,18.98%
+Greece,Retail - Qualifying Revolving,Sep-21,1.93%,66.61%,3.85%,63.34%
+Greece,Retail - Other Retail,Sep-21,8.30%,79.25%,12.71%,37.74%
+Hungary,Corporates,Sep-21,0.99%,33.87%,2.10%,42.83%
+Hungary,Corporates - Of Which: Specialised Lending,Sep-21,,,3.35%,32.46%
+Hungary,Corporates - Of Which: SME,Sep-21,1.49%,36.08%,2.73%,45.19%
+Hungary,Retail,Sep-21,1.06%,54.33%,2.82%,43.14%
+Hungary,Retail - Secured on real estate property,Sep-21,1.01%,50.70%,1.92%,33.74%
+Hungary,Retail - Qualifying Revolving,Sep-21,2.62%,49.26%,3.89%,63.16%
+Hungary,Retail - Other Retail,Sep-21,1.78%,58.47%,4.97%,65.34%
+Ireland,Corporates,Sep-21,2.25%,23.04%,1.33%,27.56%
+Ireland,Corporates - Of Which: Specialised Lending,Sep-21,,,11.84%,28.70%
+Ireland,Corporates - Of Which: SME,Sep-21,3.56%,17.54%,3.79%,35.90%
+Ireland,Retail,Sep-21,0.97%,15.81%,2.14%,27.38%
+Ireland,Retail - Secured on real estate property,Sep-21,0.89%,13.84%,1.99%,24.78%
+Ireland,Retail - Qualifying Revolving,Sep-21,0.54%,22.53%,2.16%,59.57%
+Ireland,Retail - Other Retail,Sep-21,2.87%,26.15%,4.46%,60.16%
+Italy,Corporates,Sep-21,0.58%,24.78%,4.84%,36.40%
+Italy,Corporates - Of Which: Specialised Lending,Sep-21,0.92%,18.48%,2.45%,21.04%
+Italy,Corporates - Of Which: SME,Sep-21,1.06%,26.04%,10.39%,38.79%
+Italy,Retail,Sep-21,1.83%,36.08%,2.10%,26.15%
+Italy,Retail - Secured on real estate property,Sep-21,1.66%,29.90%,1.39%,19.81%
+Italy,Retail - Qualifying Revolving,Sep-21,0.19%,34.65%,3.50%,61.66%
+Italy,Retail - Other Retail,Sep-21,2.17%,44.43%,5.36%,40.03%
+Latvia,Corporates,Sep-21,5.59%,,1.66%,41.72%
+Latvia,Corporates - Of Which: Specialised Lending,Sep-21,,,,
+Latvia,Corporates - Of Which: SME,Sep-21,,,1.92%,38.73%
+Latvia,Retail,Sep-21,1.30%,37.70%,2.68%,25.87%
+Latvia,Retail - Secured on real estate property,Sep-21,1.40%,35.22%,2.10%,20.23%
+Latvia,Retail - Qualifying Revolving,Sep-21,18.41%,68.95%,8.56%,62.81%
+Latvia,Retail - Other Retail,Sep-21,1.02%,46.86%,4.38%,43.05%
+Lithuania,Corporates,Sep-21,2.67%,70.24%,1.26%,41.46%
+Lithuania,Corporates - Of Which: Specialised Lending,Sep-21,,,,
+Lithuania,Corporates - Of Which: SME,Sep-21,9.80%,,2.15%,39.85%
+Lithuania,Retail,Sep-21,1.00%,38.03%,1.41%,18.45%
+Lithuania,Retail - Secured on real estate property,Sep-21,1.08%,37.78%,1.18%,15.83%
+Lithuania,Retail - Qualifying Revolving,Sep-21,3.99%,49.17%,4.01%,63.07%
+Lithuania,Retail - Other Retail,Sep-21,0.51%,41.63%,2.90%,36.54%
+Luxembourg,Corporates,Sep-21,0.43%,10.64%,1.54%,29.97%
+Luxembourg,Corporates - Of Which: Specialised Lending,Sep-21,0.72%,,0.91%,24.91%
+Luxembourg,Corporates - Of Which: SME,Sep-21,0.38%,28.50%,2.21%,30.19%
+Luxembourg,Retail,Sep-21,0.36%,10.31%,1.02%,16.24%
+Luxembourg,Retail - Secured on real estate property,Sep-21,0.23%,3.01%,0.87%,15.03%
+Luxembourg,Retail - Qualifying Revolving,Sep-21,1.33%,42.48%,2.67%,52.30%
+Luxembourg,Retail - Other Retail,Sep-21,1.27%,15.91%,1.89%,21.37%
+Malta,Corporates,Sep-21,0.18%,,2.38%,20.19%
+Malta,Corporates - Of Which: Specialised Lending,Sep-21,,,2.75%,12.22%
+Malta,Corporates - Of Which: SME,Sep-21,,,1.19%,24.08%
+Malta,Retail,Sep-21,0.50%,51.56%,1.23%,22.14%
+Malta,Retail - Secured on real estate property,Sep-21,,,1.44%,17.72%
+Malta,Retail - Qualifying Revolving,Sep-21,1.05%,,1.45%,54.84%
+Malta,Retail - Other Retail,Sep-21,1.99%,52.94%,1.03%,20.60%
+Netherlands,Corporates,Sep-21,1.09%,11.91%,1.26%,26.98%
+Netherlands,Corporates - Of Which: Specialised Lending,Sep-21,0.54%,7.33%,1.55%,14.90%
+Netherlands,Corporates - Of Which: SME,Sep-21,2.12%,11.95%,2.57%,20.02%
+Netherlands,Retail,Sep-21,0.50%,9.39%,0.64%,12.01%
+Netherlands,Retail - Secured on real estate property,Sep-21,0.44%,5.25%,0.57%,10.72%
+Netherlands,Retail - Qualifying Revolving,Sep-21,0.47%,40.64%,2.44%,49.24%
+Netherlands,Retail - Other Retail,Sep-21,1.79%,28.20%,2.34%,41.99%
+Norway,Corporates,Sep-21,1.08%,50.99%,1.20%,26.95%
+Norway,Corporates - Of Which: Specialised Lending,Sep-21,,,2.07%,21.28%
+Norway,Corporates - Of Which: SME,Sep-21,,,1.25%,23.64%
+Norway,Retail,Sep-21,0.31%,20.41%,0.89%,21.74%
+Norway,Retail - Secured on real estate property,Sep-21,0.12%,8.34%,0.63%,19.72%
+Norway,Retail - Qualifying Revolving,Sep-21,1.16%,30.96%,1.75%,59.75%
+Norway,Retail - Other Retail,Sep-21,0.97%,23.98%,1.98%,29.80%
+Poland,Corporates,Sep-21,0.57%,29.07%,1.44%,36.50%
+Poland,Corporates - Of Which: Specialised Lending,Sep-21,1.89%,,0.98%,38.88%
+Poland,Corporates - Of Which: SME,Sep-21,0.68%,,2.22%,30.72%
+Poland,Retail,Sep-21,1.50%,37.22%,1.58%,42.56%
+Poland,Retail - Secured on real estate property,Sep-21,0.95%,24.22%,0.71%,34.65%
+Poland,Retail - Qualifying Revolving,Sep-21,1.33%,44.43%,2.47%,72.22%
+Poland,Retail - Other Retail,Sep-21,2.76%,46.77%,3.72%,56.93%
+Portugal,Corporates,Sep-21,1.04%,37.68%,3.88%,40.07%
+Portugal,Corporates - Of Which: Specialised Lending,Sep-21,0.87%,,1.77%,32.10%
+Portugal,Corporates - Of Which: SME,Sep-21,2.01%,35.07%,6.35%,39.70%
+Portugal,Retail,Sep-21,0.75%,21.56%,1.35%,20.49%
+Portugal,Retail - Secured on real estate property,Sep-21,0.44%,8.19%,1.00%,17.72%
+Portugal,Retail - Qualifying Revolving,Sep-21,0.66%,25.49%,4.23%,38.31%
+Portugal,Retail - Other Retail,Sep-21,2.02%,32.79%,3.64%,32.49%
+Romania,Corporates,Sep-21,0.57%,64.10%,2.56%,40.41%
+Romania,Corporates - Of Which: Specialised Lending,Sep-21,,,4.74%,39.49%
+Romania,Corporates - Of Which: SME,Sep-21,0.89%,,3.61%,40.52%
+Romania,Retail,Sep-21,1.73%,59.14%,2.81%,49.22%
+Romania,Retail - Secured on real estate property,Sep-21,0.59%,,2.35%,38.45%
+Romania,Retail - Qualifying Revolving,Sep-21,1.29%,61.07%,1.13%,49.05%
+Romania,Retail - Other Retail,Sep-21,3.16%,62.66%,3.47%,58.89%
+Slovakia,Corporates,Sep-21,1.40%,55.99%,2.38%,39.33%
+Slovakia,Corporates - Of Which: Specialised Lending,Sep-21,,,11.59%,35.75%
+Slovakia,Corporates - Of Which: SME,Sep-21,2.67%,59.72%,3.39%,41.30%
+Slovakia,Retail,Sep-21,0.45%,40.71%,1.01%,23.70%
+Slovakia,Retail - Secured on real estate property,Sep-21,0.35%,28.89%,0.80%,20.92%
+Slovakia,Retail - Qualifying Revolving,Sep-21,0.64%,53.72%,2.78%,55.59%
+Slovakia,Retail - Other Retail,Sep-21,1.30%,63.24%,2.63%,42.50%
+Slovenia,Corporates,Sep-21,0.16%,,2.04%,40.15%
+Slovenia,Corporates - Of Which: Specialised Lending,Sep-21,,,,
+Slovenia,Corporates - Of Which: SME,Sep-21,0.67%,,4.41%,38.67%
+Slovenia,Retail,Sep-21,9.42%,54.89%,3.01%,37.05%
+Slovenia,Retail - Secured on real estate property,Sep-21,,,3.35%,22.79%
+Slovenia,Retail - Qualifying Revolving,Sep-21,11.04%,,6.06%,65.08%
+Slovenia,Retail - Other Retail,Sep-21,1.48%,45.65%,2.57%,47.23%
+Spain,Corporates,Sep-21,1.96%,20.25%,2.64%,41.26%
+Spain,Corporates - Of Which: Specialised Lending,Sep-21,3.85%,14.47%,1.52%,22.32%
+Spain,Corporates - Of Which: SME,Sep-21,2.58%,21.02%,4.53%,40.46%
+Spain,Retail,Sep-21,1.25%,29.24%,1.86%,28.79%
+Spain,Retail - Secured on real estate property,Sep-21,0.92%,15.52%,1.27%,21.53%
+Spain,Retail - Qualifying Revolving,Sep-21,0.83%,50.43%,2.46%,59.31%
+Spain,Retail - Other Retail,Sep-21,2.63%,38.36%,4.29%,52.10%
+Sweden,Corporates,Sep-21,0.08%,19.06%,0.64%,24.70%
+Sweden,Corporates - Of Which: Specialised Lending,Sep-21,,,1.43%,28.20%
+Sweden,Corporates - Of Which: SME,Sep-21,0.16%,17.94%,0.64%,18.04%
+Sweden,Retail,Sep-21,0.11%,15.55%,0.34%,12.52%
+Sweden,Retail - Secured on real estate property,Sep-21,0.07%,5.64%,0.27%,10.82%
+Sweden,Retail - Qualifying Revolving,Sep-21,0.50%,40.60%,1.54%,60.93%
+Sweden,Retail - Other Retail,Sep-21,0.61%,30.56%,1.32%,35.76%
+United Kingdom,Corporates,Sep-21,1.02%,25.50%,1.06%,34.90%
+United Kingdom,Corporates - Of Which: Specialised Lending,Sep-21,3.41%,18.79%,1.81%,26.11%
+United Kingdom,Corporates - Of Which: SME,Sep-21,7.40%,,2.21%,35.51%
+United Kingdom,Retail,Sep-21,2.51%,5.92%,2.25%,12.95%
+United Kingdom,Retail - Secured on real estate property,Sep-21,2.59%,3.95%,2.26%,8.98%
+United Kingdom,Retail - Qualifying Revolving,Sep-21,1.03%,49.58%,1.70%,73.13%
+United Kingdom,Retail - Other Retail,Sep-21,2.08%,48.97%,2.47%,54.66%
+Australia,Corporates,Sep-21,0.86%,9.10%,1.40%,20.63%
+Australia,Corporates - Of Which: Specialised Lending,Sep-21,,,0.92%,16.08%
+Australia,Corporates - Of Which: SME,Sep-21,,,0.89%,11.14%
+Australia,Retail,Sep-21,2.12%,5.14%,0.50%,11.85%
+Australia,Retail - Secured on real estate property,Sep-21,2.14%,,0.44%,11.20%
+Australia,Retail - Qualifying Revolving,Sep-21,0.74%,32.97%,1.13%,59.25%
+Australia,Retail - Other Retail,Sep-21,1.99%,19.35%,2.14%,30.37%
+Canada,Corporates,Sep-21,0.18%,,1.00%,28.82%
+Canada,Corporates - Of Which: Specialised Lending,Sep-21,,,1.32%,28.02%
+Canada,Corporates - Of Which: SME,Sep-21,,,1.03%,20.71%
+Canada,Retail,Sep-21,1.67%,14.33%,2.22%,17.89%
+Canada,Retail - Secured on real estate property,Sep-21,1.36%,,0.80%,15.14%
+Canada,Retail - Qualifying Revolving,Sep-21,0.90%,29.41%,1.91%,52.16%
+Canada,Retail - Other Retail,Sep-21,1.87%,14.20%,2.52%,18.09%
+China,Corporates,Sep-21,2.02%,,0.74%,44.51%
+China,Corporates - Of Which: Specialised Lending,Sep-21,,,1.14%,29.81%
+China,Corporates - Of Which: SME,Sep-21,,,2.78%,38.33%
+China,Retail,Sep-21,0.35%,13.64%,0.76%,16.02%
+China,Retail - Secured on real estate property,Sep-21,1.64%,,0.82%,14.91%
+China,Retail - Qualifying Revolving,Sep-21,0.80%,41.57%,1.31%,55.66%
+China,Retail - Other Retail,Sep-21,0.81%,33.63%,1.03%,16.23%
+Hong Kong,Corporates,Sep-21,0.19%,,1.32%,32.42%
+Hong Kong,Corporates - Of Which: Specialised Lending,Sep-21,,,0.99%,16.70%
+Hong Kong,Corporates - Of Which: SME,Sep-21,,,5.93%,39.46%
+Hong Kong,Retail,Sep-21,0.37%,5.76%,0.47%,11.84%
+Hong Kong,Retail - Secured on real estate property,Sep-21,2.52%,,0.70%,15.00%
+Hong Kong,Retail - Qualifying Revolving,Sep-21,0.21%,35.75%,1.48%,50.69%
+Hong Kong,Retail - Other Retail,Sep-21,0.05%,38.91%,0.34%,9.55%
+India,Corporates,Sep-21,,,2.08%,40.03%
+India,Corporates - Of Which: Specialised Lending,Sep-21,,,1.72%,18.85%
+India,Corporates - Of Which: SME,Sep-21,,,3.96%,35.02%
+India,Retail,Sep-21,0.76%,53.71%,1.19%,33.01%
+India,Retail - Secured on real estate property,Sep-21,0.00%,,1.20%,19.76%
+India,Retail - Qualifying Revolving,Sep-21,3.65%,47.24%,3.17%,55.75%
+India,Retail - Other Retail,Sep-21,0.95%,55.27%,1.37%,43.45%
+"Korea, Republic Of",Corporates,Sep-21,,,0.48%,40.40%
+"Korea, Republic Of",Corporates - Of Which: Specialised Lending,Sep-21,,,0.75%,18.18%
+"Korea, Republic Of",Corporates - Of Which: SME,Sep-21,,,2.49%,25.38%
+"Korea, Republic Of",Retail,Sep-21,0.55%,66.58%,1.07%,68.51%
+"Korea, Republic Of",Retail - Secured on real estate property,Sep-21,,,0.35%,15.30%
+"Korea, Republic Of",Retail - Qualifying Revolving,Sep-21,2.27%,,1.28%,57.95%
+"Korea, Republic Of",Retail - Other Retail,Sep-21,0.51%,71.55%,1.10%,70.03%
+Russian Federation,Corporates,Sep-21,0.04%,,0.57%,39.06%
+Russian Federation,Corporates - Of Which: Specialised Lending,Sep-21,,,1.20%,22.89%
+Russian Federation,Corporates - Of Which: SME,Sep-21,,,3.28%,43.92%
+Russian Federation,Retail,Sep-21,2.99%,17.33%,2.34%,20.73%
+Russian Federation,Retail - Secured on real estate property,Sep-21,3.71%,16.87%,2.50%,19.29%
+Russian Federation,Retail - Qualifying Revolving,Sep-21,2.01%,26.25%,2.10%,58.65%
+Russian Federation,Retail - Other Retail,Sep-21,1.75%,41.38%,1.34%,17.29%
+Singapore,Corporates,Sep-21,2.60%,,1.53%,27.82%
+Singapore,Corporates - Of Which: Specialised Lending,Sep-21,,,1.97%,18.83%
+Singapore,Corporates - Of Which: SME,Sep-21,,,6.21%,22.09%
+Singapore,Retail,Sep-21,0.68%,8.96%,0.56%,10.91%
+Singapore,Retail - Secured on real estate property,Sep-21,0.70%,,0.79%,14.58%
+Singapore,Retail - Qualifying Revolving,Sep-21,0.59%,,1.19%,53.62%
+Singapore,Retail - Other Retail,Sep-21,0.06%,20.16%,0.44%,9.02%
+Switzerland,Corporates,Sep-21,0.66%,10.92%,1.10%,30.63%
+Switzerland,Corporates - Of Which: Specialised Lending,Sep-21,,,0.73%,22.83%
+Switzerland,Corporates - Of Which: SME,Sep-21,0.43%,,2.41%,29.82%
+Switzerland,Retail,Sep-21,0.48%,11.86%,0.97%,20.89%
+Switzerland,Retail - Secured on real estate property,Sep-21,0.38%,14.26%,0.73%,19.29%
+Switzerland,Retail - Qualifying Revolving,Sep-21,0.62%,31.65%,1.85%,51.93%
+Switzerland,Retail - Other Retail,Sep-21,1.70%,8.56%,1.09%,21.33%
+United States,Corporates,Sep-21,0.75%,19.42%,1.34%,27.02%
+United States,Corporates - Of Which: Specialised Lending,Sep-21,3.18%,10.88%,2.49%,20.36%
+United States,Corporates - Of Which: SME,Sep-21,0.45%,,2.90%,22.37%
+United States,Retail,Sep-21,2.23%,16.12%,2.07%,24.24%
+United States,Retail - Secured on real estate property,Sep-21,0.72%,9.90%,1.08%,16.27%
+United States,Retail - Qualifying Revolving,Sep-21,0.58%,33.15%,1.58%,57.17%
+United States,Retail - Other Retail,Sep-21,2.63%,16.24%,2.32%,25.92%
+Austria,Corporates,Jun-21,1.16%,38.28%,1.27%,34.30%
+Austria,Corporates - Of Which: Specialised Lending,Jun-21,,,1.62%,10.39%
+Austria,Corporates - Of Which: SME,Jun-21,1.49%,19.85%,2.53%,31.35%
+Austria,Retail,Jun-21,0.76%,27.24%,1.23%,31.62%
+Austria,Retail - Secured on real estate property,Jun-21,0.60%,8.15%,1.08%,16.01%
+Austria,Retail - Qualifying Revolving,Jun-21,0.67%,55.98%,1.78%,65.00%
+Austria,Retail - Other Retail,Jun-21,1.08%,43.08%,1.75%,55.49%
+Belgium,Corporates,Jun-21,1.68%,15.62%,2.39%,26.87%
+Belgium,Corporates - Of Which: Specialised Lending,Jun-21,2.87%,2.73%,1.33%,22.27%
+Belgium,Corporates - Of Which: SME,Jun-21,1.59%,15.14%,2.63%,24.61%
+Belgium,Retail,Jun-21,0.92%,8.64%,0.96%,17.06%
+Belgium,Retail - Secured on real estate property,Jun-21,0.83%,3.42%,0.85%,13.18%
+Belgium,Retail - Qualifying Revolving,Jun-21,1.14%,18.17%,0.70%,49.04%
+Belgium,Retail - Other Retail,Jun-21,1.26%,22.32%,1.55%,32.70%
+Bulgaria,Corporates,Jun-21,3.03%,,3.72%,50.80%
+Bulgaria,Corporates - Of Which: Specialised Lending,Jun-21,,,66.64%,54.17%
+Bulgaria,Corporates - Of Which: SME,Jun-21,6.65%,,3.44%,41.03%
+Bulgaria,Retail,Jun-21,3.43%,58.50%,2.32%,33.11%
+Bulgaria,Retail - Secured on real estate property,Jun-21,2.88%,45.56%,1.81%,24.08%
+Bulgaria,Retail - Qualifying Revolving,Jun-21,2.78%,89.72%,3.25%,43.31%
+Bulgaria,Retail - Other Retail,Jun-21,5.01%,71.76%,3.88%,56.68%
+Croatia,Corporates,Jun-21,0.87%,,3.80%,40.74%
+Croatia,Corporates - Of Which: Specialised Lending,Jun-21,,,0.85%,18.81%
+Croatia,Corporates - Of Which: SME,Jun-21,,,6.00%,41.26%
+Croatia,Retail,Jun-21,1.74%,16.91%,2.52%,42.77%
+Croatia,Retail - Secured on real estate property,Jun-21,,,1.77%,33.80%
+Croatia,Retail - Qualifying Revolving,Jun-21,1.36%,54.16%,1.77%,61.12%
+Croatia,Retail - Other Retail,Jun-21,2.23%,16.74%,2.99%,48.14%
+Cyprus,Corporates,Jun-21,0.26%,31.54%,3.82%,30.63%
+Cyprus,Corporates - Of Which: Specialised Lending,Jun-21,,,5.38%,23.70%
+Cyprus,Corporates - Of Which: SME,Jun-21,,,4.55%,15.45%
+Cyprus,Retail,Jun-21,1.60%,59.12%,1.33%,58.35%
+Cyprus,Retail - Secured on real estate property,Jun-21,,,1.11%,18.79%
+Cyprus,Retail - Qualifying Revolving,Jun-21,1.04%,67.18%,1.44%,60.32%
+Cyprus,Retail - Other Retail,Jun-21,1.09%,57.54%,1.44%,69.95%
+Czech,Corporates,Jun-21,0.93%,37.55%,2.37%,33.20%
+Czech,Corporates - Of Which: Specialised Lending,Jun-21,0.42%,30.01%,1.71%,26.28%
+Czech,Corporates - Of Which: SME,Jun-21,1.78%,32.45%,3.15%,32.87%
+Czech,Retail,Jun-21,0.93%,32.77%,1.40%,26.56%
+Czech,Retail - Secured on real estate property,Jun-21,0.60%,18.30%,1.05%,20.41%
+Czech,Retail - Qualifying Revolving,Jun-21,0.77%,46.86%,1.61%,54.83%
+Czech,Retail - Other Retail,Jun-21,1.84%,45.91%,2.35%,41.51%
+Denmark,Corporates,Jun-21,0.70%,18.90%,1.11%,22.45%
+Denmark,Corporates - Of Which: Specialised Lending,Jun-21,,,1.39%,25.67%
+Denmark,Corporates - Of Which: SME,Jun-21,0.38%,24.16%,1.45%,20.87%
+Denmark,Retail,Jun-21,0.52%,12.89%,0.83%,18.92%
+Denmark,Retail - Secured on real estate property,Jun-21,0.52%,9.63%,0.78%,16.69%
+Denmark,Retail - Qualifying Revolving,Jun-21,1.95%,28.75%,1.67%,58.77%
+Denmark,Retail - Other Retail,Jun-21,0.58%,38.02%,1.82%,43.13%
+Estonia,Corporates,Jun-21,1.07%,,1.93%,41.16%
+Estonia,Corporates - Of Which: Specialised Lending,Jun-21,,,1.21%,25.97%
+Estonia,Corporates - Of Which: SME,Jun-21,,,1.75%,39.56%
+Estonia,Retail,Jun-21,0.75%,28.33%,1.39%,15.81%
+Estonia,Retail - Secured on real estate property,Jun-21,0.73%,28.06%,1.10%,12.81%
+Estonia,Retail - Qualifying Revolving,Jun-21,2.87%,60.42%,2.68%,53.71%
+Estonia,Retail - Other Retail,Jun-21,0.80%,29.24%,2.75%,29.96%
+Finland,Corporates,Jun-21,1.46%,14.48%,1.10%,35.23%
+Finland,Corporates - Of Which: Specialised Lending,Jun-21,,,0.58%,27.96%
+Finland,Corporates - Of Which: SME,Jun-21,2.05%,12.22%,1.59%,31.94%
+Finland,Retail,Jun-21,1.23%,3.19%,1.43%,21.06%
+Finland,Retail - Secured on real estate property,Jun-21,1.26%,2.36%,1.02%,17.04%
+Finland,Retail - Qualifying Revolving,Jun-21,1.83%,27.31%,1.81%,58.68%
+Finland,Retail - Other Retail,Jun-21,1.17%,6.98%,3.34%,34.69%
+France,Corporates,Jun-21,0.80%,19.51%,1.84%,34.42%
+France,Corporates - Of Which: Specialised Lending,Jun-21,0.45%,6.24%,1.24%,21.45%
+France,Corporates - Of Which: SME,Jun-21,1.42%,25.45%,2.90%,34.81%
+France,Retail,Jun-21,0.48%,19.55%,1.40%,17.03%
+France,Retail - Secured on real estate property,Jun-21,0.31%,10.15%,1.02%,12.55%
+France,Retail - Qualifying Revolving,Jun-21,0.71%,39.03%,2.68%,36.59%
+France,Retail - Other Retail,Jun-21,0.79%,24.72%,1.83%,22.83%
+Germany,Corporates,Jun-21,0.53%,28.34%,1.03%,36.93%
+Germany,Corporates - Of Which: Specialised Lending,Jun-21,0.55%,27.10%,1.03%,32.84%
+Germany,Corporates - Of Which: SME,Jun-21,0.73%,33.88%,1.12%,32.77%
+Germany,Retail,Jun-21,0.55%,24.38%,0.89%,27.58%
+Germany,Retail - Secured on real estate property,Jun-21,0.36%,8.64%,0.70%,17.69%
+Germany,Retail - Qualifying Revolving,Jun-21,0.42%,32.41%,0.56%,65.57%
+Germany,Retail - Other Retail,Jun-21,1.16%,37.81%,1.68%,46.33%
+Greece,Corporates,Jun-21,0.89%,47.04%,9.60%,39.13%
+Greece,Corporates - Of Which: Specialised Lending,Jun-21,,,4.69%,23.92%
+Greece,Corporates - Of Which: SME,Jun-21,,,19.71%,38.04%
+Greece,Retail,Jun-21,6.73%,78.44%,11.59%,28.70%
+Greece,Retail - Secured on real estate property,Jun-21,7.78%,77.55%,11.77%,18.80%
+Greece,Retail - Qualifying Revolving,Jun-21,2.06%,69.01%,4.12%,63.79%
+Greece,Retail - Other Retail,Jun-21,7.62%,82.53%,14.60%,37.51%
+Hungary,Corporates,Jun-21,1.90%,57.64%,1.72%,43.47%
+Hungary,Corporates - Of Which: Specialised Lending,Jun-21,2.47%,,2.77%,32.01%
+Hungary,Corporates - Of Which: SME,Jun-21,3.00%,50.48%,2.74%,46.17%
+Hungary,Retail,Jun-21,1.01%,47.27%,2.80%,43.49%
+Hungary,Retail - Secured on real estate property,Jun-21,0.80%,,1.88%,34.14%
+Hungary,Retail - Qualifying Revolving,Jun-21,2.12%,46.80%,1.95%,61.89%
+Hungary,Retail - Other Retail,Jun-21,1.54%,54.34%,4.95%,65.37%
+Ireland,Corporates,Jun-21,1.94%,20.39%,1.62%,28.28%
+Ireland,Corporates - Of Which: Specialised Lending,Jun-21,,,12.65%,29.87%
+Ireland,Corporates - Of Which: SME,Jun-21,3.83%,,3.74%,34.58%
+Ireland,Retail,Jun-21,1.02%,15.38%,2.21%,26.34%
+Ireland,Retail - Secured on real estate property,Jun-21,0.91%,13.20%,2.05%,23.66%
+Ireland,Retail - Qualifying Revolving,Jun-21,0.52%,23.97%,2.26%,59.61%
+Ireland,Retail - Other Retail,Jun-21,3.39%,25.18%,4.66%,59.84%
+Italy,Corporates,Jun-21,0.50%,27.74%,4.98%,37.09%
+Italy,Corporates - Of Which: Specialised Lending,Jun-21,1.33%,28.87%,3.05%,21.09%
+Italy,Corporates - Of Which: SME,Jun-21,0.93%,28.21%,10.86%,39.05%
+Italy,Retail,Jun-21,2.55%,39.48%,2.22%,26.41%
+Italy,Retail - Secured on real estate property,Jun-21,2.36%,33.35%,1.46%,19.79%
+Italy,Retail - Qualifying Revolving,Jun-21,0.19%,30.43%,3.55%,61.60%
+Italy,Retail - Other Retail,Jun-21,2.98%,48.04%,5.69%,40.69%
+Latvia,Corporates,Jun-21,5.02%,18.64%,1.85%,41.71%
+Latvia,Corporates - Of Which: Specialised Lending,Jun-21,,,,
+Latvia,Corporates - Of Which: SME,Jun-21,,,2.14%,38.92%
+Latvia,Retail,Jun-21,1.41%,37.94%,2.66%,24.72%
+Latvia,Retail - Secured on real estate property,Jun-21,1.53%,35.24%,2.09%,18.81%
+Latvia,Retail - Qualifying Revolving,Jun-21,7.18%,,6.62%,60.08%
+Latvia,Retail - Other Retail,Jun-21,1.11%,47.78%,4.33%,42.93%
+Lithuania,Corporates,Jun-21,2.11%,69.84%,1.36%,41.22%
+Lithuania,Corporates - Of Which: Specialised Lending,Jun-21,,,,
+Lithuania,Corporates - Of Which: SME,Jun-21,6.23%,45.79%,2.52%,39.53%
+Lithuania,Retail,Jun-21,1.13%,37.55%,1.44%,18.31%
+Lithuania,Retail - Secured on real estate property,Jun-21,1.22%,37.31%,1.21%,15.70%
+Lithuania,Retail - Qualifying Revolving,Jun-21,2.75%,44.74%,3.85%,55.94%
+Lithuania,Retail - Other Retail,Jun-21,0.63%,40.27%,2.98%,36.64%
+Luxembourg,Corporates,Jun-21,0.83%,7.08%,1.65%,30.82%
+Luxembourg,Corporates - Of Which: Specialised Lending,Jun-21,0.76%,,0.92%,24.97%
+Luxembourg,Corporates - Of Which: SME,Jun-21,1.83%,14.82%,2.13%,29.74%
+Luxembourg,Retail,Jun-21,0.38%,9.55%,1.01%,16.38%
+Luxembourg,Retail - Secured on real estate property,Jun-21,0.25%,2.57%,0.88%,15.22%
+Luxembourg,Retail - Qualifying Revolving,Jun-21,0.29%,32.50%,0.59%,6.20%
+Luxembourg,Retail - Other Retail,Jun-21,1.24%,15.44%,1.98%,22.38%
+Malta,Corporates,Jun-21,0.00%,,2.81%,20.74%
+Malta,Corporates - Of Which: Specialised Lending,Jun-21,,,2.93%,15.07%
+Malta,Corporates - Of Which: SME,Jun-21,,,0.87%,18.15%
+Malta,Retail,Jun-21,1.02%,46.73%,2.32%,17.88%
+Malta,Retail - Secured on real estate property,Jun-21,,,1.43%,17.61%
+Malta,Retail - Qualifying Revolving,Jun-21,0.94%,,1.31%,51.86%
+Malta,Retail - Other Retail,Jun-21,2.30%,97.72%,3.39%,18.10%
+Netherlands,Corporates,Jun-21,1.28%,11.75%,1.38%,26.89%
+Netherlands,Corporates - Of Which: Specialised Lending,Jun-21,0.73%,8.97%,1.35%,15.09%
+Netherlands,Corporates - Of Which: SME,Jun-21,2.51%,12.36%,2.60%,18.58%
+Netherlands,Retail,Jun-21,0.54%,10.30%,0.61%,12.07%
+Netherlands,Retail - Secured on real estate property,Jun-21,0.46%,5.51%,0.56%,10.77%
+Netherlands,Retail - Qualifying Revolving,Jun-21,1.08%,40.49%,2.58%,49.49%
+Netherlands,Retail - Other Retail,Jun-21,2.00%,28.10%,2.48%,41.81%
+Norway,Corporates,Jun-21,1.20%,41.75%,1.22%,26.84%
+Norway,Corporates - Of Which: Specialised Lending,Jun-21,,,2.00%,21.07%
+Norway,Corporates - Of Which: SME,Jun-21,0.24%,,1.12%,23.52%
+Norway,Retail,Jun-21,0.31%,20.78%,0.83%,21.68%
+Norway,Retail - Secured on real estate property,Jun-21,0.13%,9.31%,0.56%,19.69%
+Norway,Retail - Qualifying Revolving,Jun-21,1.57%,30.37%,1.95%,58.93%
+Norway,Retail - Other Retail,Jun-21,0.96%,24.68%,1.98%,29.46%
+Poland,Corporates,Jun-21,0.50%,37.01%,1.53%,36.73%
+Poland,Corporates - Of Which: Specialised Lending,Jun-21,0.46%,,0.80%,40.48%
+Poland,Corporates - Of Which: SME,Jun-21,0.59%,,2.25%,30.75%
+Poland,Retail,Jun-21,1.37%,36.06%,1.58%,42.56%
+Poland,Retail - Secured on real estate property,Jun-21,0.87%,24.31%,0.71%,34.66%
+Poland,Retail - Qualifying Revolving,Jun-21,1.22%,45.95%,2.38%,72.13%
+Poland,Retail - Other Retail,Jun-21,2.52%,44.39%,3.70%,56.74%
+Portugal,Corporates,Jun-21,0.88%,36.39%,3.46%,40.27%
+Portugal,Corporates - Of Which: Specialised Lending,Jun-21,0.86%,,1.89%,31.79%
+Portugal,Corporates - Of Which: SME,Jun-21,1.66%,30.83%,5.13%,39.76%
+Portugal,Retail,Jun-21,0.76%,20.99%,1.40%,20.60%
+Portugal,Retail - Secured on real estate property,Jun-21,0.46%,8.04%,1.04%,17.75%
+Portugal,Retail - Qualifying Revolving,Jun-21,0.72%,24.77%,4.28%,38.04%
+Portugal,Retail - Other Retail,Jun-21,1.93%,32.30%,3.48%,32.55%
+Romania,Corporates,Jun-21,0.74%,56.64%,2.95%,40.94%
+Romania,Corporates - Of Which: Specialised Lending,Jun-21,,,5.85%,37.69%
+Romania,Corporates - Of Which: SME,Jun-21,0.97%,,3.64%,40.60%
+Romania,Retail,Jun-21,1.74%,57.56%,2.90%,48.83%
+Romania,Retail - Secured on real estate property,Jun-21,0.67%,,2.15%,37.65%
+Romania,Retail - Qualifying Revolving,Jun-21,1.37%,59.37%,2.14%,49.04%
+Romania,Retail - Other Retail,Jun-21,2.98%,63.08%,3.43%,58.79%
+Slovakia,Corporates,Jun-21,1.45%,68.02%,2.25%,39.31%
+Slovakia,Corporates - Of Which: Specialised Lending,Jun-21,0.17%,,6.44%,30.57%
+Slovakia,Corporates - Of Which: SME,Jun-21,3.16%,65.58%,3.53%,41.32%
+Slovakia,Retail,Jun-21,0.50%,40.58%,0.99%,23.73%
+Slovakia,Retail - Secured on real estate property,Jun-21,0.40%,28.29%,0.78%,20.97%
+Slovakia,Retail - Qualifying Revolving,Jun-21,0.72%,51.84%,2.77%,55.54%
+Slovakia,Retail - Other Retail,Jun-21,1.36%,64.17%,2.66%,42.71%
+Slovenia,Corporates,Jun-21,1.03%,,2.20%,39.83%
+Slovenia,Corporates - Of Which: Specialised Lending,Jun-21,,,1.45%,11.47%
+Slovenia,Corporates - Of Which: SME,Jun-21,4.32%,,4.87%,40.18%
+Slovenia,Retail,Jun-21,12.23%,53.27%,2.85%,37.60%
+Slovenia,Retail - Secured on real estate property,Jun-21,,,2.56%,22.65%
+Slovenia,Retail - Qualifying Revolving,Jun-21,,,1.86%,61.30%
+Slovenia,Retail - Other Retail,Jun-21,3.10%,63.85%,3.07%,48.14%
+Spain,Corporates,Jun-21,1.84%,20.49%,2.72%,41.22%
+Spain,Corporates - Of Which: Specialised Lending,Jun-21,2.96%,12.43%,1.44%,22.85%
+Spain,Corporates - Of Which: SME,Jun-21,2.37%,22.24%,4.66%,40.48%
+Spain,Retail,Jun-21,1.23%,28.34%,1.91%,28.95%
+Spain,Retail - Secured on real estate property,Jun-21,0.95%,15.31%,1.29%,21.61%
+Spain,Retail - Qualifying Revolving,Jun-21,0.91%,49.74%,2.55%,58.78%
+Spain,Retail - Other Retail,Jun-21,2.52%,39.59%,4.43%,52.29%
+Sweden,Corporates,Jun-21,0.11%,21.09%,0.64%,24.42%
+Sweden,Corporates - Of Which: Specialised Lending,Jun-21,,,1.46%,27.95%
+Sweden,Corporates - Of Which: SME,Jun-21,0.23%,21.49%,0.65%,17.79%
+Sweden,Retail,Jun-21,0.12%,15.67%,0.35%,12.54%
+Sweden,Retail - Secured on real estate property,Jun-21,0.07%,5.21%,0.28%,10.83%
+Sweden,Retail - Qualifying Revolving,Jun-21,0.64%,38.36%,1.64%,59.64%
+Sweden,Retail - Other Retail,Jun-21,0.63%,30.11%,1.37%,35.76%
+United Kingdom,Corporates,Jun-21,1.16%,23.58%,1.11%,34.51%
+United Kingdom,Corporates - Of Which: Specialised Lending,Jun-21,3.44%,15.43%,1.88%,26.29%
+United Kingdom,Corporates - Of Which: SME,Jun-21,6.61%,,3.37%,30.67%
+United Kingdom,Retail,Jun-21,1.93%,5.56%,2.28%,13.12%
+United Kingdom,Retail - Secured on real estate property,Jun-21,1.97%,3.36%,2.29%,9.17%
+United Kingdom,Retail - Qualifying Revolving,Jun-21,0.91%,48.47%,1.66%,73.10%
+United Kingdom,Retail - Other Retail,Jun-21,2.13%,41.52%,2.82%,55.42%
+Australia,Corporates,Jun-21,0.75%,2.89%,1.54%,20.43%
+Australia,Corporates - Of Which: Specialised Lending,Jun-21,,,0.77%,16.56%
+Australia,Corporates - Of Which: SME,Jun-21,,,0.94%,11.52%
+Australia,Retail,Jun-21,2.03%,5.61%,0.53%,13.36%
+Australia,Retail - Secured on real estate property,Jun-21,2.04%,5.23%,0.48%,12.82%
+Australia,Retail - Qualifying Revolving,Jun-21,1.10%,25.74%,1.17%,57.90%
+Australia,Retail - Other Retail,Jun-21,2.16%,17.62%,2.11%,29.26%
+Canada,Corporates,Jun-21,0.65%,,1.09%,29.58%
+Canada,Corporates - Of Which: Specialised Lending,Jun-21,,,1.32%,27.66%
+Canada,Corporates - Of Which: SME,Jun-21,,,0.78%,21.21%
+Canada,Retail,Jun-21,1.98%,14.79%,2.36%,18.00%
+Canada,Retail - Secured on real estate property,Jun-21,1.15%,15.26%,0.89%,15.55%
+Canada,Retail - Qualifying Revolving,Jun-21,0.82%,32.43%,2.63%,51.98%
+Canada,Retail - Other Retail,Jun-21,2.19%,14.83%,2.69%,18.33%
+China,Corporates,Jun-21,2.04%,,0.77%,43.52%
+China,Corporates - Of Which: Specialised Lending,Jun-21,,,1.58%,28.57%
+China,Corporates - Of Which: SME,Jun-21,,,2.07%,41.23%
+China,Retail,Jun-21,0.49%,15.08%,0.82%,16.03%
+China,Retail - Secured on real estate property,Jun-21,2.16%,,0.76%,14.78%
+China,Retail - Qualifying Revolving,Jun-21,1.11%,41.59%,1.58%,55.29%
+China,Retail - Other Retail,Jun-21,0.56%,35.52%,1.17%,16.98%
+Hong Kong,Corporates,Jun-21,0.99%,9.30%,1.26%,32.05%
+Hong Kong,Corporates - Of Which: Specialised Lending,Jun-21,,,0.84%,15.18%
+Hong Kong,Corporates - Of Which: SME,Jun-21,,,2.61%,48.25%
+Hong Kong,Retail,Jun-21,0.31%,4.20%,0.45%,13.40%
+Hong Kong,Retail - Secured on real estate property,Jun-21,1.50%,,0.78%,14.74%
+Hong Kong,Retail - Qualifying Revolving,Jun-21,0.24%,,1.15%,50.12%
+Hong Kong,Retail - Other Retail,Jun-21,0.04%,10.48%,0.34%,13.03%
+India,Corporates,Jun-21,,,3.17%,39.59%
+India,Corporates - Of Which: Specialised Lending,Jun-21,,,1.84%,21.80%
+India,Corporates - Of Which: SME,Jun-21,,,3.34%,40.18%
+India,Retail,Jun-21,0.80%,53.68%,1.10%,28.76%
+India,Retail - Secured on real estate property,Jun-21,0.00%,,0.87%,18.92%
+India,Retail - Qualifying Revolving,Jun-21,2.86%,46.57%,3.59%,54.26%
+India,Retail - Other Retail,Jun-21,0.72%,49.32%,1.42%,35.74%
+"Korea, Republic Of",Corporates,Jun-21,,,0.56%,40.20%
+"Korea, Republic Of",Corporates - Of Which: Specialised Lending,Jun-21,,,0.78%,12.89%
+"Korea, Republic Of",Corporates - Of Which: SME,Jun-21,,,3.25%,22.81%
+"Korea, Republic Of",Retail,Jun-21,0.60%,62.68%,1.07%,68.64%
+"Korea, Republic Of",Retail - Secured on real estate property,Jun-21,6.35%,,0.36%,15.67%
+"Korea, Republic Of",Retail - Qualifying Revolving,Jun-21,2.54%,56.59%,1.45%,58.01%
+"Korea, Republic Of",Retail - Other Retail,Jun-21,0.56%,67.52%,1.10%,70.13%
+Russian Federation,Corporates,Jun-21,0.04%,,0.73%,39.91%
+Russian Federation,Corporates - Of Which: Specialised Lending,Jun-21,,,1.14%,25.40%
+Russian Federation,Corporates - Of Which: SME,Jun-21,,,3.03%,43.89%
+Russian Federation,Retail,Jun-21,2.67%,16.10%,2.26%,19.18%
+Russian Federation,Retail - Secured on real estate property,Jun-21,3.51%,13.72%,2.51%,18.86%
+Russian Federation,Retail - Qualifying Revolving,Jun-21,1.49%,29.76%,2.23%,58.24%
+Russian Federation,Retail - Other Retail,Jun-21,2.58%,51.08%,1.07%,18.03%
+Singapore,Corporates,Jun-21,1.64%,,1.64%,27.76%
+Singapore,Corporates - Of Which: Specialised Lending,Jun-21,,,2.02%,18.83%
+Singapore,Corporates - Of Which: SME,Jun-21,,,10.13%,20.67%
+Singapore,Retail,Jun-21,0.19%,9.07%,0.60%,11.88%
+Singapore,Retail - Secured on real estate property,Jun-21,1.82%,,0.72%,14.43%
+Singapore,Retail - Qualifying Revolving,Jun-21,1.15%,51.52%,0.96%,52.53%
+Singapore,Retail - Other Retail,Jun-21,0.34%,26.96%,0.55%,10.88%
+Switzerland,Corporates,Jun-21,0.92%,15.05%,0.99%,30.75%
+Switzerland,Corporates - Of Which: Specialised Lending,Jun-21,,,0.83%,24.77%
+Switzerland,Corporates - Of Which: SME,Jun-21,3.31%,,1.49%,25.45%
+Switzerland,Retail,Jun-21,0.60%,11.51%,0.80%,19.81%
+Switzerland,Retail - Secured on real estate property,Jun-21,0.37%,14.16%,0.77%,19.28%
+Switzerland,Retail - Qualifying Revolving,Jun-21,0.67%,29.97%,2.00%,51.73%
+Switzerland,Retail - Other Retail,Jun-21,1.52%,8.65%,1.17%,20.75%
+United States,Corporates,Jun-21,0.85%,17.15%,1.30%,27.16%
+United States,Corporates - Of Which: Specialised Lending,Jun-21,3.48%,10.72%,2.42%,20.26%
+United States,Corporates - Of Which: SME,Jun-21,0.94%,14.35%,2.82%,20.57%
+United States,Retail,Jun-21,2.66%,15.73%,2.19%,24.41%
+United States,Retail - Secured on real estate property,Jun-21,0.88%,9.80%,0.93%,16.35%
+United States,Retail - Qualifying Revolving,Jun-21,0.65%,32.66%,1.60%,57.36%
+United States,Retail - Other Retail,Jun-21,3.16%,15.86%,2.56%,26.23%
+Austria,Corporates,Mar-21,1.26%,39.73%,1.22%,33.78%
+Austria,Corporates - Of Which: Specialised Lending,Mar-21,,,1.62%,10.25%
+Austria,Corporates - Of Which: SME,Mar-21,1.51%,21.45%,2.50%,30.94%
+Austria,Retail,Mar-21,0.79%,27.42%,1.28%,26.76%
+Austria,Retail - Secured on real estate property,Mar-21,0.64%,8.27%,1.11%,10.62%
+Austria,Retail - Qualifying Revolving,Mar-21,0.59%,55.39%,1.80%,64.82%
+Austria,Retail - Other Retail,Mar-21,1.07%,44.30%,1.76%,45.35%
+Belgium,Corporates,Mar-21,1.48%,21.40%,2.42%,26.87%
+Belgium,Corporates - Of Which: Specialised Lending,Mar-21,1.98%,,1.64%,22.18%
+Belgium,Corporates - Of Which: SME,Mar-21,1.65%,14.74%,2.67%,24.23%
+Belgium,Retail,Mar-21,0.95%,8.93%,0.99%,17.08%
+Belgium,Retail - Secured on real estate property,Mar-21,0.84%,3.51%,0.88%,13.12%
+Belgium,Retail - Qualifying Revolving,Mar-21,1.33%,17.17%,0.68%,49.31%
+Belgium,Retail - Other Retail,Mar-21,1.37%,22.04%,1.60%,33.06%
+Bulgaria,Corporates,Mar-21,2.61%,,1.88%,43.37%
+Bulgaria,Corporates - Of Which: Specialised Lending,Mar-21,,,69.94%,56.49%
+Bulgaria,Corporates - Of Which: SME,Mar-21,,,3.32%,40.54%
+Bulgaria,Retail,Mar-21,3.38%,53.56%,2.37%,32.82%
+Bulgaria,Retail - Secured on real estate property,Mar-21,2.74%,37.75%,1.88%,23.99%
+Bulgaria,Retail - Qualifying Revolving,Mar-21,2.82%,80.56%,3.04%,42.75%
+Bulgaria,Retail - Other Retail,Mar-21,5.14%,69.66%,3.84%,55.87%
+Croatia,Corporates,Mar-21,1.56%,,3.80%,40.75%
+Croatia,Corporates - Of Which: Specialised Lending,Mar-21,,,0.79%,18.59%
+Croatia,Corporates - Of Which: SME,Mar-21,,,6.08%,41.65%
+Croatia,Retail,Mar-21,2.86%,16.57%,2.54%,34.94%
+Croatia,Retail - Secured on real estate property,Mar-21,,,1.77%,29.28%
+Croatia,Retail - Qualifying Revolving,Mar-21,0.91%,61.98%,1.49%,60.93%
+Croatia,Retail - Other Retail,Mar-21,3.61%,16.49%,3.03%,38.29%
+Cyprus,Corporates,Mar-21,0.29%,,1.82%,30.92%
+Cyprus,Corporates - Of Which: Specialised Lending,Mar-21,,,2.22%,30.50%
+Cyprus,Corporates - Of Which: SME,Mar-21,,,3.70%,14.05%
+Cyprus,Retail,Mar-21,0.82%,53.82%,1.25%,19.09%
+Cyprus,Retail - Secured on real estate property,Mar-21,,,1.02%,14.45%
+Cyprus,Retail - Qualifying Revolving,Mar-21,0.85%,33.40%,1.28%,57.86%
+Cyprus,Retail - Other Retail,Mar-21,0.32%,58.97%,1.40%,20.83%
+Czech,Corporates,Mar-21,1.09%,40.78%,2.30%,31.95%
+Czech,Corporates - Of Which: Specialised Lending,Mar-21,0.47%,30.28%,1.60%,26.31%
+Czech,Corporates - Of Which: SME,Mar-21,2.09%,31.34%,3.34%,32.26%
+Czech,Retail,Mar-21,1.03%,30.68%,1.56%,27.81%
+Czech,Retail - Secured on real estate property,Mar-21,0.62%,17.70%,1.12%,21.00%
+Czech,Retail - Qualifying Revolving,Mar-21,1.46%,33.12%,4.15%,53.62%
+Czech,Retail - Other Retail,Mar-21,2.15%,41.23%,2.68%,45.08%
+Denmark,Corporates,Mar-21,0.77%,18.93%,1.15%,21.73%
+Denmark,Corporates - Of Which: Specialised Lending,Mar-21,,,1.81%,22.29%
+Denmark,Corporates - Of Which: SME,Mar-21,0.46%,24.71%,1.39%,19.04%
+Denmark,Retail,Mar-21,0.57%,13.01%,0.86%,18.29%
+Denmark,Retail - Secured on real estate property,Mar-21,0.56%,9.70%,0.81%,16.59%
+Denmark,Retail - Qualifying Revolving,Mar-21,1.84%,30.22%,1.75%,57.36%
+Denmark,Retail - Other Retail,Mar-21,0.68%,38.59%,1.94%,40.55%
+Estonia,Corporates,Mar-21,0.89%,,1.58%,41.36%
+Estonia,Corporates - Of Which: Specialised Lending,Mar-21,,,1.51%,30.24%
+Estonia,Corporates - Of Which: SME,Mar-21,,,1.81%,39.25%
+Estonia,Retail,Mar-21,0.81%,27.84%,1.41%,15.70%
+Estonia,Retail - Secured on real estate property,Mar-21,0.79%,27.85%,1.11%,12.71%
+Estonia,Retail - Qualifying Revolving,Mar-21,13.04%,59.44%,3.09%,54.48%
+Estonia,Retail - Other Retail,Mar-21,0.88%,27.80%,2.81%,29.79%
+Finland,Corporates,Mar-21,1.53%,15.70%,1.23%,35.16%
+Finland,Corporates - Of Which: Specialised Lending,Mar-21,,,0.49%,28.15%
+Finland,Corporates - Of Which: SME,Mar-21,2.20%,12.16%,1.63%,31.97%
+Finland,Retail,Mar-21,1.28%,1.76%,1.46%,21.02%
+Finland,Retail - Secured on real estate property,Mar-21,1.29%,1.36%,1.09%,16.65%
+Finland,Retail - Qualifying Revolving,Mar-21,1.93%,25.79%,2.22%,56.52%
+Finland,Retail - Other Retail,Mar-21,1.24%,4.10%,3.18%,35.34%
+France,Corporates,Mar-21,0.82%,19.16%,1.85%,35.00%
+France,Corporates - Of Which: Specialised Lending,Mar-21,0.41%,,1.16%,23.59%
+France,Corporates - Of Which: SME,Mar-21,1.45%,24.45%,3.01%,34.81%
+France,Retail,Mar-21,0.53%,19.29%,1.42%,17.02%
+France,Retail - Secured on real estate property,Mar-21,0.36%,9.93%,1.04%,12.52%
+France,Retail - Qualifying Revolving,Mar-21,0.77%,37.13%,2.90%,36.41%
+France,Retail - Other Retail,Mar-21,0.83%,25.19%,1.84%,22.76%
+Germany,Corporates,Mar-21,0.66%,34.66%,1.04%,36.48%
+Germany,Corporates - Of Which: Specialised Lending,Mar-21,0.76%,37.13%,1.02%,33.26%
+Germany,Corporates - Of Which: SME,Mar-21,0.74%,34.16%,1.23%,32.86%
+Germany,Retail,Mar-21,0.58%,24.12%,0.94%,27.22%
+Germany,Retail - Secured on real estate property,Mar-21,0.38%,8.66%,0.75%,17.29%
+Germany,Retail - Qualifying Revolving,Mar-21,0.44%,32.94%,0.59%,64.49%
+Germany,Retail - Other Retail,Mar-21,1.22%,36.98%,1.72%,46.20%
+Greece,Corporates,Mar-21,2.05%,39.76%,7.44%,39.77%
+Greece,Corporates - Of Which: Specialised Lending,Mar-21,,,4.96%,25.51%
+Greece,Corporates - Of Which: SME,Mar-21,,,13.76%,39.19%
+Greece,Retail,Mar-21,7.11%,78.55%,11.25%,32.06%
+Greece,Retail - Secured on real estate property,Mar-21,8.39%,,11.93%,20.73%
+Greece,Retail - Qualifying Revolving,Mar-21,2.31%,81.30%,3.33%,72.08%
+Greece,Retail - Other Retail,Mar-21,7.41%,86.12%,12.03%,43.89%
+Hungary,Corporates,Mar-21,2.14%,65.76%,1.72%,42.84%
+Hungary,Corporates - Of Which: Specialised Lending,Mar-21,,,2.43%,31.01%
+Hungary,Corporates - Of Which: SME,Mar-21,2.86%,,2.67%,46.48%
+Hungary,Retail,Mar-21,0.98%,53.00%,2.77%,43.54%
+Hungary,Retail - Secured on real estate property,Mar-21,0.93%,,1.99%,33.69%
+Hungary,Retail - Qualifying Revolving,Mar-21,3.05%,42.93%,2.03%,61.72%
+Hungary,Retail - Other Retail,Mar-21,1.10%,58.03%,4.52%,67.28%
+Ireland,Corporates,Mar-21,2.40%,22.74%,1.92%,29.30%
+Ireland,Corporates - Of Which: Specialised Lending,Mar-21,4.24%,,11.67%,30.54%
+Ireland,Corporates - Of Which: SME,Mar-21,4.19%,,3.38%,35.15%
+Ireland,Retail,Mar-21,1.17%,13.84%,2.86%,26.43%
+Ireland,Retail - Secured on real estate property,Mar-21,1.01%,12.08%,2.72%,23.82%
+Ireland,Retail - Qualifying Revolving,Mar-21,1.37%,10.27%,2.57%,59.78%
+Ireland,Retail - Other Retail,Mar-21,3.84%,23.62%,4.59%,60.25%
+Italy,Corporates,Mar-21,0.58%,26.97%,4.85%,36.81%
+Italy,Corporates - Of Which: Specialised Lending,Mar-21,1.18%,,3.82%,21.20%
+Italy,Corporates - Of Which: SME,Mar-21,0.99%,26.00%,9.82%,39.23%
+Italy,Retail,Mar-21,3.41%,41.30%,2.18%,26.32%
+Italy,Retail - Secured on real estate property,Mar-21,3.07%,34.78%,1.37%,19.71%
+Italy,Retail - Qualifying Revolving,Mar-21,0.42%,26.60%,3.16%,57.37%
+Italy,Retail - Other Retail,Mar-21,4.12%,49.76%,5.43%,40.52%
+Latvia,Corporates,Mar-21,7.01%,22.86%,1.76%,41.72%
+Latvia,Corporates - Of Which: Specialised Lending,Mar-21,,,,
+Latvia,Corporates - Of Which: SME,Mar-21,,,2.06%,38.87%
+Latvia,Retail,Mar-21,1.61%,36.75%,2.69%,24.66%
+Latvia,Retail - Secured on real estate property,Mar-21,1.73%,34.13%,2.12%,18.65%
+Latvia,Retail - Qualifying Revolving,Mar-21,6.31%,74.41%,5.20%,59.81%
+Latvia,Retail - Other Retail,Mar-21,1.30%,45.85%,4.37%,43.36%
+Lithuania,Corporates,Mar-21,2.05%,72.78%,1.47%,41.70%
+Lithuania,Corporates - Of Which: Specialised Lending,Mar-21,,,,
+Lithuania,Corporates - Of Which: SME,Mar-21,,,2.54%,40.16%
+Lithuania,Retail,Mar-21,1.38%,35.34%,1.45%,18.21%
+Lithuania,Retail - Secured on real estate property,Mar-21,1.47%,35.17%,1.23%,15.62%
+Lithuania,Retail - Qualifying Revolving,Mar-21,2.32%,36.19%,2.53%,56.24%
+Lithuania,Retail - Other Retail,Mar-21,0.80%,37.45%,2.83%,36.88%
+Luxembourg,Corporates,Mar-21,0.69%,6.45%,1.15%,30.83%
+Luxembourg,Corporates - Of Which: Specialised Lending,Mar-21,0.82%,14.10%,0.99%,26.07%
+Luxembourg,Corporates - Of Which: SME,Mar-21,2.14%,10.01%,2.06%,27.56%
+Luxembourg,Retail,Mar-21,0.40%,9.53%,1.01%,16.59%
+Luxembourg,Retail - Secured on real estate property,Mar-21,0.26%,1.87%,0.91%,15.53%
+Luxembourg,Retail - Qualifying Revolving,Mar-21,0.32%,33.72%,0.61%,6.83%
+Luxembourg,Retail - Other Retail,Mar-21,1.25%,15.59%,1.92%,20.96%
+Malta,Corporates,Mar-21,0.00%,,3.71%,22.12%
+Malta,Corporates - Of Which: Specialised Lending,Mar-21,,,3.06%,17.21%
+Malta,Corporates - Of Which: SME,Mar-21,,,0.88%,37.66%
+Malta,Retail,Mar-21,0.57%,5.61%,1.60%,19.08%
+Malta,Retail - Secured on real estate property,Mar-21,0.15%,,1.60%,16.70%
+Malta,Retail - Qualifying Revolving,Mar-21,1.05%,,1.56%,52.35%
+Malta,Retail - Other Retail,Mar-21,0.07%,48.32%,1.69%,23.38%
+Netherlands,Corporates,Mar-21,1.50%,12.98%,1.52%,26.36%
+Netherlands,Corporates - Of Which: Specialised Lending,Mar-21,1.06%,19.59%,1.41%,15.11%
+Netherlands,Corporates - Of Which: SME,Mar-21,3.17%,12.43%,2.81%,18.64%
+Netherlands,Retail,Mar-21,0.60%,10.32%,0.64%,12.13%
+Netherlands,Retail - Secured on real estate property,Mar-21,0.52%,5.58%,0.59%,10.80%
+Netherlands,Retail - Qualifying Revolving,Mar-21,1.27%,36.57%,2.83%,50.01%
+Netherlands,Retail - Other Retail,Mar-21,1.98%,29.54%,1.95%,40.83%
+Norway,Corporates,Mar-21,1.47%,30.47%,1.50%,26.32%
+Norway,Corporates - Of Which: Specialised Lending,Mar-21,,,1.64%,21.46%
+Norway,Corporates - Of Which: SME,Mar-21,0.85%,17.79%,1.28%,23.12%
+Norway,Retail,Mar-21,0.39%,15.31%,0.93%,21.27%
+Norway,Retail - Secured on real estate property,Mar-21,0.24%,3.18%,0.90%,19.81%
+Norway,Retail - Qualifying Revolving,Mar-21,1.90%,29.27%,2.10%,57.15%
+Norway,Retail - Other Retail,Mar-21,1.24%,27.24%,1.90%,31.75%
+Poland,Corporates,Mar-21,0.63%,36.69%,1.63%,35.25%
+Poland,Corporates - Of Which: Specialised Lending,Mar-21,1.09%,,3.03%,34.44%
+Poland,Corporates - Of Which: SME,Mar-21,0.78%,,2.32%,31.93%
+Poland,Retail,Mar-21,1.37%,33.48%,1.65%,36.57%
+Poland,Retail - Secured on real estate property,Mar-21,0.83%,23.27%,0.76%,30.98%
+Poland,Retail - Qualifying Revolving,Mar-21,1.20%,50.10%,2.50%,64.36%
+Poland,Retail - Other Retail,Mar-21,2.58%,39.73%,3.85%,46.22%
+Portugal,Corporates,Mar-21,0.95%,36.75%,3.53%,39.78%
+Portugal,Corporates - Of Which: Specialised Lending,Mar-21,0.32%,,1.62%,32.50%
+Portugal,Corporates - Of Which: SME,Mar-21,1.74%,33.10%,5.32%,39.88%
+Portugal,Retail,Mar-21,0.94%,20.84%,1.32%,20.56%
+Portugal,Retail - Secured on real estate property,Mar-21,0.61%,8.33%,0.95%,17.77%
+Portugal,Retail - Qualifying Revolving,Mar-21,0.90%,24.18%,4.52%,37.62%
+Portugal,Retail - Other Retail,Mar-21,2.23%,33.77%,3.40%,32.11%
+Romania,Corporates,Mar-21,1.16%,,2.98%,40.94%
+Romania,Corporates - Of Which: Specialised Lending,Mar-21,,,5.53%,31.01%
+Romania,Corporates - Of Which: SME,Mar-21,1.59%,,4.18%,41.98%
+Romania,Retail,Mar-21,2.08%,52.55%,2.35%,48.50%
+Romania,Retail - Secured on real estate property,Mar-21,0.91%,,0.93%,37.28%
+Romania,Retail - Qualifying Revolving,Mar-21,1.10%,51.44%,0.99%,49.04%
+Romania,Retail - Other Retail,Mar-21,3.69%,58.03%,3.67%,59.23%
+Slovakia,Corporates,Mar-21,2.30%,71.23%,2.20%,40.60%
+Slovakia,Corporates - Of Which: Specialised Lending,Mar-21,,,5.00%,33.06%
+Slovakia,Corporates - Of Which: SME,Mar-21,4.66%,68.84%,3.58%,41.70%
+Slovakia,Retail,Mar-21,0.60%,41.73%,1.18%,23.78%
+Slovakia,Retail - Secured on real estate property,Mar-21,0.46%,28.33%,0.89%,20.37%
+Slovakia,Retail - Qualifying Revolving,Mar-21,0.82%,52.00%,2.75%,55.42%
+Slovakia,Retail - Other Retail,Mar-21,1.42%,66.90%,3.04%,44.02%
+Slovenia,Corporates,Mar-21,1.17%,,3.55%,40.56%
+Slovenia,Corporates - Of Which: Specialised Lending,Mar-21,,,1.58%,17.42%
+Slovenia,Corporates - Of Which: SME,Mar-21,4.36%,,4.95%,42.16%
+Slovenia,Retail,Mar-21,8.17%,47.85%,3.36%,23.30%
+Slovenia,Retail - Secured on real estate property,Mar-21,48.51%,,1.71%,16.39%
+Slovenia,Retail - Qualifying Revolving,Mar-21,4.80%,,2.31%,62.71%
+Slovenia,Retail - Other Retail,Mar-21,3.29%,59.99%,3.93%,25.36%
+Spain,Corporates,Mar-21,1.53%,20.40%,2.70%,40.14%
+Spain,Corporates - Of Which: Specialised Lending,Mar-21,2.07%,10.23%,1.40%,21.10%
+Spain,Corporates - Of Which: SME,Mar-21,1.89%,21.41%,4.58%,40.76%
+Spain,Retail,Mar-21,1.26%,28.27%,1.90%,28.70%
+Spain,Retail - Secured on real estate property,Mar-21,0.92%,15.24%,1.21%,20.95%
+Spain,Retail - Qualifying Revolving,Mar-21,0.99%,49.94%,2.48%,59.65%
+Spain,Retail - Other Retail,Mar-21,2.58%,40.01%,4.79%,52.91%
+Sweden,Corporates,Mar-21,0.20%,34.83%,0.64%,24.25%
+Sweden,Corporates - Of Which: Specialised Lending,Mar-21,,,1.52%,27.63%
+Sweden,Corporates - Of Which: SME,Mar-21,0.31%,27.04%,0.73%,17.55%
+Sweden,Retail,Mar-21,0.12%,15.04%,0.44%,12.58%
+Sweden,Retail - Secured on real estate property,Mar-21,0.08%,4.97%,0.30%,10.89%
+Sweden,Retail - Qualifying Revolving,Mar-21,0.70%,41.21%,1.64%,58.56%
+Sweden,Retail - Other Retail,Mar-21,0.66%,28.12%,1.45%,35.02%
+United Kingdom,Corporates,Mar-21,1.43%,18.65%,1.02%,33.60%
+United Kingdom,Corporates - Of Which: Specialised Lending,Mar-21,3.57%,11.19%,1.28%,26.87%
+United Kingdom,Corporates - Of Which: SME,Mar-21,12.87%,20.74%,2.10%,27.46%
+United Kingdom,Retail,Mar-21,1.41%,5.28%,2.28%,13.16%
+United Kingdom,Retail - Secured on real estate property,Mar-21,1.40%,2.09%,2.29%,9.19%
+United Kingdom,Retail - Qualifying Revolving,Mar-21,0.90%,50.57%,1.64%,72.91%
+United Kingdom,Retail - Other Retail,Mar-21,2.29%,39.11%,2.79%,56.24%
+Australia,Corporates,Mar-21,1.29%,,1.53%,20.42%
+Australia,Corporates - Of Which: Specialised Lending,Mar-21,,,0.76%,15.65%
+Australia,Corporates - Of Which: SME,Mar-21,,,0.97%,10.90%
+Australia,Retail,Mar-21,2.24%,5.80%,0.56%,14.30%
+Australia,Retail - Secured on real estate property,Mar-21,2.23%,5.34%,0.51%,13.81%
+Australia,Retail - Qualifying Revolving,Mar-21,1.28%,18.34%,1.04%,57.70%
+Australia,Retail - Other Retail,Mar-21,3.23%,16.67%,2.12%,28.99%
+Canada,Corporates,Mar-21,0.72%,,1.18%,29.50%
+Canada,Corporates - Of Which: Specialised Lending,Mar-21,,,1.39%,26.50%
+Canada,Corporates - Of Which: SME,Mar-21,,,2.16%,25.38%
+Canada,Retail,Mar-21,2.54%,13.44%,2.49%,17.98%
+Canada,Retail - Secured on real estate property,Mar-21,0.98%,13.56%,0.93%,14.75%
+Canada,Retail - Qualifying Revolving,Mar-21,1.15%,25.09%,2.06%,51.70%
+Canada,Retail - Other Retail,Mar-21,2.89%,13.43%,2.84%,18.41%
+China,Corporates,Mar-21,2.10%,,0.77%,44.54%
+China,Corporates - Of Which: Specialised Lending,Mar-21,,,1.82%,30.53%
+China,Corporates - Of Which: SME,Mar-21,,,1.82%,41.02%
+China,Retail,Mar-21,0.34%,25.56%,0.64%,15.27%
+China,Retail - Secured on real estate property,Mar-21,0.21%,8.15%,0.78%,14.50%
+China,Retail - Qualifying Revolving,Mar-21,1.06%,40.08%,1.38%,54.45%
+China,Retail - Other Retail,Mar-21,0.56%,36.74%,0.66%,15.42%
+Hong Kong,Corporates,Mar-21,5.77%,,1.32%,33.21%
+Hong Kong,Corporates - Of Which: Specialised Lending,Mar-21,,,0.87%,17.30%
+Hong Kong,Corporates - Of Which: SME,Mar-21,,,1.37%,42.97%
+Hong Kong,Retail,Mar-21,0.50%,5.91%,0.40%,8.64%
+Hong Kong,Retail - Secured on real estate property,Mar-21,1.06%,,0.75%,14.37%
+Hong Kong,Retail - Qualifying Revolving,Mar-21,0.18%,,0.96%,50.40%
+Hong Kong,Retail - Other Retail,Mar-21,0.08%,33.54%,0.28%,6.27%
+India,Corporates,Mar-21,6.28%,1.05%,3.32%,40.55%
+India,Corporates - Of Which: Specialised Lending,Mar-21,,,3.84%,25.70%
+India,Corporates - Of Which: SME,Mar-21,,,3.25%,32.98%
+India,Retail,Mar-21,1.05%,48.67%,1.28%,28.15%
+India,Retail - Secured on real estate property,Mar-21,0.00%,,1.16%,17.49%
+India,Retail - Qualifying Revolving,Mar-21,2.13%,47.01%,3.59%,54.25%
+India,Retail - Other Retail,Mar-21,0.59%,44.04%,1.51%,35.94%
+"Korea, Republic Of",Corporates,Mar-21,,,0.44%,39.52%
+"Korea, Republic Of",Corporates - Of Which: Specialised Lending,Mar-21,,,0.68%,13.83%
+"Korea, Republic Of",Corporates - Of Which: SME,Mar-21,,,1.75%,45.55%
+"Korea, Republic Of",Retail,Mar-21,0.60%,66.40%,1.07%,69.12%
+"Korea, Republic Of",Retail - Secured on real estate property,Mar-21,,,0.73%,15.75%
+"Korea, Republic Of",Retail - Qualifying Revolving,Mar-21,0.35%,,1.56%,58.84%
+"Korea, Republic Of",Retail - Other Retail,Mar-21,0.58%,68.50%,1.08%,70.63%
+Russian Federation,Corporates,Mar-21,,,0.75%,38.89%
+Russian Federation,Corporates - Of Which: Specialised Lending,Mar-21,,,1.19%,21.31%
+Russian Federation,Corporates - Of Which: SME,Mar-21,,,2.41%,43.83%
+Russian Federation,Retail,Mar-21,2.58%,16.76%,2.31%,18.25%
+Russian Federation,Retail - Secured on real estate property,Mar-21,2.97%,13.11%,2.50%,17.53%
+Russian Federation,Retail - Qualifying Revolving,Mar-21,2.26%,45.00%,2.22%,57.38%
+Russian Federation,Retail - Other Retail,Mar-21,2.24%,56.34%,1.04%,18.84%
+Singapore,Corporates,Mar-21,3.87%,55.26%,1.84%,27.36%
+Singapore,Corporates - Of Which: Specialised Lending,Mar-21,,,2.53%,18.16%
+Singapore,Corporates - Of Which: SME,Mar-21,,,7.59%,19.94%
+Singapore,Retail,Mar-21,0.32%,6.45%,0.69%,11.51%
+Singapore,Retail - Secured on real estate property,Mar-21,0.83%,,0.82%,14.32%
+Singapore,Retail - Qualifying Revolving,Mar-21,0.64%,20.06%,1.18%,52.27%
+Singapore,Retail - Other Retail,Mar-21,0.20%,27.62%,0.61%,10.12%
+Switzerland,Corporates,Mar-21,0.95%,13.51%,1.22%,30.73%
+Switzerland,Corporates - Of Which: Specialised Lending,Mar-21,,,0.85%,23.34%
+Switzerland,Corporates - Of Which: SME,Mar-21,2.23%,,1.11%,21.64%
+Switzerland,Retail,Mar-21,0.35%,17.16%,0.73%,19.87%
+Switzerland,Retail - Secured on real estate property,Mar-21,0.39%,13.15%,0.76%,19.03%
+Switzerland,Retail - Qualifying Revolving,Mar-21,0.69%,30.12%,1.85%,50.81%
+Switzerland,Retail - Other Retail,Mar-21,0.37%,30.12%,0.83%,21.07%
+United States,Corporates,Mar-21,1.23%,15.74%,1.23%,27.15%
+United States,Corporates - Of Which: Specialised Lending,Mar-21,3.26%,12.20%,2.25%,21.59%
+United States,Corporates - Of Which: SME,Mar-21,0.53%,,2.72%,20.78%
+United States,Retail,Mar-21,3.24%,15.53%,2.37%,24.64%
+United States,Retail - Secured on real estate property,Mar-21,0.88%,9.23%,0.98%,16.34%
+United States,Retail - Qualifying Revolving,Mar-21,0.64%,34.02%,1.52%,56.94%
+United States,Retail - Other Retail,Mar-21,3.83%,15.77%,2.77%,26.50%
+Austria,Corporates,Dec-20,1.29%,41.42%,1.20%,33.75%
+Austria,Corporates - Of Which: Specialised Lending,Dec-20,0.72%,,1.71%,9.51%
+Austria,Corporates - Of Which: SME,Dec-20,1.70%,21.87%,2.24%,31.19%
+Austria,Retail,Dec-20,0.78%,27.58%,1.25%,27.10%
+Austria,Retail - Secured on real estate property,Dec-20,0.67%,8.55%,1.10%,10.92%
+Austria,Retail - Qualifying Revolving,Dec-20,0.35%,53.18%,1.84%,64.39%
+Austria,Retail - Other Retail,Dec-20,1.00%,47.45%,1.68%,45.03%
+Belgium,Corporates,Dec-20,1.53%,20.03%,2.47%,26.96%
+Belgium,Corporates - Of Which: Specialised Lending,Dec-20,,,1.68%,22.90%
+Belgium,Corporates - Of Which: SME,Dec-20,1.76%,14.10%,2.64%,24.57%
+Belgium,Retail,Dec-20,0.99%,9.63%,1.03%,17.17%
+Belgium,Retail - Secured on real estate property,Dec-20,0.86%,3.86%,0.91%,13.27%
+Belgium,Retail - Qualifying Revolving,Dec-20,2.70%,10.50%,0.85%,49.29%
+Belgium,Retail - Other Retail,Dec-20,1.50%,22.75%,1.68%,33.06%
+Bulgaria,Corporates,Dec-20,1.69%,,1.91%,44.34%
+Bulgaria,Corporates - Of Which: Specialised Lending,Dec-20,,,64.36%,54.35%
+Bulgaria,Corporates - Of Which: SME,Dec-20,,,3.46%,41.79%
+Bulgaria,Retail,Dec-20,2.94%,49.39%,2.37%,33.03%
+Bulgaria,Retail - Secured on real estate property,Dec-20,2.35%,31.00%,1.91%,23.97%
+Bulgaria,Retail - Qualifying Revolving,Dec-20,2.42%,77.45%,3.08%,42.51%
+Bulgaria,Retail - Other Retail,Dec-20,4.52%,67.98%,3.78%,56.53%
+Croatia,Corporates,Dec-20,1.64%,,3.92%,40.49%
+Croatia,Corporates - Of Which: Specialised Lending,Dec-20,,,1.19%,18.12%
+Croatia,Corporates - Of Which: SME,Dec-20,,,5.77%,41.90%
+Croatia,Retail,Dec-20,3.24%,16.59%,2.63%,35.00%
+Croatia,Retail - Secured on real estate property,Dec-20,1.82%,,1.83%,29.30%
+Croatia,Retail - Qualifying Revolving,Dec-20,1.13%,35.70%,2.40%,66.26%
+Croatia,Retail - Other Retail,Dec-20,4.03%,16.56%,3.14%,38.34%
+Cyprus,Corporates,Dec-20,5.05%,,3.65%,33.58%
+Cyprus,Corporates - Of Which: Specialised Lending,Dec-20,,,2.06%,29.52%
+Cyprus,Corporates - Of Which: SME,Dec-20,,,3.44%,19.20%
+Cyprus,Retail,Dec-20,0.25%,24.35%,1.32%,17.72%
+Cyprus,Retail - Secured on real estate property,Dec-20,,,1.73%,12.94%
+Cyprus,Retail - Qualifying Revolving,Dec-20,1.44%,,0.55%,72.62%
+Cyprus,Retail - Other Retail,Dec-20,0.08%,33.72%,1.29%,13.92%
+Czech,Corporates,Dec-20,1.08%,52.20%,2.39%,32.90%
+Czech,Corporates - Of Which: Specialised Lending,Dec-20,0.42%,32.78%,1.69%,27.11%
+Czech,Corporates - Of Which: SME,Dec-20,2.01%,41.55%,3.28%,31.78%
+Czech,Retail,Dec-20,1.02%,33.67%,1.46%,27.64%
+Czech,Retail - Secured on real estate property,Dec-20,0.61%,19.51%,1.08%,21.18%
+Czech,Retail - Qualifying Revolving,Dec-20,1.57%,29.64%,3.02%,52.28%
+Czech,Retail - Other Retail,Dec-20,2.14%,44.21%,2.59%,45.31%
+Denmark,Corporates,Dec-20,0.69%,17.95%,1.17%,22.25%
+Denmark,Corporates - Of Which: Specialised Lending,Dec-20,,,1.94%,22.31%
+Denmark,Corporates - Of Which: SME,Dec-20,0.57%,18.25%,1.47%,18.97%
+Denmark,Retail,Dec-20,0.48%,14.51%,0.85%,18.34%
+Denmark,Retail - Secured on real estate property,Dec-20,0.46%,10.50%,0.80%,16.71%
+Denmark,Retail - Qualifying Revolving,Dec-20,1.71%,32.23%,1.50%,67.50%
+Denmark,Retail - Other Retail,Dec-20,0.67%,41.08%,1.97%,40.44%
+Estonia,Corporates,Dec-20,0.77%,,1.65%,41.45%
+Estonia,Corporates - Of Which: Specialised Lending,Dec-20,,,1.39%,30.32%
+Estonia,Corporates - Of Which: SME,Dec-20,,,1.76%,40.20%
+Estonia,Retail,Dec-20,0.71%,26.44%,1.37%,15.69%
+Estonia,Retail - Secured on real estate property,Dec-20,0.66%,26.62%,1.06%,12.52%
+Estonia,Retail - Qualifying Revolving,Dec-20,1.31%,,2.69%,68.81%
+Estonia,Retail - Other Retail,Dec-20,0.90%,25.93%,2.75%,29.94%
+Finland,Corporates,Dec-20,1.59%,14.64%,1.06%,35.09%
+Finland,Corporates - Of Which: Specialised Lending,Dec-20,,,0.50%,27.14%
+Finland,Corporates - Of Which: SME,Dec-20,2.28%,12.07%,1.38%,32.13%
+Finland,Retail,Dec-20,1.26%,1.84%,1.17%,22.60%
+Finland,Retail - Secured on real estate property,Dec-20,1.27%,1.52%,0.80%,20.38%
+Finland,Retail - Qualifying Revolving,Dec-20,1.67%,30.72%,1.24%,69.71%
+Finland,Retail - Other Retail,Dec-20,1.24%,4.20%,3.06%,32.04%
+France,Corporates,Dec-20,0.88%,25.69%,1.83%,34.55%
+France,Corporates - Of Which: Specialised Lending,Dec-20,0.56%,,1.08%,23.52%
+France,Corporates - Of Which: SME,Dec-20,1.55%,32.26%,3.04%,34.63%
+France,Retail,Dec-20,0.58%,22.31%,1.47%,17.04%
+France,Retail - Secured on real estate property,Dec-20,0.41%,11.41%,1.08%,12.53%
+France,Retail - Qualifying Revolving,Dec-20,0.83%,43.72%,3.02%,36.94%
+France,Retail - Other Retail,Dec-20,0.89%,29.79%,1.88%,22.80%
+Germany,Corporates,Dec-20,0.75%,34.83%,1.05%,36.78%
+Germany,Corporates - Of Which: Specialised Lending,Dec-20,1.13%,45.41%,0.93%,33.47%
+Germany,Corporates - Of Which: SME,Dec-20,0.75%,32.17%,1.13%,32.73%
+Germany,Retail,Dec-20,0.65%,23.44%,0.96%,27.67%
+Germany,Retail - Secured on real estate property,Dec-20,0.44%,8.44%,0.76%,17.22%
+Germany,Retail - Qualifying Revolving,Dec-20,0.65%,32.23%,0.64%,65.80%
+Germany,Retail - Other Retail,Dec-20,1.27%,37.24%,1.74%,46.07%
+Greece,Corporates,Dec-20,,,6.92%,40.57%
+Greece,Corporates - Of Which: Specialised Lending,Dec-20,,,5.14%,23.18%
+Greece,Corporates - Of Which: SME,Dec-20,,,12.21%,39.37%
+Greece,Retail,Dec-20,3.71%,34.94%,9.57%,31.42%
+Greece,Retail - Secured on real estate property,Dec-20,4.05%,,10.06%,19.88%
+Greece,Retail - Qualifying Revolving,Dec-20,2.07%,69.73%,3.34%,72.62%
+Greece,Retail - Other Retail,Dec-20,4.03%,31.69%,10.34%,42.67%
+Hungary,Corporates,Dec-20,2.00%,67.76%,1.78%,42.51%
+Hungary,Corporates - Of Which: Specialised Lending,Dec-20,,,2.10%,30.60%
+Hungary,Corporates - Of Which: SME,Dec-20,2.73%,,2.70%,46.71%
+Hungary,Retail,Dec-20,0.73%,46.45%,2.95%,43.79%
+Hungary,Retail - Secured on real estate property,Dec-20,0.65%,44.14%,2.29%,33.71%
+Hungary,Retail - Qualifying Revolving,Dec-20,4.15%,34.92%,1.73%,67.70%
+Hungary,Retail - Other Retail,Dec-20,0.83%,50.84%,4.36%,68.26%
+Ireland,Corporates,Dec-20,1.88%,25.02%,1.68%,31.29%
+Ireland,Corporates - Of Which: Specialised Lending,Dec-20,3.01%,,12.45%,30.51%
+Ireland,Corporates - Of Which: SME,Dec-20,4.62%,19.21%,3.22%,37.41%
+Ireland,Retail,Dec-20,1.36%,17.09%,2.73%,27.13%
+Ireland,Retail - Secured on real estate property,Dec-20,1.25%,16.15%,2.63%,24.43%
+Ireland,Retail - Qualifying Revolving,Dec-20,1.35%,10.94%,2.30%,61.38%
+Ireland,Retail - Other Retail,Dec-20,3.40%,26.08%,4.05%,62.19%
+Italy,Corporates,Dec-20,0.69%,27.51%,4.84%,37.07%
+Italy,Corporates - Of Which: Specialised Lending,Dec-20,1.26%,,3.90%,21.13%
+Italy,Corporates - Of Which: SME,Dec-20,1.16%,27.11%,9.74%,38.93%
+Italy,Retail,Dec-20,4.17%,43.34%,2.28%,26.05%
+Italy,Retail - Secured on real estate property,Dec-20,3.58%,36.38%,1.57%,19.40%
+Italy,Retail - Qualifying Revolving,Dec-20,0.42%,24.96%,2.86%,55.59%
+Italy,Retail - Other Retail,Dec-20,5.35%,51.74%,5.42%,40.81%
+Latvia,Corporates,Dec-20,9.56%,,1.73%,41.72%
+Latvia,Corporates - Of Which: Specialised Lending,Dec-20,,,,
+Latvia,Corporates - Of Which: SME,Dec-20,,,2.06%,38.62%
+Latvia,Retail,Dec-20,1.38%,35.09%,2.65%,24.57%
+Latvia,Retail - Secured on real estate property,Dec-20,1.48%,32.34%,2.11%,18.53%
+Latvia,Retail - Qualifying Revolving,Dec-20,1.31%,72.54%,3.90%,71.19%
+Latvia,Retail - Other Retail,Dec-20,1.13%,44.22%,4.17%,42.95%
+Lithuania,Corporates,Dec-20,2.59%,71.21%,1.53%,41.56%
+Lithuania,Corporates - Of Which: Specialised Lending,Dec-20,,,,
+Lithuania,Corporates - Of Which: SME,Dec-20,,,2.60%,39.97%
+Lithuania,Retail,Dec-20,1.77%,36.54%,1.39%,18.08%
+Lithuania,Retail - Secured on real estate property,Dec-20,1.91%,36.41%,1.19%,15.42%
+Lithuania,Retail - Qualifying Revolving,Dec-20,1.42%,58.87%,1.35%,68.94%
+Lithuania,Retail - Other Retail,Dec-20,1.00%,38.24%,2.69%,37.05%
+Luxembourg,Corporates,Dec-20,0.99%,22.93%,1.17%,33.62%
+Luxembourg,Corporates - Of Which: Specialised Lending,Dec-20,,,1.05%,25.95%
+Luxembourg,Corporates - Of Which: SME,Dec-20,2.35%,9.92%,2.11%,29.36%
+Luxembourg,Retail,Dec-20,0.42%,9.92%,0.96%,16.54%
+Luxembourg,Retail - Secured on real estate property,Dec-20,0.27%,1.96%,0.84%,15.49%
+Luxembourg,Retail - Qualifying Revolving,Dec-20,0.31%,33.32%,0.64%,6.64%
+Luxembourg,Retail - Other Retail,Dec-20,1.29%,16.47%,1.94%,20.98%
+Malta,Corporates,Dec-20,5.21%,31.96%,4.94%,23.62%
+Malta,Corporates - Of Which: Specialised Lending,Dec-20,,,2.77%,17.50%
+Malta,Corporates - Of Which: SME,Dec-20,,,2.23%,48.24%
+Malta,Retail,Dec-20,0.61%,22.13%,1.04%,11.39%
+Malta,Retail - Secured on real estate property,Dec-20,0.86%,,0.73%,16.62%
+Malta,Retail - Qualifying Revolving,Dec-20,2.00%,,1.52%,76.42%
+Malta,Retail - Other Retail,Dec-20,0.18%,24.31%,1.24%,6.34%
+Netherlands,Corporates,Dec-20,1.53%,14.27%,1.54%,27.14%
+Netherlands,Corporates - Of Which: Specialised Lending,Dec-20,1.22%,18.10%,1.51%,15.16%
+Netherlands,Corporates - Of Which: SME,Dec-20,3.53%,13.48%,2.70%,17.48%
+Netherlands,Retail,Dec-20,0.71%,9.59%,0.68%,12.56%
+Netherlands,Retail - Secured on real estate property,Dec-20,0.63%,5.30%,0.62%,10.94%
+Netherlands,Retail - Qualifying Revolving,Dec-20,1.22%,38.74%,4.56%,58.74%
+Netherlands,Retail - Other Retail,Dec-20,1.96%,30.61%,2.08%,42.64%
+Norway,Corporates,Dec-20,1.82%,29.55%,1.82%,47.63%
+Norway,Corporates - Of Which: Specialised Lending,Dec-20,,,1.68%,20.20%
+Norway,Corporates - Of Which: SME,Dec-20,0.86%,,1.33%,23.23%
+Norway,Retail,Dec-20,0.31%,20.50%,0.87%,21.39%
+Norway,Retail - Secured on real estate property,Dec-20,0.16%,7.07%,0.75%,19.86%
+Norway,Retail - Qualifying Revolving,Dec-20,1.85%,30.91%,1.62%,65.76%
+Norway,Retail - Other Retail,Dec-20,1.15%,28.31%,1.88%,32.00%
+Poland,Corporates,Dec-20,0.79%,33.03%,1.65%,37.14%
+Poland,Corporates - Of Which: Specialised Lending,Dec-20,,,0.82%,41.20%
+Poland,Corporates - Of Which: SME,Dec-20,0.90%,,2.46%,32.19%
+Poland,Retail,Dec-20,1.27%,32.45%,1.53%,35.73%
+Poland,Retail - Secured on real estate property,Dec-20,0.74%,25.01%,0.68%,30.50%
+Poland,Retail - Qualifying Revolving,Dec-20,1.32%,53.37%,2.44%,64.46%
+Poland,Retail - Other Retail,Dec-20,2.43%,35.91%,3.66%,44.54%
+Portugal,Corporates,Dec-20,1.51%,34.87%,3.62%,39.79%
+Portugal,Corporates - Of Which: Specialised Lending,Dec-20,0.20%,,1.71%,32.28%
+Portugal,Corporates - Of Which: SME,Dec-20,2.88%,27.21%,5.62%,40.14%
+Portugal,Retail,Dec-20,0.98%,20.36%,1.36%,20.59%
+Portugal,Retail - Secured on real estate property,Dec-20,0.60%,6.88%,1.02%,17.78%
+Portugal,Retail - Qualifying Revolving,Dec-20,1.00%,23.98%,4.18%,38.47%
+Portugal,Retail - Other Retail,Dec-20,2.47%,33.12%,3.33%,32.47%
+Romania,Corporates,Dec-20,3.57%,,2.89%,40.95%
+Romania,Corporates - Of Which: Specialised Lending,Dec-20,,,4.05%,30.06%
+Romania,Corporates - Of Which: SME,Dec-20,6.73%,,3.96%,41.86%
+Romania,Retail,Dec-20,2.13%,52.37%,2.07%,48.68%
+Romania,Retail - Secured on real estate property,Dec-20,0.93%,,1.05%,37.22%
+Romania,Retail - Qualifying Revolving,Dec-20,1.07%,51.39%,1.27%,49.44%
+Romania,Retail - Other Retail,Dec-20,3.82%,57.34%,2.84%,59.59%
+Slovakia,Corporates,Dec-20,2.18%,75.37%,2.03%,40.40%
+Slovakia,Corporates - Of Which: Specialised Lending,Dec-20,,,5.40%,33.32%
+Slovakia,Corporates - Of Which: SME,Dec-20,5.12%,71.80%,3.52%,41.70%
+Slovakia,Retail,Dec-20,0.68%,43.01%,1.11%,23.98%
+Slovakia,Retail - Secured on real estate property,Dec-20,0.50%,29.23%,0.82%,20.49%
+Slovakia,Retail - Qualifying Revolving,Dec-20,0.87%,52.36%,2.64%,55.26%
+Slovakia,Retail - Other Retail,Dec-20,1.74%,67.53%,3.01%,44.24%
+Slovenia,Corporates,Dec-20,1.27%,,3.98%,40.18%
+Slovenia,Corporates - Of Which: Specialised Lending,Dec-20,,,1.54%,16.89%
+Slovenia,Corporates - Of Which: SME,Dec-20,4.70%,,6.94%,42.06%
+Slovenia,Retail,Dec-20,7.62%,38.84%,2.64%,23.45%
+Slovenia,Retail - Secured on real estate property,Dec-20,30.19%,,1.62%,15.80%
+Slovenia,Retail - Qualifying Revolving,Dec-20,2.96%,,2.12%,69.26%
+Slovenia,Retail - Other Retail,Dec-20,3.65%,51.72%,3.09%,25.01%
+Spain,Corporates,Dec-20,1.38%,20.13%,2.90%,38.67%
+Spain,Corporates - Of Which: Specialised Lending,Dec-20,3.08%,13.05%,1.37%,22.16%
+Spain,Corporates - Of Which: SME,Dec-20,1.59%,27.32%,5.33%,40.41%
+Spain,Retail,Dec-20,1.29%,28.77%,1.95%,28.76%
+Spain,Retail - Secured on real estate property,Dec-20,0.90%,16.09%,1.20%,20.60%
+Spain,Retail - Qualifying Revolving,Dec-20,1.03%,52.03%,2.72%,62.29%
+Spain,Retail - Other Retail,Dec-20,2.67%,41.66%,4.67%,52.91%
+Sweden,Corporates,Dec-20,0.25%,30.72%,0.66%,24.56%
+Sweden,Corporates - Of Which: Specialised Lending,Dec-20,,,1.35%,27.80%
+Sweden,Corporates - Of Which: SME,Dec-20,0.40%,27.58%,0.70%,17.37%
+Sweden,Retail,Dec-20,0.13%,15.37%,0.36%,12.56%
+Sweden,Retail - Secured on real estate property,Dec-20,0.08%,4.95%,0.29%,10.91%
+Sweden,Retail - Qualifying Revolving,Dec-20,0.96%,28.51%,1.27%,68.88%
+Sweden,Retail - Other Retail,Dec-20,0.68%,28.76%,1.44%,34.63%
+United Kingdom,Corporates,Dec-20,1.16%,10.55%,1.60%,35.09%
+United Kingdom,Corporates - Of Which: Specialised Lending,Dec-20,2.04%,7.96%,8.40%,29.97%
+United Kingdom,Corporates - Of Which: SME,Dec-20,3.83%,9.02%,2.40%,27.74%
+United Kingdom,Retail,Dec-20,0.66%,21.81%,1.51%,19.82%
+United Kingdom,Retail - Secured on real estate property,Dec-20,0.45%,6.43%,1.33%,10.78%
+United Kingdom,Retail - Qualifying Revolving,Dec-20,1.01%,43.39%,1.72%,71.21%
+United Kingdom,Retail - Other Retail,Dec-20,2.30%,33.48%,4.05%,54.33%
+Australia,Corporates,Dec-20,1.62%,7.57%,1.19%,28.20%
+Australia,Corporates - Of Which: Specialised Lending,Dec-20,,,2.65%,17.57%
+Australia,Corporates - Of Which: SME,Dec-20,,,0.99%,10.38%
+Australia,Retail,Dec-20,1.38%,5.85%,0.99%,13.29%
+Australia,Retail - Secured on real estate property,Dec-20,1.95%,5.26%,0.97%,12.76%
+Australia,Retail - Qualifying Revolving,Dec-20,1.06%,23.84%,0.74%,85.44%
+Australia,Retail - Other Retail,Dec-20,3.06%,16.22%,1.78%,23.98%
+Canada,Corporates,Dec-20,0.64%,15.92%,1.51%,34.26%
+Canada,Corporates - Of Which: Specialised Lending,Dec-20,,,1.85%,27.58%
+Canada,Corporates - Of Which: SME,Dec-20,,,1.87%,20.94%
+Canada,Retail,Dec-20,0.43%,7.36%,0.68%,19.32%
+Canada,Retail - Secured on real estate property,Dec-20,0.23%,13.02%,0.50%,17.58%
+Canada,Retail - Qualifying Revolving,Dec-20,0.72%,7.41%,1.73%,67.88%
+Canada,Retail - Other Retail,Dec-20,2.00%,13.73%,2.16%,29.10%
+China,Corporates,Dec-20,0.47%,,0.79%,47.24%
+China,Corporates - Of Which: Specialised Lending,Dec-20,,,1.69%,35.56%
+China,Corporates - Of Which: SME,Dec-20,,,2.88%,39.49%
+China,Retail,Dec-20,0.05%,16.69%,0.94%,21.35%
+China,Retail - Secured on real estate property,Dec-20,0.65%,,1.02%,11.48%
+China,Retail - Qualifying Revolving,Dec-20,0.16%,29.13%,0.72%,83.18%
+China,Retail - Other Retail,Dec-20,0.07%,17.88%,0.71%,10.77%
+Hong Kong,Corporates,Dec-20,0.72%,18.92%,1.14%,36.04%
+Hong Kong,Corporates - Of Which: Specialised Lending,Dec-20,,,1.96%,18.82%
+Hong Kong,Corporates - Of Which: SME,Dec-20,,,4.70%,19.96%
+Hong Kong,Retail,Dec-20,0.01%,15.45%,0.61%,33.02%
+Hong Kong,Retail - Secured on real estate property,Dec-20,0.01%,,0.42%,10.47%
+Hong Kong,Retail - Qualifying Revolving,Dec-20,0.01%,51.86%,0.86%,95.75%
+Hong Kong,Retail - Other Retail,Dec-20,0.02%,27.27%,0.93%,23.01%
+India,Corporates,Dec-20,2.82%,3.15%,3.93%,44.18%
+India,Corporates - Of Which: Specialised Lending,Dec-20,,,2.97%,27.86%
+India,Corporates - Of Which: SME,Dec-20,,,7.01%,32.67%
+India,Retail,Dec-20,2.17%,65.41%,8.56%,54.48%
+India,Retail - Secured on real estate property,Dec-20,2.76%,,4.46%,36.92%
+India,Retail - Qualifying Revolving,Dec-20,1.91%,48.27%,11.45%,79.30%
+India,Retail - Other Retail,Dec-20,5.04%,86.50%,6.30%,58.01%
+"Korea, Republic Of",Corporates,Dec-20,0.08%,,0.81%,37.52%
+"Korea, Republic Of",Corporates - Of Which: Specialised Lending,Dec-20,,,1.06%,13.43%
+"Korea, Republic Of",Corporates - Of Which: SME,Dec-20,,,3.70%,15.53%
+"Korea, Republic Of",Retail,Dec-20,0.12%,53.13%,0.87%,35.64%
+"Korea, Republic Of",Retail - Secured on real estate property,Dec-20,0.08%,,0.18%,9.97%
+"Korea, Republic Of",Retail - Qualifying Revolving,Dec-20,0.02%,79.95%,0.40%,75.16%
+"Korea, Republic Of",Retail - Other Retail,Dec-20,0.21%,82.39%,2.27%,78.02%
+Russian Federation,Corporates,Dec-20,0.11%,,0.64%,39.02%
+Russian Federation,Corporates - Of Which: Specialised Lending,Dec-20,,,0.98%,21.91%
+Russian Federation,Corporates - Of Which: SME,Dec-20,,,3.03%,43.65%
+Russian Federation,Retail,Dec-20,3.10%,25.80%,2.27%,18.59%
+Russian Federation,Retail - Secured on real estate property,Dec-20,5.26%,21.60%,2.44%,17.63%
+Russian Federation,Retail - Qualifying Revolving,Dec-20,2.03%,51.30%,2.10%,64.17%
+Russian Federation,Retail - Other Retail,Dec-20,1.84%,65.14%,0.97%,19.31%
+Singapore,Corporates,Dec-20,2.37%,52.94%,2.51%,31.56%
+Singapore,Corporates - Of Which: Specialised Lending,Dec-20,,,4.17%,21.81%
+Singapore,Corporates - Of Which: SME,Dec-20,,,9.79%,27.37%
+Singapore,Retail,Dec-20,0.06%,23.87%,0.64%,21.96%
+Singapore,Retail - Secured on real estate property,Dec-20,1.27%,,0.28%,16.00%
+Singapore,Retail - Qualifying Revolving,Dec-20,0.31%,31.69%,2.48%,72.18%
+Singapore,Retail - Other Retail,Dec-20,0.05%,49.00%,1.07%,16.98%
+Switzerland,Corporates,Dec-20,1.64%,5.95%,1.06%,31.88%
+Switzerland,Corporates - Of Which: Specialised Lending,Dec-20,,,0.86%,25.35%
+Switzerland,Corporates - Of Which: SME,Dec-20,3.30%,29.01%,1.82%,28.00%
+Switzerland,Retail,Dec-20,0.52%,16.10%,0.76%,18.90%
+Switzerland,Retail - Secured on real estate property,Dec-20,0.70%,11.82%,0.73%,19.01%
+Switzerland,Retail - Qualifying Revolving,Dec-20,0.84%,30.02%,1.67%,55.87%
+Switzerland,Retail - Other Retail,Dec-20,0.31%,27.30%,1.02%,16.20%
+United States,Corporates,Dec-20,1.10%,16.66%,1.20%,29.44%
+United States,Corporates - Of Which: Specialised Lending,Dec-20,4.62%,16.78%,2.79%,21.18%
+United States,Corporates - Of Which: SME,Dec-20,0.34%,,2.55%,21.32%
+United States,Retail,Dec-20,1.29%,13.18%,1.91%,47.20%
+United States,Retail - Secured on real estate property,Dec-20,0.38%,10.32%,0.96%,45.30%
+United States,Retail - Qualifying Revolving,Dec-20,0.02%,18.11%,2.12%,92.81%
+United States,Retail - Other Retail,Dec-20,3.70%,15.17%,2.75%,31.78%
+Austria,Corporates,Sep-20,0.34%,28.35%,1.17%,33.77%
+Austria,Corporates - Of Which: Specialised Lending,Sep-20,,,1.62%,10.22%
+Austria,Corporates - Of Which: SME,Sep-20,0.79%,20.27%,2.25%,30.60%
+Austria,Retail,Sep-20,0.47%,28.76%,1.33%,27.25%
+Austria,Retail - Secured on real estate property,Sep-20,0.40%,7.91%,1.17%,11.09%
+Austria,Retail - Qualifying Revolving,Sep-20,0.19%,49.53%,0.78%,64.42%
+Austria,Retail - Other Retail,Sep-20,0.61%,50.13%,1.81%,56.48%
+Belgium,Corporates,Sep-20,0.98%,25.42%,2.26%,26.82%
+Belgium,Corporates - Of Which: Specialised Lending,Sep-20,,,1.13%,22.18%
+Belgium,Corporates - Of Which: SME,Sep-20,1.26%,13.08%,2.69%,24.61%
+Belgium,Retail,Sep-20,0.78%,9.80%,1.10%,17.29%
+Belgium,Retail - Secured on real estate property,Sep-20,0.67%,4.10%,0.99%,13.32%
+Belgium,Retail - Qualifying Revolving,Sep-20,2.38%,9.41%,0.51%,49.35%
+Belgium,Retail - Other Retail,Sep-20,1.17%,22.82%,1.72%,33.13%
+Bulgaria,Corporates,Sep-20,0.22%,,2.26%,42.45%
+Bulgaria,Corporates - Of Which: Specialised Lending,Sep-20,,,59.27%,51.82%
+Bulgaria,Corporates - Of Which: SME,Sep-20,,,2.88%,42.51%
+Bulgaria,Retail,Sep-20,1.85%,47.83%,2.60%,33.14%
+Bulgaria,Retail - Secured on real estate property,Sep-20,1.39%,,2.23%,23.72%
+Bulgaria,Retail - Qualifying Revolving,Sep-20,1.73%,71.28%,3.20%,42.37%
+Bulgaria,Retail - Other Retail,Sep-20,2.95%,64.44%,3.65%,56.33%
+Croatia,Corporates,Sep-20,1.13%,,2.55%,40.58%
+Croatia,Corporates - Of Which: Specialised Lending,Sep-20,,,1.16%,19.97%
+Croatia,Corporates - Of Which: SME,Sep-20,,,4.04%,41.91%
+Croatia,Retail,Sep-20,2.63%,16.64%,2.28%,35.00%
+Croatia,Retail - Secured on real estate property,Sep-20,,,1.77%,29.30%
+Croatia,Retail - Qualifying Revolving,Sep-20,1.26%,30.38%,2.09%,61.76%
+Croatia,Retail - Other Retail,Sep-20,3.20%,16.70%,2.60%,38.28%
+Cyprus,Corporates,Sep-20,7.61%,,4.65%,35.57%
+Cyprus,Corporates - Of Which: Specialised Lending,Sep-20,,,2.74%,27.32%
+Cyprus,Corporates - Of Which: SME,Sep-20,,,3.68%,27.80%
+Cyprus,Retail,Sep-20,0.24%,21.56%,0.71%,15.24%
+Cyprus,Retail - Secured on real estate property,Sep-20,,,0.89%,13.26%
+Cyprus,Retail - Qualifying Revolving,Sep-20,1.01%,19.67%,0.43%,58.76%
+Cyprus,Retail - Other Retail,Sep-20,0.09%,33.79%,0.71%,13.75%
+Czech,Corporates,Sep-20,0.53%,52.93%,2.18%,32.60%
+Czech,Corporates - Of Which: Specialised Lending,Sep-20,0.06%,58.67%,1.64%,26.53%
+Czech,Corporates - Of Which: SME,Sep-20,0.85%,44.99%,3.16%,32.05%
+Czech,Retail,Sep-20,0.63%,31.78%,1.52%,27.84%
+Czech,Retail - Secured on real estate property,Sep-20,0.36%,18.02%,1.12%,21.27%
+Czech,Retail - Qualifying Revolving,Sep-20,1.13%,31.29%,3.07%,52.21%
+Czech,Retail - Other Retail,Sep-20,1.34%,41.03%,2.69%,45.80%
+Denmark,Corporates,Sep-20,0.48%,17.02%,1.22%,22.36%
+Denmark,Corporates - Of Which: Specialised Lending,Sep-20,,,1.83%,22.70%
+Denmark,Corporates - Of Which: SME,Sep-20,0.44%,,1.53%,19.27%
+Denmark,Retail,Sep-20,0.37%,14.32%,0.87%,18.26%
+Denmark,Retail - Secured on real estate property,Sep-20,0.36%,10.17%,0.81%,16.61%
+Denmark,Retail - Qualifying Revolving,Sep-20,1.42%,33.79%,1.26%,56.75%
+Denmark,Retail - Other Retail,Sep-20,0.52%,41.65%,2.06%,40.36%
+Estonia,Corporates,Sep-20,0.44%,31.96%,1.27%,41.42%
+Estonia,Corporates - Of Which: Specialised Lending,Sep-20,,,1.04%,34.01%
+Estonia,Corporates - Of Which: SME,Sep-20,1.03%,31.41%,1.78%,39.83%
+Estonia,Retail,Sep-20,0.51%,25.64%,1.38%,15.85%
+Estonia,Retail - Secured on real estate property,Sep-20,0.46%,25.89%,1.04%,12.55%
+Estonia,Retail - Qualifying Revolving,Sep-20,4.19%,,2.31%,64.60%
+Estonia,Retail - Other Retail,Sep-20,0.68%,25.13%,2.83%,30.15%
+Finland,Corporates,Sep-20,1.13%,15.65%,1.06%,35.28%
+Finland,Corporates - Of Which: Specialised Lending,Sep-20,,,0.59%,27.74%
+Finland,Corporates - Of Which: SME,Sep-20,1.76%,12.62%,1.43%,31.88%
+Finland,Retail,Sep-20,0.96%,1.93%,1.28%,23.07%
+Finland,Retail - Secured on real estate property,Sep-20,0.96%,1.63%,0.88%,20.57%
+Finland,Retail - Qualifying Revolving,Sep-20,1.25%,,1.49%,67.50%
+Finland,Retail - Other Retail,Sep-20,0.93%,4.34%,3.19%,33.01%
+France,Corporates,Sep-20,0.68%,25.42%,1.83%,34.37%
+France,Corporates - Of Which: Specialised Lending,Sep-20,0.25%,,1.07%,21.46%
+France,Corporates - Of Which: SME,Sep-20,1.14%,31.29%,2.98%,35.06%
+France,Retail,Sep-20,0.45%,22.24%,1.44%,17.40%
+France,Retail - Secured on real estate property,Sep-20,0.32%,11.35%,1.16%,13.01%
+France,Retail - Qualifying Revolving,Sep-20,0.64%,43.01%,3.13%,37.21%
+France,Retail - Other Retail,Sep-20,0.67%,30.22%,1.90%,22.99%
+Germany,Corporates,Sep-20,0.62%,36.92%,1.07%,36.94%
+Germany,Corporates - Of Which: Specialised Lending,Sep-20,0.52%,44.06%,1.03%,33.20%
+Germany,Corporates - Of Which: SME,Sep-20,0.49%,31.64%,1.15%,32.91%
+Germany,Retail,Sep-20,0.49%,23.51%,1.02%,27.62%
+Germany,Retail - Secured on real estate property,Sep-20,0.34%,8.58%,0.80%,17.14%
+Germany,Retail - Qualifying Revolving,Sep-20,0.42%,39.89%,0.66%,64.48%
+Germany,Retail - Other Retail,Sep-20,0.94%,36.72%,1.90%,45.95%
+Greece,Corporates,Sep-20,2.78%,,6.82%,40.48%
+Greece,Corporates - Of Which: Specialised Lending,Sep-20,,,4.44%,22.30%
+Greece,Corporates - Of Which: SME,Sep-20,,,11.36%,39.23%
+Greece,Retail,Sep-20,2.75%,39.67%,11.05%,31.09%
+Greece,Retail - Secured on real estate property,Sep-20,3.43%,,11.83%,19.68%
+Greece,Retail - Qualifying Revolving,Sep-20,1.37%,89.18%,3.90%,73.15%
+Greece,Retail - Other Retail,Sep-20,1.94%,52.50%,11.94%,41.40%
+Hungary,Corporates,Sep-20,1.58%,64.02%,1.89%,42.60%
+Hungary,Corporates - Of Which: Specialised Lending,Sep-20,,,1.60%,29.98%
+Hungary,Corporates - Of Which: SME,Sep-20,2.03%,,2.87%,47.67%
+Hungary,Retail,Sep-20,0.61%,31.76%,2.99%,43.10%
+Hungary,Retail - Secured on real estate property,Sep-20,0.58%,39.23%,2.34%,33.84%
+Hungary,Retail - Qualifying Revolving,Sep-20,1.93%,31.50%,1.50%,63.06%
+Hungary,Retail - Other Retail,Sep-20,0.63%,45.36%,4.34%,65.73%
+Ireland,Corporates,Sep-20,1.57%,26.88%,1.27%,30.32%
+Ireland,Corporates - Of Which: Specialised Lending,Sep-20,3.05%,3.16%,12.29%,29.78%
+Ireland,Corporates - Of Which: SME,Sep-20,3.09%,18.79%,2.99%,36.12%
+Ireland,Retail,Sep-20,1.10%,16.79%,1.93%,27.07%
+Ireland,Retail - Secured on real estate property,Sep-20,1.02%,15.92%,1.73%,24.32%
+Ireland,Retail - Qualifying Revolving,Sep-20,1.20%,9.97%,2.36%,61.48%
+Ireland,Retail - Other Retail,Sep-20,2.58%,26.26%,4.26%,62.17%
+Italy,Corporates,Sep-20,0.55%,26.94%,5.30%,37.57%
+Italy,Corporates - Of Which: Specialised Lending,Sep-20,1.41%,,3.80%,20.98%
+Italy,Corporates - Of Which: SME,Sep-20,0.96%,26.11%,10.55%,39.85%
+Italy,Retail,Sep-20,3.28%,42.91%,2.46%,26.52%
+Italy,Retail - Secured on real estate property,Sep-20,2.77%,35.84%,1.72%,19.55%
+Italy,Retail - Qualifying Revolving,Sep-20,0.34%,24.11%,3.01%,55.12%
+Italy,Retail - Other Retail,Sep-20,4.28%,51.18%,5.73%,41.49%
+Latvia,Corporates,Sep-20,3.74%,19.07%,1.81%,41.63%
+Latvia,Corporates - Of Which: Specialised Lending,Sep-20,,,,18.20%
+Latvia,Corporates - Of Which: SME,Sep-20,,,1.81%,39.22%
+Latvia,Retail,Sep-20,1.00%,34.63%,2.72%,24.84%
+Latvia,Retail - Secured on real estate property,Sep-20,1.06%,31.90%,2.14%,18.64%
+Latvia,Retail - Qualifying Revolving,Sep-20,0.74%,72.26%,3.97%,58.29%
+Latvia,Retail - Other Retail,Sep-20,0.84%,43.30%,4.32%,42.80%
+Lithuania,Corporates,Sep-20,1.95%,72.95%,1.43%,41.24%
+Lithuania,Corporates - Of Which: Specialised Lending,Sep-20,,,,
+Lithuania,Corporates - Of Which: SME,Sep-20,,,2.20%,39.60%
+Lithuania,Retail,Sep-20,1.49%,36.14%,1.42%,18.43%
+Lithuania,Retail - Secured on real estate property,Sep-20,1.60%,36.03%,1.20%,15.67%
+Lithuania,Retail - Qualifying Revolving,Sep-20,2.47%,43.30%,1.81%,56.78%
+Lithuania,Retail - Other Retail,Sep-20,0.84%,37.72%,2.75%,37.24%
+Luxembourg,Corporates,Sep-20,0.69%,13.87%,1.08%,32.14%
+Luxembourg,Corporates - Of Which: Specialised Lending,Sep-20,2.88%,,1.02%,26.59%
+Luxembourg,Corporates - Of Which: SME,Sep-20,2.13%,6.76%,2.70%,29.71%
+Luxembourg,Retail,Sep-20,0.30%,10.57%,1.11%,16.77%
+Luxembourg,Retail - Secured on real estate property,Sep-20,0.19%,1.82%,1.02%,15.68%
+Luxembourg,Retail - Qualifying Revolving,Sep-20,0.24%,32.47%,0.64%,6.46%
+Luxembourg,Retail - Other Retail,Sep-20,0.99%,17.21%,1.75%,21.62%
+Malta,Corporates,Sep-20,16.58%,,6.46%,23.54%
+Malta,Corporates - Of Which: Specialised Lending,Sep-20,,,3.09%,16.87%
+Malta,Corporates - Of Which: SME,Sep-20,,,5.01%,67.33%
+Malta,Retail,Sep-20,1.70%,18.94%,2.08%,11.23%
+Malta,Retail - Secured on real estate property,Sep-20,4.02%,,2.32%,16.29%
+Malta,Retail - Qualifying Revolving,Sep-20,1.78%,,1.86%,69.26%
+Malta,Retail - Other Retail,Sep-20,1.51%,45.32%,2.33%,8.31%
+Netherlands,Corporates,Sep-20,1.08%,13.53%,1.44%,27.20%
+Netherlands,Corporates - Of Which: Specialised Lending,Sep-20,1.00%,18.51%,1.52%,15.13%
+Netherlands,Corporates - Of Which: SME,Sep-20,2.68%,12.86%,2.71%,18.10%
+Netherlands,Retail,Sep-20,0.57%,9.34%,0.69%,12.77%
+Netherlands,Retail - Secured on real estate property,Sep-20,0.51%,5.18%,0.63%,11.11%
+Netherlands,Retail - Qualifying Revolving,Sep-20,0.96%,38.25%,3.68%,58.84%
+Netherlands,Retail - Other Retail,Sep-20,1.51%,30.46%,2.12%,43.12%
+Norway,Corporates,Sep-20,1.09%,26.97%,1.53%,27.01%
+Norway,Corporates - Of Which: Specialised Lending,Sep-20,,,1.86%,20.53%
+Norway,Corporates - Of Which: SME,Sep-20,0.61%,19.53%,1.22%,23.24%
+Norway,Retail,Sep-20,0.25%,20.85%,0.88%,21.45%
+Norway,Retail - Secured on real estate property,Sep-20,0.13%,6.95%,0.75%,19.82%
+Norway,Retail - Qualifying Revolving,Sep-20,0.85%,30.22%,1.27%,62.08%
+Norway,Retail - Other Retail,Sep-20,0.84%,29.79%,1.96%,31.55%
+Poland,Corporates,Sep-20,0.69%,33.88%,1.73%,37.15%
+Poland,Corporates - Of Which: Specialised Lending,Sep-20,,,0.86%,42.25%
+Poland,Corporates - Of Which: SME,Sep-20,0.74%,,2.32%,32.12%
+Poland,Retail,Sep-20,0.95%,31.96%,1.52%,35.73%
+Poland,Retail - Secured on real estate property,Sep-20,0.50%,25.79%,0.64%,30.38%
+Poland,Retail - Qualifying Revolving,Sep-20,1.08%,55.05%,2.25%,64.36%
+Poland,Retail - Other Retail,Sep-20,1.95%,33.65%,3.72%,44.84%
+Portugal,Corporates,Sep-20,1.11%,34.62%,3.37%,39.45%
+Portugal,Corporates - Of Which: Specialised Lending,Sep-20,,,1.75%,32.71%
+Portugal,Corporates - Of Which: SME,Sep-20,2.05%,26.27%,5.77%,40.52%
+Portugal,Retail,Sep-20,0.79%,18.90%,1.42%,20.47%
+Portugal,Retail - Secured on real estate property,Sep-20,0.52%,6.55%,1.08%,17.73%
+Portugal,Retail - Qualifying Revolving,Sep-20,0.80%,24.22%,4.23%,38.23%
+Portugal,Retail - Other Retail,Sep-20,1.88%,32.14%,3.40%,32.37%
+Romania,Corporates,Sep-20,2.84%,,2.71%,40.40%
+Romania,Corporates - Of Which: Specialised Lending,Sep-20,,,2.10%,32.44%
+Romania,Corporates - Of Which: SME,Sep-20,6.00%,,3.46%,41.99%
+Romania,Retail,Sep-20,1.73%,51.65%,1.69%,48.03%
+Romania,Retail - Secured on real estate property,Sep-20,0.84%,,0.39%,36.01%
+Romania,Retail - Qualifying Revolving,Sep-20,0.87%,51.40%,0.95%,49.07%
+Romania,Retail - Other Retail,Sep-20,3.09%,57.09%,2.64%,59.02%
+Slovakia,Corporates,Sep-20,1.58%,77.96%,1.99%,40.41%
+Slovakia,Corporates - Of Which: Specialised Lending,Sep-20,,,5.19%,33.00%
+Slovakia,Corporates - Of Which: SME,Sep-20,3.99%,74.17%,3.65%,41.89%
+Slovakia,Retail,Sep-20,0.51%,44.22%,1.22%,24.16%
+Slovakia,Retail - Secured on real estate property,Sep-20,0.36%,29.42%,0.93%,20.58%
+Slovakia,Retail - Qualifying Revolving,Sep-20,0.71%,52.22%,2.65%,55.29%
+Slovakia,Retail - Other Retail,Sep-20,1.30%,68.03%,3.10%,44.42%
+Slovenia,Corporates,Sep-20,1.13%,72.80%,4.42%,40.40%
+Slovenia,Corporates - Of Which: Specialised Lending,Sep-20,,,1.58%,17.12%
+Slovenia,Corporates - Of Which: SME,Sep-20,4.20%,,5.74%,41.90%
+Slovenia,Retail,Sep-20,3.40%,45.95%,2.36%,24.60%
+Slovenia,Retail - Secured on real estate property,Sep-20,,,1.79%,15.37%
+Slovenia,Retail - Qualifying Revolving,Sep-20,0.21%,,2.13%,59.77%
+Slovenia,Retail - Other Retail,Sep-20,2.75%,54.99%,2.60%,28.82%
+Spain,Corporates,Sep-20,1.09%,17.89%,2.81%,38.75%
+Spain,Corporates - Of Which: Specialised Lending,Sep-20,1.90%,9.25%,1.41%,21.92%
+Spain,Corporates - Of Which: SME,Sep-20,1.44%,23.01%,3.99%,40.47%
+Spain,Retail,Sep-20,1.06%,27.62%,1.94%,28.79%
+Spain,Retail - Secured on real estate property,Sep-20,0.77%,14.58%,1.22%,20.55%
+Spain,Retail - Qualifying Revolving,Sep-20,0.82%,49.72%,2.75%,61.79%
+Spain,Retail - Other Retail,Sep-20,2.21%,40.16%,4.39%,53.08%
+Sweden,Corporates,Sep-20,0.20%,33.88%,0.71%,24.82%
+Sweden,Corporates - Of Which: Specialised Lending,Sep-20,,,1.39%,27.81%
+Sweden,Corporates - Of Which: SME,Sep-20,0.34%,28.65%,0.70%,17.74%
+Sweden,Retail,Sep-20,0.10%,13.85%,0.36%,12.56%
+Sweden,Retail - Secured on real estate property,Sep-20,0.06%,4.33%,0.29%,10.95%
+Sweden,Retail - Qualifying Revolving,Sep-20,0.94%,31.47%,1.26%,58.68%
+Sweden,Retail - Other Retail,Sep-20,0.52%,27.54%,1.48%,33.97%
+United Kingdom,Corporates,Sep-20,0.96%,10.41%,1.48%,35.08%
+United Kingdom,Corporates - Of Which: Specialised Lending,Sep-20,1.46%,4.43%,1.24%,30.96%
+United Kingdom,Corporates - Of Which: SME,Sep-20,3.06%,8.87%,2.20%,27.75%
+United Kingdom,Retail,Sep-20,0.51%,21.83%,1.54%,20.49%
+United Kingdom,Retail - Secured on real estate property,Sep-20,0.35%,6.64%,1.35%,11.02%
+United Kingdom,Retail - Qualifying Revolving,Sep-20,0.77%,43.31%,1.79%,71.31%
+United Kingdom,Retail - Other Retail,Sep-20,1.78%,33.31%,4.11%,54.93%
+Australia,Corporates,Sep-20,0.73%,,1.12%,28.17%
+Australia,Corporates - Of Which: Specialised Lending,Sep-20,,,0.58%,17.18%
+Australia,Corporates - Of Which: SME,Sep-20,,,1.00%,10.57%
+Australia,Retail,Sep-20,0.49%,6.75%,1.32%,12.64%
+Australia,Retail - Secured on real estate property,Sep-20,0.64%,,1.30%,12.13%
+Australia,Retail - Qualifying Revolving,Sep-20,0.81%,23.27%,0.84%,61.80%
+Australia,Retail - Other Retail,Sep-20,2.50%,16.41%,1.76%,24.17%
+Canada,Corporates,Sep-20,0.41%,21.23%,1.42%,34.48%
+Canada,Corporates - Of Which: Specialised Lending,Sep-20,,,1.33%,25.96%
+Canada,Corporates - Of Which: SME,Sep-20,,,2.20%,20.05%
+Canada,Retail,Sep-20,0.30%,7.24%,0.69%,19.19%
+Canada,Retail - Secured on real estate property,Sep-20,0.14%,10.27%,0.51%,17.47%
+Canada,Retail - Qualifying Revolving,Sep-20,0.54%,8.52%,1.85%,66.98%
+Canada,Retail - Other Retail,Sep-20,1.60%,11.77%,2.12%,29.05%
+China,Corporates,Sep-20,0.34%,,0.75%,46.49%
+China,Corporates - Of Which: Specialised Lending,Sep-20,,,1.34%,36.32%
+China,Corporates - Of Which: SME,Sep-20,,,3.88%,33.19%
+China,Retail,Sep-20,0.04%,13.33%,1.12%,22.27%
+China,Retail - Secured on real estate property,Sep-20,0.05%,11.16%,1.33%,11.66%
+China,Retail - Qualifying Revolving,Sep-20,0.01%,35.70%,0.73%,83.06%
+China,Retail - Other Retail,Sep-20,0.06%,15.64%,0.83%,11.09%
+Hong Kong,Corporates,Sep-20,0.45%,14.83%,1.07%,36.18%
+Hong Kong,Corporates - Of Which: Specialised Lending,Sep-20,,,1.27%,22.26%
+Hong Kong,Corporates - Of Which: SME,Sep-20,,,4.42%,22.48%
+Hong Kong,Retail,Sep-20,0.01%,13.88%,0.60%,33.01%
+Hong Kong,Retail - Secured on real estate property,Sep-20,0.01%,,0.40%,10.26%
+Hong Kong,Retail - Qualifying Revolving,Sep-20,0.01%,49.26%,0.88%,95.94%
+Hong Kong,Retail - Other Retail,Sep-20,0.01%,23.73%,0.87%,21.98%
+India,Corporates,Sep-20,1.67%,3.31%,3.38%,44.51%
+India,Corporates - Of Which: Specialised Lending,Sep-20,,,3.05%,24.75%
+India,Corporates - Of Which: SME,Sep-20,,,4.57%,31.86%
+India,Retail,Sep-20,1.85%,68.13%,7.15%,53.76%
+India,Retail - Secured on real estate property,Sep-20,2.26%,,2.01%,37.00%
+India,Retail - Qualifying Revolving,Sep-20,1.76%,48.15%,11.48%,79.22%
+India,Retail - Other Retail,Sep-20,4.39%,90.60%,6.05%,58.44%
+"Korea, Republic Of",Corporates,Sep-20,0.04%,,0.72%,35.71%
+"Korea, Republic Of",Corporates - Of Which: Specialised Lending,Sep-20,,,0.78%,
+"Korea, Republic Of",Corporates - Of Which: SME,Sep-20,,,3.30%,19.02%
+"Korea, Republic Of",Retail,Sep-20,0.07%,48.69%,0.86%,36.22%
+"Korea, Republic Of",Retail - Secured on real estate property,Sep-20,0.04%,,0.19%,9.98%
+"Korea, Republic Of",Retail - Qualifying Revolving,Sep-20,0.01%,,0.44%,75.17%
+"Korea, Republic Of",Retail - Other Retail,Sep-20,0.13%,73.76%,2.17%,77.98%
+Russian Federation,Corporates,Sep-20,0.17%,,0.56%,38.31%
+Russian Federation,Corporates - Of Which: Specialised Lending,Sep-20,,,1.14%,23.29%
+Russian Federation,Corporates - Of Which: SME,Sep-20,,,2.37%,43.85%
+Russian Federation,Retail,Sep-20,2.11%,20.74%,2.23%,18.43%
+Russian Federation,Retail - Secured on real estate property,Sep-20,2.88%,16.66%,2.30%,17.94%
+Russian Federation,Retail - Qualifying Revolving,Sep-20,1.43%,50.03%,2.03%,60.94%
+Russian Federation,Retail - Other Retail,Sep-20,1.70%,67.52%,1.62%,17.93%
+Singapore,Corporates,Sep-20,2.18%,51.51%,2.88%,30.81%
+Singapore,Corporates - Of Which: Specialised Lending,Sep-20,5.67%,,4.88%,21.78%
+Singapore,Corporates - Of Which: SME,Sep-20,,,7.41%,27.69%
+Singapore,Retail,Sep-20,0.06%,22.01%,0.71%,22.20%
+Singapore,Retail - Secured on real estate property,Sep-20,0.10%,10.06%,0.33%,16.31%
+Singapore,Retail - Qualifying Revolving,Sep-20,0.37%,46.71%,2.66%,71.27%
+Singapore,Retail - Other Retail,Sep-20,0.03%,51.38%,1.13%,16.82%
+Switzerland,Corporates,Sep-20,1.09%,8.68%,0.91%,32.20%
+Switzerland,Corporates - Of Which: Specialised Lending,Sep-20,,,0.71%,26.01%
+Switzerland,Corporates - Of Which: SME,Sep-20,0.04%,,0.89%,24.07%
+Switzerland,Retail,Sep-20,0.41%,13.94%,0.84%,18.74%
+Switzerland,Retail - Secured on real estate property,Sep-20,0.68%,9.16%,0.81%,19.42%
+Switzerland,Retail - Qualifying Revolving,Sep-20,0.68%,27.55%,1.78%,49.77%
+Switzerland,Retail - Other Retail,Sep-20,0.35%,27.76%,1.05%,15.74%
+United States,Corporates,Sep-20,0.79%,17.01%,1.21%,29.05%
+United States,Corporates - Of Which: Specialised Lending,Sep-20,2.38%,18.86%,2.37%,20.65%
+United States,Corporates - Of Which: SME,Sep-20,0.37%,16.50%,2.85%,20.71%
+United States,Retail,Sep-20,0.98%,13.58%,1.88%,47.90%
+United States,Retail - Secured on real estate property,Sep-20,0.27%,8.91%,0.88%,46.06%
+United States,Retail - Qualifying Revolving,Sep-20,0.02%,17.47%,2.12%,92.96%
+United States,Retail - Other Retail,Sep-20,2.84%,15.33%,2.67%,32.92%
+Austria,Corporates,Jun-20,0.25%,26.74%,1.13%,33.93%
+Austria,Corporates - Of Which: Specialised Lending,Jun-20,,,1.67%,10.28%
+Austria,Corporates - Of Which: SME,Jun-20,0.57%,19.14%,2.29%,30.64%
+Austria,Retail,Jun-20,0.33%,28.58%,1.37%,27.54%
+Austria,Retail - Secured on real estate property,Jun-20,0.27%,7.32%,1.21%,11.50%
+Austria,Retail - Qualifying Revolving,Jun-20,0.12%,46.68%,0.83%,64.66%
+Austria,Retail - Other Retail,Jun-20,0.43%,49.75%,1.87%,56.72%
+Belgium,Corporates,Jun-20,0.74%,25.09%,2.01%,26.67%
+Belgium,Corporates - Of Which: Specialised Lending,Jun-20,0.32%,,1.02%,22.68%
+Belgium,Corporates - Of Which: SME,Jun-20,1.03%,12.91%,2.45%,25.41%
+Belgium,Retail,Jun-20,0.56%,10.00%,1.12%,17.31%
+Belgium,Retail - Secured on real estate property,Jun-20,0.48%,4.00%,1.03%,13.34%
+Belgium,Retail - Qualifying Revolving,Jun-20,2.18%,8.22%,0.50%,48.81%
+Belgium,Retail - Other Retail,Jun-20,0.85%,23.53%,1.69%,33.12%
+Bulgaria,Corporates,Jun-20,0.09%,,2.20%,41.40%
+Bulgaria,Corporates - Of Which: Specialised Lending,Jun-20,,,30.45%,40.48%
+Bulgaria,Corporates - Of Which: SME,Jun-20,,,3.18%,41.10%
+Bulgaria,Retail,Jun-20,1.27%,45.88%,2.83%,33.03%
+Bulgaria,Retail - Secured on real estate property,Jun-20,0.95%,,2.41%,23.54%
+Bulgaria,Retail - Qualifying Revolving,Jun-20,1.04%,66.02%,3.40%,42.09%
+Bulgaria,Retail - Other Retail,Jun-20,2.09%,65.42%,3.93%,56.17%
+Croatia,Corporates,Jun-20,0.90%,,2.39%,40.32%
+Croatia,Corporates - Of Which: Specialised Lending,Jun-20,,,1.41%,20.16%
+Croatia,Corporates - Of Which: SME,Jun-20,,,4.18%,41.57%
+Croatia,Retail,Jun-20,1.90%,15.96%,2.49%,35.01%
+Croatia,Retail - Secured on real estate property,Jun-20,,,2.03%,29.34%
+Croatia,Retail - Qualifying Revolving,Jun-20,0.23%,,1.34%,61.97%
+Croatia,Retail - Other Retail,Jun-20,2.34%,15.92%,2.77%,38.22%
+Cyprus,Corporates,Jun-20,5.21%,,2.74%,33.59%
+Cyprus,Corporates - Of Which: Specialised Lending,Jun-20,,,1.96%,32.49%
+Cyprus,Corporates - Of Which: SME,Jun-20,,,3.14%,22.71%
+Cyprus,Retail,Jun-20,0.69%,22.31%,1.17%,22.16%
+Cyprus,Retail - Secured on real estate property,Jun-20,,,1.16%,14.13%
+Cyprus,Retail - Qualifying Revolving,Jun-20,0.77%,,0.69%,58.57%
+Cyprus,Retail - Other Retail,Jun-20,0.43%,65.72%,1.27%,22.42%
+Czech,Corporates,Jun-20,0.30%,46.34%,2.26%,32.90%
+Czech,Corporates - Of Which: Specialised Lending,Jun-20,0.06%,77.21%,1.56%,27.32%
+Czech,Corporates - Of Which: SME,Jun-20,0.57%,43.18%,3.08%,30.83%
+Czech,Retail,Jun-20,0.46%,30.87%,1.57%,27.80%
+Czech,Retail - Secured on real estate property,Jun-20,0.25%,17.82%,1.12%,21.20%
+Czech,Retail - Qualifying Revolving,Jun-20,0.80%,30.36%,3.16%,52.33%
+Czech,Retail - Other Retail,Jun-20,1.03%,38.92%,2.79%,45.72%
+Denmark,Corporates,Jun-20,0.31%,13.00%,1.23%,23.05%
+Denmark,Corporates - Of Which: Specialised Lending,Jun-20,,,1.51%,23.53%
+Denmark,Corporates - Of Which: SME,Jun-20,0.31%,,1.58%,19.25%
+Denmark,Retail,Jun-20,0.27%,13.88%,0.89%,18.15%
+Denmark,Retail - Secured on real estate property,Jun-20,0.26%,10.12%,0.83%,16.49%
+Denmark,Retail - Qualifying Revolving,Jun-20,0.92%,20.95%,1.23%,64.78%
+Denmark,Retail - Other Retail,Jun-20,0.35%,40.97%,2.10%,40.45%
+Estonia,Corporates,Jun-20,0.30%,27.09%,1.26%,41.35%
+Estonia,Corporates - Of Which: Specialised Lending,Jun-20,,,1.17%,28.10%
+Estonia,Corporates - Of Which: SME,Jun-20,0.59%,29.65%,1.67%,39.67%
+Estonia,Retail,Jun-20,0.30%,23.80%,1.37%,15.82%
+Estonia,Retail - Secured on real estate property,Jun-20,0.26%,23.76%,1.04%,12.50%
+Estonia,Retail - Qualifying Revolving,Jun-20,1.39%,48.17%,1.96%,56.28%
+Estonia,Retail - Other Retail,Jun-20,0.45%,23.87%,2.81%,30.20%
+Finland,Corporates,Jun-20,0.76%,15.66%,0.93%,35.28%
+Finland,Corporates - Of Which: Specialised Lending,Jun-20,,,0.61%,27.94%
+Finland,Corporates - Of Which: SME,Jun-20,1.13%,11.89%,1.42%,32.31%
+Finland,Retail,Jun-20,0.63%,2.05%,1.35%,22.91%
+Finland,Retail - Secured on real estate property,Jun-20,0.62%,1.74%,0.95%,20.58%
+Finland,Retail - Qualifying Revolving,Jun-20,1.06%,33.85%,1.49%,67.91%
+Finland,Retail - Other Retail,Jun-20,0.64%,4.58%,3.32%,32.37%
+France,Corporates,Jun-20,0.42%,29.85%,1.71%,35.00%
+France,Corporates - Of Which: Specialised Lending,Jun-20,0.21%,,0.98%,21.34%
+France,Corporates - Of Which: SME,Jun-20,0.89%,30.63%,2.73%,35.79%
+France,Retail,Jun-20,0.33%,22.52%,1.56%,17.66%
+France,Retail - Secured on real estate property,Jun-20,0.24%,11.30%,1.14%,13.04%
+France,Retail - Qualifying Revolving,Jun-20,0.46%,43.11%,3.11%,37.32%
+France,Retail - Other Retail,Jun-20,0.49%,30.82%,2.06%,23.64%
+Germany,Corporates,Jun-20,0.51%,41.53%,1.07%,37.06%
+Germany,Corporates - Of Which: Specialised Lending,Jun-20,0.55%,50.48%,1.13%,33.31%
+Germany,Corporates - Of Which: SME,Jun-20,0.33%,35.76%,1.16%,32.84%
+Germany,Retail,Jun-20,0.35%,23.00%,1.02%,27.58%
+Germany,Retail - Secured on real estate property,Jun-20,0.25%,8.56%,0.80%,17.07%
+Germany,Retail - Qualifying Revolving,Jun-20,0.29%,41.03%,0.68%,64.48%
+Germany,Retail - Other Retail,Jun-20,0.66%,35.99%,1.90%,45.86%
+Greece,Corporates,Jun-20,2.83%,,7.23%,40.23%
+Greece,Corporates - Of Which: Specialised Lending,Jun-20,,,5.02%,21.63%
+Greece,Corporates - Of Which: SME,Jun-20,,,8.61%,40.50%
+Greece,Retail,Jun-20,2.42%,39.16%,14.88%,36.42%
+Greece,Retail - Secured on real estate property,Jun-20,3.05%,,14.44%,27.63%
+Greece,Retail - Qualifying Revolving,Jun-20,0.99%,89.49%,6.84%,74.68%
+Greece,Retail - Other Retail,Jun-20,1.74%,50.29%,17.97%,47.43%
+Hungary,Corporates,Jun-20,0.39%,49.52%,1.88%,42.55%
+Hungary,Corporates - Of Which: Specialised Lending,Jun-20,,,1.40%,29.98%
+Hungary,Corporates - Of Which: SME,Jun-20,0.13%,,3.15%,47.32%
+Hungary,Retail,Jun-20,0.51%,26.29%,3.29%,42.06%
+Hungary,Retail - Secured on real estate property,Jun-20,0.50%,,2.67%,33.72%
+Hungary,Retail - Qualifying Revolving,Jun-20,2.55%,32.59%,1.55%,63.20%
+Hungary,Retail - Other Retail,Jun-20,0.47%,40.71%,4.31%,59.12%
+Ireland,Corporates,Jun-20,1.30%,20.05%,1.21%,32.07%
+Ireland,Corporates - Of Which: Specialised Lending,Jun-20,2.58%,2.04%,12.34%,28.70%
+Ireland,Corporates - Of Which: SME,Jun-20,2.33%,20.11%,2.90%,35.09%
+Ireland,Retail,Jun-20,0.89%,16.30%,2.03%,27.13%
+Ireland,Retail - Secured on real estate property,Jun-20,0.85%,15.57%,1.83%,24.38%
+Ireland,Retail - Qualifying Revolving,Jun-20,1.00%,7.90%,2.37%,61.57%
+Ireland,Retail - Other Retail,Jun-20,1.58%,28.66%,4.24%,61.30%
+Italy,Corporates,Jun-20,0.45%,25.65%,5.17%,38.24%
+Italy,Corporates - Of Which: Specialised Lending,Jun-20,0.31%,,2.60%,22.55%
+Italy,Corporates - Of Which: SME,Jun-20,0.75%,25.27%,9.37%,39.92%
+Italy,Retail,Jun-20,2.17%,42.39%,2.62%,26.16%
+Italy,Retail - Secured on real estate property,Jun-20,1.77%,34.95%,1.79%,18.79%
+Italy,Retail - Qualifying Revolving,Jun-20,0.36%,24.07%,3.82%,57.82%
+Italy,Retail - Other Retail,Jun-20,2.97%,50.54%,6.28%,41.97%
+Latvia,Corporates,Jun-20,1.40%,21.08%,1.75%,42.10%
+Latvia,Corporates - Of Which: Specialised Lending,Jun-20,,,,53.31%
+Latvia,Corporates - Of Which: SME,Jun-20,,,1.80%,39.10%
+Latvia,Retail,Jun-20,0.61%,31.84%,2.71%,24.84%
+Latvia,Retail - Secured on real estate property,Jun-20,0.63%,29.68%,2.17%,18.66%
+Latvia,Retail - Qualifying Revolving,Jun-20,8.79%,57.39%,4.88%,60.73%
+Latvia,Retail - Other Retail,Jun-20,0.56%,38.10%,4.20%,42.58%
+Lithuania,Corporates,Jun-20,1.49%,71.60%,1.41%,41.51%
+Lithuania,Corporates - Of Which: Specialised Lending,Jun-20,,,,
+Lithuania,Corporates - Of Which: SME,Jun-20,3.12%,52.75%,1.81%,38.97%
+Lithuania,Retail,Jun-20,1.14%,36.00%,1.43%,18.42%
+Lithuania,Retail - Secured on real estate property,Jun-20,1.24%,35.85%,1.21%,15.65%
+Lithuania,Retail - Qualifying Revolving,Jun-20,2.33%,43.73%,2.02%,55.79%
+Lithuania,Retail - Other Retail,Jun-20,0.61%,37.73%,2.78%,37.33%
+Luxembourg,Corporates,Jun-20,0.27%,11.25%,0.98%,33.65%
+Luxembourg,Corporates - Of Which: Specialised Lending,Jun-20,1.83%,,1.05%,27.15%
+Luxembourg,Corporates - Of Which: SME,Jun-20,1.10%,,2.33%,29.30%
+Luxembourg,Retail,Jun-20,0.20%,11.86%,1.08%,16.04%
+Luxembourg,Retail - Secured on real estate property,Jun-20,0.11%,2.25%,0.99%,14.34%
+Luxembourg,Retail - Qualifying Revolving,Jun-20,0.16%,33.06%,0.63%,6.49%
+Luxembourg,Retail - Other Retail,Jun-20,0.65%,18.27%,1.95%,23.44%
+Malta,Corporates,Jun-20,3.06%,6.70%,6.41%,24.33%
+Malta,Corporates - Of Which: Specialised Lending,Jun-20,,,3.69%,19.08%
+Malta,Corporates - Of Which: SME,Jun-20,,,1.44%,51.91%
+Malta,Retail,Jun-20,0.99%,7.31%,1.23%,10.77%
+Malta,Retail - Secured on real estate property,Jun-20,6.48%,5.06%,1.20%,15.22%
+Malta,Retail - Qualifying Revolving,Jun-20,0.43%,37.39%,2.17%,69.05%
+Malta,Retail - Other Retail,Jun-20,0.48%,23.91%,1.23%,7.37%
+Netherlands,Corporates,Jun-20,0.78%,14.61%,1.47%,27.05%
+Netherlands,Corporates - Of Which: Specialised Lending,Jun-20,0.67%,24.93%,1.45%,15.12%
+Netherlands,Corporates - Of Which: SME,Jun-20,1.91%,13.88%,2.72%,17.86%
+Netherlands,Retail,Jun-20,0.41%,8.64%,0.74%,12.84%
+Netherlands,Retail - Secured on real estate property,Jun-20,0.38%,5.06%,0.67%,11.13%
+Netherlands,Retail - Qualifying Revolving,Jun-20,0.40%,34.60%,3.37%,58.95%
+Netherlands,Retail - Other Retail,Jun-20,1.01%,31.05%,2.28%,43.43%
+Norway,Corporates,Jun-20,0.83%,26.47%,1.56%,27.03%
+Norway,Corporates - Of Which: Specialised Lending,Jun-20,2.75%,,1.98%,21.27%
+Norway,Corporates - Of Which: SME,Jun-20,0.50%,18.49%,1.11%,23.86%
+Norway,Retail,Jun-20,0.19%,21.77%,0.95%,21.51%
+Norway,Retail - Secured on real estate property,Jun-20,0.10%,6.30%,0.75%,19.86%
+Norway,Retail - Qualifying Revolving,Jun-20,0.59%,37.86%,1.16%,62.03%
+Norway,Retail - Other Retail,Jun-20,0.66%,30.83%,2.12%,31.37%
+Poland,Corporates,Jun-20,0.47%,32.66%,1.64%,37.95%
+Poland,Corporates - Of Which: Specialised Lending,Jun-20,,,0.94%,44.32%
+Poland,Corporates - Of Which: SME,Jun-20,,,2.18%,32.40%
+Poland,Retail,Jun-20,0.72%,32.57%,1.55%,35.99%
+Poland,Retail - Secured on real estate property,Jun-20,0.37%,26.75%,0.68%,30.82%
+Poland,Retail - Qualifying Revolving,Jun-20,0.88%,56.16%,2.37%,64.39%
+Poland,Retail - Other Retail,Jun-20,1.46%,33.80%,3.69%,44.68%
+Portugal,Corporates,Jun-20,1.02%,32.92%,3.50%,41.28%
+Portugal,Corporates - Of Which: Specialised Lending,Jun-20,0.15%,,1.79%,33.07%
+Portugal,Corporates - Of Which: SME,Jun-20,1.91%,24.96%,5.62%,40.58%
+Portugal,Retail,Jun-20,0.61%,18.78%,1.52%,20.40%
+Portugal,Retail - Secured on real estate property,Jun-20,0.41%,6.93%,1.18%,17.70%
+Portugal,Retail - Qualifying Revolving,Jun-20,0.57%,23.77%,4.62%,37.98%
+Portugal,Retail - Other Retail,Jun-20,1.49%,32.75%,3.50%,32.27%
+Romania,Corporates,Jun-20,2.61%,73.07%,2.53%,41.05%
+Romania,Corporates - Of Which: Specialised Lending,Jun-20,,,2.33%,31.52%
+Romania,Corporates - Of Which: SME,Jun-20,5.77%,,3.15%,41.86%
+Romania,Retail,Jun-20,1.30%,52.66%,2.13%,48.20%
+Romania,Retail - Secured on real estate property,Jun-20,0.53%,,1.06%,35.97%
+Romania,Retail - Qualifying Revolving,Jun-20,0.63%,51.46%,0.89%,51.06%
+Romania,Retail - Other Retail,Jun-20,2.44%,56.59%,3.06%,58.93%
+Slovakia,Corporates,Jun-20,1.12%,77.61%,1.91%,41.29%
+Slovakia,Corporates - Of Which: Specialised Lending,Jun-20,,,4.59%,36.56%
+Slovakia,Corporates - Of Which: SME,Jun-20,2.94%,74.77%,3.60%,41.65%
+Slovakia,Retail,Jun-20,0.39%,44.81%,1.30%,24.26%
+Slovakia,Retail - Secured on real estate property,Jun-20,0.27%,29.75%,0.99%,20.61%
+Slovakia,Retail - Qualifying Revolving,Jun-20,0.50%,53.59%,2.79%,55.40%
+Slovakia,Retail - Other Retail,Jun-20,0.99%,68.14%,3.20%,44.03%
+Slovenia,Corporates,Jun-20,0.16%,32.78%,4.78%,40.43%
+Slovenia,Corporates - Of Which: Specialised Lending,Jun-20,,,1.27%,23.84%
+Slovenia,Corporates - Of Which: SME,Jun-20,0.63%,,5.06%,42.07%
+Slovenia,Retail,Jun-20,1.48%,42.62%,2.52%,24.98%
+Slovenia,Retail - Secured on real estate property,Jun-20,,,2.20%,17.03%
+Slovenia,Retail - Qualifying Revolving,Jun-20,1.37%,48.78%,2.26%,66.15%
+Slovenia,Retail - Other Retail,Jun-20,1.93%,42.51%,2.62%,28.43%
+Spain,Corporates,Jun-20,0.80%,17.75%,2.50%,38.56%
+Spain,Corporates - Of Which: Specialised Lending,Jun-20,1.08%,12.27%,1.55%,22.30%
+Spain,Corporates - Of Which: SME,Jun-20,1.09%,23.00%,3.63%,39.92%
+Spain,Retail,Jun-20,0.78%,27.62%,1.96%,28.76%
+Spain,Retail - Secured on real estate property,Jun-20,0.55%,14.56%,1.29%,20.64%
+Spain,Retail - Qualifying Revolving,Jun-20,0.59%,49.59%,2.74%,61.32%
+Spain,Retail - Other Retail,Jun-20,1.74%,39.75%,4.03%,52.99%
+Sweden,Corporates,Jun-20,0.17%,36.24%,0.73%,24.80%
+Sweden,Corporates - Of Which: Specialised Lending,Jun-20,,,1.42%,28.39%
+Sweden,Corporates - Of Which: SME,Jun-20,0.25%,29.86%,0.72%,17.79%
+Sweden,Retail,Jun-20,0.07%,14.96%,0.36%,12.57%
+Sweden,Retail - Secured on real estate property,Jun-20,0.05%,4.61%,0.29%,10.94%
+Sweden,Retail - Qualifying Revolving,Jun-20,0.77%,31.20%,1.39%,58.36%
+Sweden,Retail - Other Retail,Jun-20,0.38%,28.93%,1.47%,34.12%
+United Kingdom,Corporates,Jun-20,0.66%,10.79%,1.37%,35.66%
+United Kingdom,Corporates - Of Which: Specialised Lending,Jun-20,1.03%,3.48%,1.10%,29.76%
+United Kingdom,Corporates - Of Which: SME,Jun-20,2.46%,9.53%,2.10%,27.88%
+United Kingdom,Retail,Jun-20,0.36%,22.40%,1.60%,20.33%
+United Kingdom,Retail - Secured on real estate property,Jun-20,0.25%,6.53%,1.36%,10.46%
+United Kingdom,Retail - Qualifying Revolving,Jun-20,0.54%,44.68%,1.96%,71.30%
+United Kingdom,Retail - Other Retail,Jun-20,1.18%,37.03%,4.47%,55.68%
+Australia,Corporates,Jun-20,0.87%,17.42%,1.04%,28.57%
+Australia,Corporates - Of Which: Specialised Lending,Jun-20,,,0.98%,17.38%
+Australia,Corporates - Of Which: SME,Jun-20,,,0.99%,10.68%
+Australia,Retail,Jun-20,0.35%,6.25%,0.90%,12.90%
+Australia,Retail - Secured on real estate property,Jun-20,0.46%,4.75%,0.88%,12.41%
+Australia,Retail - Qualifying Revolving,Jun-20,0.51%,25.31%,1.13%,61.89%
+Australia,Retail - Other Retail,Jun-20,1.80%,16.81%,1.79%,24.99%
+Canada,Corporates,Jun-20,0.24%,23.50%,1.39%,34.85%
+Canada,Corporates - Of Which: Specialised Lending,Jun-20,,,1.58%,25.46%
+Canada,Corporates - Of Which: SME,Jun-20,,,2.23%,20.55%
+Canada,Retail,Jun-20,0.19%,7.51%,0.72%,19.14%
+Canada,Retail - Secured on real estate property,Jun-20,0.08%,7.31%,0.54%,17.35%
+Canada,Retail - Qualifying Revolving,Jun-20,0.39%,6.45%,1.96%,67.05%
+Canada,Retail - Other Retail,Jun-20,1.10%,11.70%,2.21%,29.30%
+China,Corporates,Jun-20,0.36%,,0.77%,47.34%
+China,Corporates - Of Which: Specialised Lending,Jun-20,,,1.20%,33.67%
+China,Corporates - Of Which: SME,Jun-20,,,1.73%,21.47%
+China,Retail,Jun-20,0.03%,12.41%,0.86%,23.27%
+China,Retail - Secured on real estate property,Jun-20,0.74%,11.45%,0.87%,11.67%
+China,Retail - Qualifying Revolving,Jun-20,0.18%,27.54%,0.79%,83.17%
+China,Retail - Other Retail,Jun-20,0.05%,11.23%,0.84%,12.10%
+Hong Kong,Corporates,Jun-20,0.34%,18.30%,1.12%,35.78%
+Hong Kong,Corporates - Of Which: Specialised Lending,Jun-20,,,1.91%,20.64%
+Hong Kong,Corporates - Of Which: SME,Jun-20,,,4.70%,21.53%
+Hong Kong,Retail,Jun-20,0.01%,18.63%,0.63%,33.24%
+Hong Kong,Retail - Secured on real estate property,Jun-20,0.01%,0.96%,0.42%,10.10%
+Hong Kong,Retail - Qualifying Revolving,Jun-20,0.01%,49.30%,0.97%,95.87%
+Hong Kong,Retail - Other Retail,Jun-20,0.01%,23.95%,0.90%,22.38%
+India,Corporates,Jun-20,0.96%,,2.29%,44.69%
+India,Corporates - Of Which: Specialised Lending,Jun-20,,,2.36%,24.88%
+India,Corporates - Of Which: SME,Jun-20,,,0.93%,32.09%
+India,Retail,Jun-20,1.62%,68.87%,7.68%,53.40%
+India,Retail - Secured on real estate property,Jun-20,1.90%,,2.62%,36.87%
+India,Retail - Qualifying Revolving,Jun-20,0.11%,48.35%,13.13%,79.40%
+India,Retail - Other Retail,Jun-20,3.96%,89.90%,6.41%,57.92%
+"Korea, Republic Of",Corporates,Jun-20,0.02%,,0.71%,35.91%
+"Korea, Republic Of",Corporates - Of Which: Specialised Lending,Jun-20,,,0.72%,
+"Korea, Republic Of",Corporates - Of Which: SME,Jun-20,,,2.94%,18.98%
+"Korea, Republic Of",Retail,Jun-20,0.03%,70.50%,0.86%,36.64%
+"Korea, Republic Of",Retail - Secured on real estate property,Jun-20,0.01%,,0.20%,9.98%
+"Korea, Republic Of",Retail - Qualifying Revolving,Jun-20,0.49%,,0.48%,75.17%
+"Korea, Republic Of",Retail - Other Retail,Jun-20,0.07%,82.87%,2.14%,77.94%
+Russian Federation,Corporates,Jun-20,0.10%,,0.53%,38.80%
+Russian Federation,Corporates - Of Which: Specialised Lending,Jun-20,,,1.09%,22.87%
+Russian Federation,Corporates - Of Which: SME,Jun-20,,,2.40%,43.84%
+Russian Federation,Retail,Jun-20,1.54%,21.30%,2.28%,18.78%
+Russian Federation,Retail - Secured on real estate property,Jun-20,2.12%,17.59%,2.23%,18.40%
+Russian Federation,Retail - Qualifying Revolving,Jun-20,0.93%,49.39%,2.03%,60.99%
+Russian Federation,Retail - Other Retail,Jun-20,1.42%,67.16%,1.87%,17.61%
+Singapore,Corporates,Jun-20,2.09%,50.21%,2.72%,31.70%
+Singapore,Corporates - Of Which: Specialised Lending,Jun-20,2.79%,,3.96%,22.38%
+Singapore,Corporates - Of Which: SME,Jun-20,,,4.23%,28.86%
+Singapore,Retail,Jun-20,0.04%,22.00%,0.82%,22.19%
+Singapore,Retail - Secured on real estate property,Jun-20,0.05%,3.26%,0.42%,16.08%
+Singapore,Retail - Qualifying Revolving,Jun-20,0.05%,43.30%,3.16%,71.26%
+Singapore,Retail - Other Retail,Jun-20,0.03%,51.61%,1.22%,16.92%
+Switzerland,Corporates,Jun-20,0.86%,1.71%,0.79%,33.03%
+Switzerland,Corporates - Of Which: Specialised Lending,Jun-20,,,0.64%,26.63%
+Switzerland,Corporates - Of Which: SME,Jun-20,,,1.91%,28.42%
+Switzerland,Retail,Jun-20,0.16%,16.76%,0.88%,19.14%
+Switzerland,Retail - Secured on real estate property,Jun-20,0.16%,11.59%,0.83%,19.32%
+Switzerland,Retail - Qualifying Revolving,Jun-20,0.52%,30.96%,1.84%,52.82%
+Switzerland,Retail - Other Retail,Jun-20,0.27%,27.97%,1.09%,16.80%
+United States,Corporates,Jun-20,0.60%,17.55%,1.20%,29.82%
+United States,Corporates - Of Which: Specialised Lending,Jun-20,1.67%,24.92%,2.37%,20.49%
+United States,Corporates - Of Which: SME,Jun-20,0.04%,,2.86%,21.93%
+United States,Retail,Jun-20,0.60%,13.72%,2.01%,48.07%
+United States,Retail - Secured on real estate property,Jun-20,0.15%,7.60%,0.98%,45.97%
+United States,Retail - Qualifying Revolving,Jun-20,0.02%,16.13%,2.52%,92.95%
+United States,Retail - Other Retail,Jun-20,1.78%,15.17%,2.75%,33.49%
+Austria,Corporates,Mar-20,0.09%,33.38%,1.09%,33.77%
+Austria,Corporates - Of Which: Specialised Lending,Mar-20,,,1.61%,10.60%
+Austria,Corporates - Of Which: SME,Mar-20,0.36%,,2.21%,30.45%
+Austria,Retail,Mar-20,0.17%,29.01%,1.40%,27.62%
+Austria,Retail - Secured on real estate property,Mar-20,0.15%,7.44%,1.23%,11.57%
+Austria,Retail - Qualifying Revolving,Mar-20,0.05%,48.74%,0.86%,64.86%
+Austria,Retail - Other Retail,Mar-20,0.20%,54.39%,1.90%,56.46%
+Belgium,Corporates,Mar-20,0.27%,10.69%,1.88%,26.36%
+Belgium,Corporates - Of Which: Specialised Lending,Mar-20,0.13%,8.38%,1.02%,23.60%
+Belgium,Corporates - Of Which: SME,Mar-20,0.55%,11.22%,2.46%,24.87%
+Belgium,Retail,Mar-20,0.36%,9.69%,1.19%,17.25%
+Belgium,Retail - Secured on real estate property,Mar-20,0.32%,4.01%,1.09%,13.30%
+Belgium,Retail - Qualifying Revolving,Mar-20,1.71%,5.85%,0.54%,49.07%
+Belgium,Retail - Other Retail,Mar-20,0.46%,25.67%,1.79%,32.94%
+Bulgaria,Corporates,Mar-20,0.09%,,2.08%,41.82%
+Bulgaria,Corporates - Of Which: Specialised Lending,Mar-20,,,30.28%,40.22%
+Bulgaria,Corporates - Of Which: SME,Mar-20,,,2.76%,40.46%
+Bulgaria,Retail,Mar-20,0.55%,47.33%,2.43%,33.15%
+Bulgaria,Retail - Secured on real estate property,Mar-20,0.42%,25.05%,2.00%,23.32%
+Bulgaria,Retail - Qualifying Revolving,Mar-20,0.37%,85.24%,2.87%,42.24%
+Bulgaria,Retail - Other Retail,Mar-20,0.88%,67.27%,3.50%,56.76%
+Croatia,Corporates,Mar-20,0.18%,,2.58%,39.92%
+Croatia,Corporates - Of Which: Specialised Lending,Mar-20,,,1.17%,20.15%
+Croatia,Corporates - Of Which: SME,Mar-20,,,4.11%,41.37%
+Croatia,Retail,Mar-20,0.61%,16.44%,2.15%,35.07%
+Croatia,Retail - Secured on real estate property,Mar-20,,,1.64%,29.46%
+Croatia,Retail - Qualifying Revolving,Mar-20,0.05%,,1.53%,62.13%
+Croatia,Retail - Other Retail,Mar-20,0.74%,16.15%,2.43%,38.18%
+Cyprus,Corporates,Mar-20,1.45%,,4.17%,33.94%
+Cyprus,Corporates - Of Which: Specialised Lending,Mar-20,,,1.29%,32.05%
+Cyprus,Corporates - Of Which: SME,Mar-20,,,3.10%,23.36%
+Cyprus,Retail,Mar-20,0.22%,33.41%,1.31%,25.58%
+Cyprus,Retail - Secured on real estate property,Mar-20,,,1.48%,14.09%
+Cyprus,Retail - Qualifying Revolving,Mar-20,0.49%,14.18%,1.36%,67.69%
+Cyprus,Retail - Other Retail,Mar-20,0.60%,53.45%,1.48%,27.17%
+Czech,Corporates,Mar-20,0.07%,62.77%,2.08%,33.19%
+Czech,Corporates - Of Which: Specialised Lending,Mar-20,0.03%,82.02%,1.52%,27.88%
+Czech,Corporates - Of Which: SME,Mar-20,0.16%,50.76%,2.66%,29.16%
+Czech,Retail,Mar-20,0.21%,35.22%,1.61%,27.09%
+Czech,Retail - Secured on real estate property,Mar-20,0.13%,18.89%,1.19%,20.34%
+Czech,Retail - Qualifying Revolving,Mar-20,0.38%,29.24%,3.30%,51.46%
+Czech,Retail - Other Retail,Mar-20,0.43%,48.32%,2.82%,44.05%
+Denmark,Corporates,Mar-20,0.21%,8.91%,1.32%,22.49%
+Denmark,Corporates - Of Which: Specialised Lending,Mar-20,,,1.30%,23.68%
+Denmark,Corporates - Of Which: SME,Mar-20,0.22%,,1.73%,19.55%
+Denmark,Retail,Mar-20,0.14%,14.45%,0.92%,18.29%
+Denmark,Retail - Secured on real estate property,Mar-20,0.13%,10.18%,0.85%,16.47%
+Denmark,Retail - Qualifying Revolving,Mar-20,0.69%,21.40%,1.49%,66.83%
+Denmark,Retail - Other Retail,Mar-20,0.18%,43.27%,2.02%,40.97%
+Estonia,Corporates,Mar-20,0.05%,22.49%,1.05%,41.25%
+Estonia,Corporates - Of Which: Specialised Lending,Mar-20,,,1.15%,30.45%
+Estonia,Corporates - Of Which: SME,Mar-20,0.04%,17.77%,1.53%,39.73%
+Estonia,Retail,Mar-20,0.06%,16.16%,1.48%,15.93%
+Estonia,Retail - Secured on real estate property,Mar-20,0.03%,7.05%,1.13%,12.58%
+Estonia,Retail - Qualifying Revolving,Mar-20,1.42%,,1.30%,56.08%
+Estonia,Retail - Other Retail,Mar-20,0.18%,21.89%,2.94%,30.31%
+Finland,Corporates,Mar-20,0.38%,25.80%,1.07%,35.42%
+Finland,Corporates - Of Which: Specialised Lending,Mar-20,,,0.53%,28.94%
+Finland,Corporates - Of Which: SME,Mar-20,0.51%,12.31%,1.50%,32.58%
+Finland,Retail,Mar-20,0.29%,2.20%,1.32%,22.99%
+Finland,Retail - Secured on real estate property,Mar-20,0.29%,1.89%,0.97%,20.51%
+Finland,Retail - Qualifying Revolving,Mar-20,0.76%,28.89%,1.71%,68.68%
+Finland,Retail - Other Retail,Mar-20,0.29%,4.78%,3.07%,33.07%
+France,Corporates,Mar-20,0.22%,31.43%,1.59%,35.21%
+France,Corporates - Of Which: Specialised Lending,Mar-20,0.03%,,0.92%,23.29%
+France,Corporates - Of Which: SME,Mar-20,0.48%,32.98%,2.58%,35.21%
+France,Retail,Mar-20,0.16%,22.54%,1.68%,17.90%
+France,Retail - Secured on real estate property,Mar-20,0.11%,11.12%,1.26%,13.13%
+France,Retail - Qualifying Revolving,Mar-20,0.24%,42.55%,3.06%,40.37%
+France,Retail - Other Retail,Mar-20,0.25%,30.28%,2.15%,23.71%
+Germany,Corporates,Mar-20,0.20%,37.36%,1.00%,36.97%
+Germany,Corporates - Of Which: Specialised Lending,Mar-20,0.38%,59.05%,1.16%,33.34%
+Germany,Corporates - Of Which: SME,Mar-20,0.17%,33.83%,1.16%,32.58%
+Germany,Retail,Mar-20,0.19%,20.96%,1.04%,27.71%
+Germany,Retail - Secured on real estate property,Mar-20,0.14%,8.11%,0.80%,17.03%
+Germany,Retail - Qualifying Revolving,Mar-20,0.15%,37.88%,0.64%,65.07%
+Germany,Retail - Other Retail,Mar-20,0.34%,34.03%,1.96%,46.12%
+Greece,Corporates,Mar-20,0.99%,9.96%,8.05%,40.33%
+Greece,Corporates - Of Which: Specialised Lending,Mar-20,,,6.85%,25.41%
+Greece,Corporates - Of Which: SME,Mar-20,,,9.03%,40.84%
+Greece,Retail,Mar-20,0.74%,29.96%,16.21%,36.72%
+Greece,Retail - Secured on real estate property,Mar-20,0.95%,,16.37%,27.97%
+Greece,Retail - Qualifying Revolving,Mar-20,0.20%,87.18%,6.10%,74.89%
+Greece,Retail - Other Retail,Mar-20,0.58%,45.85%,19.16%,47.60%
+Hungary,Corporates,Mar-20,0.02%,,1.93%,42.72%
+Hungary,Corporates - Of Which: Specialised Lending,Mar-20,,,1.50%,31.63%
+Hungary,Corporates - Of Which: SME,Mar-20,0.06%,,3.23%,46.71%
+Hungary,Retail,Mar-20,0.38%,25.64%,3.29%,41.63%
+Hungary,Retail - Secured on real estate property,Mar-20,0.36%,35.43%,2.47%,34.22%
+Hungary,Retail - Qualifying Revolving,Mar-20,0.94%,29.54%,5.05%,30.74%
+Hungary,Retail - Other Retail,Mar-20,0.39%,39.78%,4.38%,56.15%
+Ireland,Corporates,Mar-20,0.41%,13.29%,0.90%,33.04%
+Ireland,Corporates - Of Which: Specialised Lending,Mar-20,0.01%,,9.60%,29.21%
+Ireland,Corporates - Of Which: SME,Mar-20,1.19%,16.59%,2.74%,35.89%
+Ireland,Retail,Mar-20,0.50%,18.67%,2.09%,27.25%
+Ireland,Retail - Secured on real estate property,Mar-20,0.52%,17.10%,1.89%,24.46%
+Ireland,Retail - Qualifying Revolving,Mar-20,0.16%,23.81%,2.67%,61.59%
+Ireland,Retail - Other Retail,Mar-20,0.51%,47.91%,4.32%,62.37%
+Italy,Corporates,Mar-20,0.23%,23.08%,5.28%,38.39%
+Italy,Corporates - Of Which: Specialised Lending,Mar-20,0.21%,,3.18%,21.41%
+Italy,Corporates - Of Which: SME,Mar-20,0.40%,25.43%,8.83%,40.19%
+Italy,Retail,Mar-20,1.04%,43.56%,2.24%,26.40%
+Italy,Retail - Secured on real estate property,Mar-20,0.84%,36.03%,1.52%,18.81%
+Italy,Retail - Qualifying Revolving,Mar-20,0.14%,24.34%,3.85%,57.74%
+Italy,Retail - Other Retail,Mar-20,1.44%,51.84%,5.30%,42.43%
+Latvia,Corporates,Mar-20,,,1.61%,42.85%
+Latvia,Corporates - Of Which: Specialised Lending,Mar-20,,,,54.58%
+Latvia,Corporates - Of Which: SME,Mar-20,,,1.79%,39.58%
+Latvia,Retail,Mar-20,0.11%,20.04%,2.84%,24.88%
+Latvia,Retail - Secured on real estate property,Mar-20,0.11%,16.43%,2.28%,18.63%
+Latvia,Retail - Qualifying Revolving,Mar-20,6.45%,,3.91%,58.47%
+Latvia,Retail - Other Retail,Mar-20,0.12%,28.57%,4.36%,42.62%
+Lithuania,Corporates,Mar-20,,,1.25%,41.73%
+Lithuania,Corporates - Of Which: Specialised Lending,Mar-20,,,,
+Lithuania,Corporates - Of Which: SME,Mar-20,,,1.60%,39.29%
+Lithuania,Retail,Mar-20,0.67%,39.23%,1.47%,18.55%
+Lithuania,Retail - Secured on real estate property,Mar-20,0.74%,39.04%,1.26%,15.68%
+Lithuania,Retail - Qualifying Revolving,Mar-20,1.34%,29.18%,2.27%,56.12%
+Lithuania,Retail - Other Retail,Mar-20,0.32%,41.68%,2.76%,37.69%
+Luxembourg,Corporates,Mar-20,0.20%,10.02%,0.97%,33.94%
+Luxembourg,Corporates - Of Which: Specialised Lending,Mar-20,0.82%,10.89%,1.11%,26.93%
+Luxembourg,Corporates - Of Which: SME,Mar-20,0.36%,,2.34%,30.21%
+Luxembourg,Retail,Mar-20,0.10%,11.66%,1.20%,16.36%
+Luxembourg,Retail - Secured on real estate property,Mar-20,0.06%,2.17%,1.07%,14.72%
+Luxembourg,Retail - Qualifying Revolving,Mar-20,0.05%,34.83%,0.74%,6.50%
+Luxembourg,Retail - Other Retail,Mar-20,0.32%,18.59%,2.06%,24.10%
+Malta,Corporates,Mar-20,4.43%,,5.59%,24.35%
+Malta,Corporates - Of Which: Specialised Lending,Mar-20,,,3.49%,20.17%
+Malta,Corporates - Of Which: SME,Mar-20,,,0.77%,28.26%
+Malta,Retail,Mar-20,0.11%,27.86%,1.49%,9.77%
+Malta,Retail - Secured on real estate property,Mar-20,,,2.14%,15.45%
+Malta,Retail - Qualifying Revolving,Mar-20,,,1.31%,69.90%
+Malta,Retail - Other Retail,Mar-20,0.37%,33.80%,1.22%,5.91%
+Netherlands,Corporates,Mar-20,0.29%,15.09%,1.39%,27.33%
+Netherlands,Corporates - Of Which: Specialised Lending,Mar-20,0.25%,,1.37%,15.41%
+Netherlands,Corporates - Of Which: SME,Mar-20,0.92%,,2.65%,19.12%
+Netherlands,Retail,Mar-20,0.22%,7.54%,0.75%,12.90%
+Netherlands,Retail - Secured on real estate property,Mar-20,0.21%,4.45%,0.67%,11.14%
+Netherlands,Retail - Qualifying Revolving,Mar-20,0.11%,59.20%,3.02%,59.40%
+Netherlands,Retail - Other Retail,Mar-20,0.45%,31.61%,2.48%,43.88%
+Norway,Corporates,Mar-20,0.35%,17.57%,1.41%,27.14%
+Norway,Corporates - Of Which: Specialised Lending,Mar-20,,,1.68%,20.75%
+Norway,Corporates - Of Which: SME,Mar-20,0.26%,17.43%,1.11%,24.12%
+Norway,Retail,Mar-20,0.08%,13.85%,0.98%,21.39%
+Norway,Retail - Secured on real estate property,Mar-20,0.05%,6.27%,0.76%,19.70%
+Norway,Retail - Qualifying Revolving,Mar-20,0.33%,39.69%,1.17%,63.01%
+Norway,Retail - Other Retail,Mar-20,0.25%,19.73%,2.31%,31.70%
+Poland,Corporates,Mar-20,0.24%,31.87%,1.49%,37.85%
+Poland,Corporates - Of Which: Specialised Lending,Mar-20,,,1.00%,43.24%
+Poland,Corporates - Of Which: SME,Mar-20,0.33%,,1.95%,33.10%
+Poland,Retail,Mar-20,0.35%,34.23%,1.65%,35.89%
+Poland,Retail - Secured on real estate property,Mar-20,0.19%,30.29%,0.80%,30.62%
+Poland,Retail - Qualifying Revolving,Mar-20,0.49%,56.30%,2.56%,64.34%
+Poland,Retail - Other Retail,Mar-20,0.68%,34.45%,3.73%,44.99%
+Portugal,Corporates,Mar-20,0.74%,33.86%,3.23%,41.08%
+Portugal,Corporates - Of Which: Specialised Lending,Mar-20,,,1.99%,32.70%
+Portugal,Corporates - Of Which: SME,Mar-20,1.50%,21.33%,5.40%,40.09%
+Portugal,Retail,Mar-20,0.31%,16.75%,1.66%,20.50%
+Portugal,Retail - Secured on real estate property,Mar-20,0.21%,5.36%,1.33%,17.72%
+Portugal,Retail - Qualifying Revolving,Mar-20,0.26%,24.33%,4.66%,38.11%
+Portugal,Retail - Other Retail,Mar-20,0.74%,29.41%,3.26%,32.52%
+Romania,Corporates,Mar-20,2.51%,,2.60%,40.43%
+Romania,Corporates - Of Which: Specialised Lending,Mar-20,,,1.80%,30.03%
+Romania,Corporates - Of Which: SME,Mar-20,5.34%,,3.51%,41.47%
+Romania,Retail,Mar-20,0.59%,52.96%,1.78%,48.37%
+Romania,Retail - Secured on real estate property,Mar-20,0.22%,,0.86%,35.63%
+Romania,Retail - Qualifying Revolving,Mar-20,0.24%,50.96%,1.26%,50.78%
+Romania,Retail - Other Retail,Mar-20,1.14%,56.32%,2.34%,59.25%
+Slovakia,Corporates,Mar-20,0.54%,83.88%,1.64%,41.26%
+Slovakia,Corporates - Of Which: Specialised Lending,Mar-20,,,1.17%,28.00%
+Slovakia,Corporates - Of Which: SME,Mar-20,1.52%,83.35%,3.55%,41.37%
+Slovakia,Retail,Mar-20,0.20%,43.69%,1.27%,24.48%
+Slovakia,Retail - Secured on real estate property,Mar-20,0.14%,27.71%,0.94%,20.71%
+Slovakia,Retail - Qualifying Revolving,Mar-20,0.25%,54.14%,2.94%,54.84%
+Slovakia,Retail - Other Retail,Mar-20,0.56%,66.70%,3.26%,44.59%
+Slovenia,Corporates,Mar-20,0.10%,,4.03%,40.44%
+Slovenia,Corporates - Of Which: Specialised Lending,Mar-20,,,1.23%,
+Slovenia,Corporates - Of Which: SME,Mar-20,0.39%,,4.50%,42.26%
+Slovenia,Retail,Mar-20,0.94%,36.08%,2.42%,24.71%
+Slovenia,Retail - Secured on real estate property,Mar-20,,,2.10%,17.65%
+Slovenia,Retail - Qualifying Revolving,Mar-20,,,2.16%,60.90%
+Slovenia,Retail - Other Retail,Mar-20,1.19%,36.09%,2.46%,29.22%
+Spain,Corporates,Mar-20,0.34%,20.82%,2.12%,38.89%
+Spain,Corporates - Of Which: Specialised Lending,Mar-20,0.26%,,1.57%,22.56%
+Spain,Corporates - Of Which: SME,Mar-20,0.50%,32.39%,2.55%,40.40%
+Spain,Retail,Mar-20,0.33%,30.96%,1.87%,29.09%
+Spain,Retail - Secured on real estate property,Mar-20,0.22%,15.79%,1.34%,20.69%
+Spain,Retail - Qualifying Revolving,Mar-20,0.26%,51.40%,2.76%,61.19%
+Spain,Retail - Other Retail,Mar-20,0.78%,44.21%,3.01%,53.26%
+Sweden,Corporates,Mar-20,0.07%,20.02%,0.70%,24.90%
+Sweden,Corporates - Of Which: Specialised Lending,Mar-20,,,1.56%,28.12%
+Sweden,Corporates - Of Which: SME,Mar-20,0.13%,25.69%,0.72%,17.61%
+Sweden,Retail,Mar-20,0.04%,13.83%,0.36%,12.57%
+Sweden,Retail - Secured on real estate property,Mar-20,0.02%,4.26%,0.29%,10.92%
+Sweden,Retail - Qualifying Revolving,Mar-20,0.46%,25.18%,1.50%,59.43%
+Sweden,Retail - Other Retail,Mar-20,0.19%,27.97%,1.47%,34.36%
+United Kingdom,Corporates,Mar-20,0.24%,12.14%,1.21%,35.64%
+United Kingdom,Corporates - Of Which: Specialised Lending,Mar-20,0.82%,6.23%,1.09%,30.09%
+United Kingdom,Corporates - Of Which: SME,Mar-20,0.62%,5.26%,2.33%,28.19%
+United Kingdom,Retail,Mar-20,0.16%,22.73%,1.54%,20.63%
+United Kingdom,Retail - Secured on real estate property,Mar-20,0.10%,5.57%,1.37%,10.48%
+United Kingdom,Retail - Qualifying Revolving,Mar-20,0.28%,43.70%,1.98%,71.28%
+United Kingdom,Retail - Other Retail,Mar-20,0.53%,35.11%,3.15%,59.78%
+Australia,Corporates,Mar-20,0.28%,,0.90%,29.94%
+Australia,Corporates - Of Which: Specialised Lending,Mar-20,,,0.80%,18.73%
+Australia,Corporates - Of Which: SME,Mar-20,,,1.00%,11.86%
+Australia,Retail,Mar-20,0.09%,6.36%,0.65%,11.68%
+Australia,Retail - Secured on real estate property,Mar-20,0.10%,3.55%,0.61%,11.12%
+Australia,Retail - Qualifying Revolving,Mar-20,0.10%,21.45%,1.08%,62.72%
+Australia,Retail - Other Retail,Mar-20,0.73%,17.31%,1.75%,24.45%
+Canada,Corporates,Mar-20,0.15%,,1.06%,35.80%
+Canada,Corporates - Of Which: Specialised Lending,Mar-20,,,1.16%,23.88%
+Canada,Corporates - Of Which: SME,Mar-20,,,2.09%,21.38%
+Canada,Retail,Mar-20,0.09%,7.71%,0.66%,19.33%
+Canada,Retail - Secured on real estate property,Mar-20,0.04%,,0.47%,17.45%
+Canada,Retail - Qualifying Revolving,Mar-20,0.18%,8.53%,1.81%,68.06%
+Canada,Retail - Other Retail,Mar-20,0.51%,12.29%,2.13%,29.34%
+China,Corporates,Mar-20,1.75%,,0.72%,48.23%
+China,Corporates - Of Which: Specialised Lending,Mar-20,,,1.14%,35.90%
+China,Corporates - Of Which: SME,Mar-20,,,3.46%,32.92%
+China,Retail,Mar-20,0.02%,7.32%,1.01%,24.76%
+China,Retail - Secured on real estate property,Mar-20,0.36%,,0.62%,11.76%
+China,Retail - Qualifying Revolving,Mar-20,0.35%,34.66%,0.83%,83.47%
+China,Retail - Other Retail,Mar-20,0.05%,6.86%,1.82%,14.54%
+Hong Kong,Corporates,Mar-20,0.07%,16.07%,0.92%,36.19%
+Hong Kong,Corporates - Of Which: Specialised Lending,Mar-20,,,1.45%,21.01%
+Hong Kong,Corporates - Of Which: SME,Mar-20,0.40%,,4.74%,19.53%
+Hong Kong,Retail,Mar-20,0.00%,26.83%,0.71%,33.64%
+Hong Kong,Retail - Secured on real estate property,Mar-20,0.00%,,0.41%,10.11%
+Hong Kong,Retail - Qualifying Revolving,Mar-20,0.00%,44.20%,0.98%,96.11%
+Hong Kong,Retail - Other Retail,Mar-20,0.00%,30.78%,1.48%,22.57%
+India,Corporates,Mar-20,1.32%,,1.68%,45.17%
+India,Corporates - Of Which: Specialised Lending,Mar-20,,,2.12%,14.73%
+India,Corporates - Of Which: SME,Mar-20,,,1.08%,35.13%
+India,Retail,Mar-20,0.86%,95.99%,6.19%,53.17%
+India,Retail - Secured on real estate property,Mar-20,0.21%,,2.24%,36.35%
+India,Retail - Qualifying Revolving,Mar-20,0.01%,22.79%,11.28%,79.51%
+India,Retail - Other Retail,Mar-20,2.73%,54.54%,4.73%,56.97%
+"Korea, Republic Of",Corporates,Mar-20,0.02%,,0.57%,37.62%
+"Korea, Republic Of",Corporates - Of Which: Specialised Lending,Mar-20,,,0.62%,20.48%
+"Korea, Republic Of",Corporates - Of Which: SME,Mar-20,,,3.22%,16.55%
+"Korea, Republic Of",Retail,Mar-20,0.01%,85.87%,0.92%,36.92%
+"Korea, Republic Of",Retail - Secured on real estate property,Mar-20,,,0.21%,9.98%
+"Korea, Republic Of",Retail - Qualifying Revolving,Mar-20,0.07%,,0.49%,75.18%
+"Korea, Republic Of",Retail - Other Retail,Mar-20,0.04%,85.88%,2.22%,77.84%
+Russian Federation,Corporates,Mar-20,0.00%,,0.59%,39.32%
+Russian Federation,Corporates - Of Which: Specialised Lending,Mar-20,,,1.01%,23.27%
+Russian Federation,Corporates - Of Which: SME,Mar-20,,,2.38%,43.44%
+Russian Federation,Retail,Mar-20,0.84%,24.51%,2.78%,19.39%
+Russian Federation,Retail - Secured on real estate property,Mar-20,1.40%,21.00%,2.01%,18.81%
+Russian Federation,Retail - Qualifying Revolving,Mar-20,0.22%,48.04%,1.90%,61.36%
+Russian Federation,Retail - Other Retail,Mar-20,0.89%,60.50%,5.32%,19.40%
+Singapore,Corporates,Mar-20,0.85%,70.13%,1.63%,32.00%
+Singapore,Corporates - Of Which: Specialised Lending,Mar-20,,,2.42%,22.06%
+Singapore,Corporates - Of Which: SME,Mar-20,,,2.93%,25.78%
+Singapore,Retail,Mar-20,0.00%,23.61%,1.02%,22.02%
+Singapore,Retail - Secured on real estate property,Mar-20,0.01%,,0.30%,15.72%
+Singapore,Retail - Qualifying Revolving,Mar-20,0.17%,25.01%,3.24%,72.11%
+Singapore,Retail - Other Retail,Mar-20,0.00%,61.09%,2.78%,16.49%
+Switzerland,Corporates,Mar-20,0.89%,1.50%,0.66%,32.63%
+Switzerland,Corporates - Of Which: Specialised Lending,Mar-20,,,0.45%,27.24%
+Switzerland,Corporates - Of Which: SME,Mar-20,,,1.07%,29.55%
+Switzerland,Retail,Mar-20,0.08%,13.24%,1.59%,19.45%
+Switzerland,Retail - Secured on real estate property,Mar-20,0.08%,7.94%,0.86%,19.49%
+Switzerland,Retail - Qualifying Revolving,Mar-20,0.32%,30.79%,1.79%,54.14%
+Switzerland,Retail - Other Retail,Mar-20,0.14%,21.61%,3.78%,18.57%
+United States,Corporates,Mar-20,0.14%,39.82%,0.99%,30.23%
+United States,Corporates - Of Which: Specialised Lending,Mar-20,0.36%,,2.45%,20.23%
+United States,Corporates - Of Which: SME,Mar-20,0.01%,,2.87%,20.72%
+United States,Retail,Mar-20,0.24%,12.35%,1.87%,49.04%
+United States,Retail - Secured on real estate property,Mar-20,0.07%,11.23%,0.90%,45.99%
+United States,Retail - Qualifying Revolving,Mar-20,0.01%,11.32%,2.70%,92.99%
+United States,Retail - Other Retail,Mar-20,0.70%,13.83%,2.34%,35.71%
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
